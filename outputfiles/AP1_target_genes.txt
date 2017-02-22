@@ -1,0 +1,256 @@
+	AT1G01110	AP1	IQ-domain 18	GSE46986
+	AT1G01115	AP1		GSE46986
+	AT1G02060	AP1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE46986
+	AT1G02065	AP1	squamosa promoter binding protein-like 8	GSE46986
+	AT1G04250	AP1	AUX/IAA transcriptional regulator family protein	GSE46986
+	AT1G05100	AP1	mitogen-activated protein kinase kinase kinase 18	GSE46986
+	AT1G05700	AP1	Leucine-rich repeat transmembrane protein kinase protein	GSE46986
+	AT1G05710	AP1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE46986
+	AT1G13720	AP1	pre-tRNA	GSE46986
+	AT1G13730	AP1	Nuclear transport factor 2 (NTF2) family protein with RNA binding (RRM-RBD-RNP motifs) domain	GSE46986
+	AT1G14760	AP1	KNOX Arabidopsis thaliana meinox	GSE46986
+	AT1G14770	AP1	RING/FYVE/PHD zinc finger superfamily protein	GSE46986
+	AT1G18740	AP1	Protein of unknown function (DUF793)	GSE46986
+	AT1G18745	AP1		GSE46986
+	AT1G18750	AP1	AGAMOUS-like 65	GSE46986
+	AT1G19800	AP1	trigalactosyldiacylglycerol 1	GSE46986
+	AT1G21320	AP1	nucleotide binding;nucleic acid binding	GSE46986
+	AT1G22040	AP1	Galactose oxidase/kelch repeat superfamily protein	GSE46986
+	AT1G23070	AP1	Protein of unknown function (DUF300)	GSE46986
+	AT1G23074	AP1		GSE46986
+	AT1G23360	AP1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	GSE46986
+	AT1G23380	AP1	KNOTTED1-like homeobox gene 6	GSE46986
+	AT1G24260	AP1	K-box region and MADS-box transcription factor family protein	GSE46986
+	AT1G24265	AP1	Protein of unknown function (DUF1664)	GSE46986
+	AT1G24590	AP1	DORNROSCHEN-like	GSE46986
+	AT1G24600	AP1		GSE46986
+	AT1G24620	AP1	EF hand calcium-binding protein family	GSE46986
+	AT1G24625	AP1	zinc finger protein 7	GSE46986
+	AT1G25425	AP1	CLAVATA3/ESR-RELATED 43	GSE46986
+	AT1G26771	AP1		GSE46986
+	AT1G26773	AP1		GSE46986
+	AT1G26780	AP1	myb domain protein 117	GSE46986
+	AT1G28360	AP1	ERF domain protein 12	GSE46986
+	AT1G28440	AP1	HAESA-like 1	GSE46986
+	AT1G29270	AP1		GSE46986
+	AT1G30016	AP1		GSE46986
+	AT1G30320	AP1	Remorin family protein	GSE46986
+	AT1G30490	AP1	Homeobox-leucine zipper family protein / lipid-binding START domain-containing protein	GSE46986
+	AT1G30950	AP1	F-box family protein	GSE46986
+	AT1G37140	AP1	MEI2 C-terminal RRM only like 1	GSE46986
+	AT1G48330	AP1		GSE46986
+	AT1G50420	AP1	scarecrow-like 3	GSE46986
+	AT1G50430	AP1	Ergosterol biosynthesis ERG4/ERG24 family	GSE46986
+	AT1G53160	AP1	squamosa promoter binding protein-like 4	GSE46986
+	AT1G56030	AP1	RING/U-box superfamily protein	GSE46986
+	AT1G66330	AP1	senescence-associated family protein	GSE46986
+	AT1G66340	AP1	Signal transduction histidine kinase, hybrid-type, ethylene sensor	GSE46986
+	AT1G67040	AP1		GSE46986
+	AT1G68500	AP1		GSE46986
+	AT1G69020	AP1	Prolyl oligopeptidase family protein	GSE46986
+	AT1G69030	AP1	BSD domain-containing protein	GSE46986
+	AT1G69120	AP1	K-box region and MADS-box transcription factor family protein	GSE46986
+	AT1G69130	AP1	pre-tRNA	GSE46986
+	AT1G69180	AP1	Plant-specific transcription factor YABBY family protein	GSE46986
+	AT1G69760	AP1		GSE46986
+	AT1G74430	AP1	myb domain protein 95	GSE46986
+	AT1G74440	AP1	Protein of unknown function (DUF962)	GSE46986
+	AT1G75820	AP1	Leucine-rich receptor-like protein kinase family protein	GSE46986
+	AT1G78440	AP1	Arabidopsis thaliana gibberellin 2-oxidase 1	GSE46986
+	AT1G79060	AP1		GSE46986
+	AT1G79070	AP1	SNARE-associated protein-related	GSE46986
+	AT1G79075	AP1	other RNA	GSE46986
+	AT1G79120	AP1	Ubiquitin carboxyl-terminal hydrolase family protein	GSE46986
+	AT2G01940	AP1	C2H2-like zinc finger protein	GSE46986
+	AT2G01990	AP1		GSE46986
+	AT2G02080	AP1	indeterminate(ID)-domain 4	GSE46986
+	AT2G19450	AP1	membrane bound O-acyl transferase (MBOAT) family protein	GSE46986
+	AT2G19460	AP1	Protein of unknown function (DUF3511)	GSE46986
+	AT2G21660	AP1	cold, circadian rhythm, and rna binding 2	GSE46986
+	AT2G21680	AP1	Galactose oxidase/kelch repeat superfamily protein	GSE46986
+	AT2G22530	AP1	Alkaline-phosphatase-like family protein	GSE46986
+	AT2G22540	AP1	K-box region and MADS-box transcription factor family protein	GSE46986
+	AT2G22680	AP1	Zinc finger (C3HC4-type RING finger) family protein	GSE46986
+	AT2G28150	AP1	Domain of unknown function (DUF966)	GSE46986
+	AT2G28160	AP1	FER-like regulator of iron uptake	GSE46986
+	AT2G28610	AP1	Homeodomain-like superfamily protein	GSE46986
+	AT2G30360	AP1	SOS3-interacting protein 4	GSE46986
+	AT2G30370	AP1	allergen-related	GSE46986
+	AT2G33860	AP1	Transcriptional factor B3 family protein / auxin-responsive factor AUX/IAA-related	GSE46986
+	AT2G33870	AP1	RAB GTPase homolog A1H	GSE46986
+	AT2G33880	AP1	homeobox-3	GSE46986
+	AT2G34650	AP1	Protein kinase superfamily protein	GSE46986
+	AT2G34655	AP1		GSE46986
+	AT2G36400	AP1	growth-regulating factor 3	GSE46986
+	AT2G37200	AP1	Uncharacterised protein family (UPF0497)	GSE46986
+	AT2G37210	AP1	lysine decarboxylase family protein	GSE46986
+	AT2G37630	AP1	myb-like HTH transcriptional regulator family protein	GSE46986
+	AT2G37940	AP1	Arabidopsis Inositol phosphorylceramide synthase 2	GSE46986
+	AT2G39860	AP1	pre-tRNA	GSE46986
+	AT2G39865	AP1		GSE46986
+	AT2G39870	AP1		GSE46986
+	AT2G41370	AP1	Ankyrin repeat family protein / BTB/POZ domain-containing protein	GSE46986
+	AT2G41380	AP1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	GSE46986
+	AT2G41820	AP1	Leucine-rich repeat protein kinase family protein	GSE46986
+	AT2G42800	AP1	receptor like protein 29	GSE46986
+	AT2G42820	AP1	HVA22-like protein F	GSE46986
+	AT2G42830	AP1	K-box region and MADS-box transcription factor family protein	GSE46986
+	AT2G45640	AP1	SIN3 associated polypeptide P18	GSE46986
+	AT2G45650	AP1	AGAMOUS-like 6	GSE46986
+	AT2G45660	AP1	AGAMOUS-like 20	GSE46986
+	AT2G45850	AP1	AT hook motif DNA-binding family protein	GSE46986
+	AT2G45860	AP1		GSE46986
+	AT2G45870	AP1	Bestrophin-like protein	GSE46986
+	AT2G46720	AP1	3-ketoacyl-CoA synthase 13	GSE46986
+	AT3G02110	AP1	serine carboxypeptidase-like 25	GSE46986
+	AT3G02120	AP1	hydroxyproline-rich glycoprotein family protein	GSE46986
+	AT3G02125	AP1		GSE46986
+	AT3G02910	AP1	AIG2-like (avirulence induced gene) family protein	GSE46986
+	AT3G04510	AP1	Protein of unknown function (DUF640)	GSE46986
+	AT3G04520	AP1	threonine aldolase 2	GSE46986
+	AT3G04780	AP1	Protein of unknown function (DUF1000)	GSE46986
+	AT3G04790	AP1	Ribose 5-phosphate isomerase, type A protein	GSE46986
+	AT3G04800	AP1	translocase inner membrane subunit 23-3	GSE46986
+	AT3G04810	AP1	NIMA-related kinase 2	GSE46986
+	AT3G12920	AP1	SBP (S-ribonuclease binding protein) family protein	GSE46986
+	AT3G13000	AP1	Protein of unknown function, DUF547	GSE46986
+	AT3G13950	AP1		GSE46986
+	AT3G13960	AP1	growth-regulating factor 5	GSE46986
+	AT3G17998	AP1	conserved peptide upstream open reading frame 30	GSE46986
+	AT3G18000	AP1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	GSE46986
+	AT3G18550	AP1	TCP family transcription factor	GSE46986
+	AT3G27660	AP1	oleosin 4	GSE46986
+	AT3G27670	AP1	ARM repeat superfamily protein	GSE46986
+	AT3G48690	AP1	alpha/beta-Hydrolases superfamily protein	GSE46986
+	AT3G48700	AP1	carboxyesterase 13	GSE46986
+	AT3G48710	AP1	DEK domain-containing chromatin associated protein	GSE46986
+	AT3G50400	AP1	GDSL-like Lipase/Acylhydrolase superfamily protein	GSE46986
+	AT3G50410	AP1	OBF binding protein 1	GSE46986
+	AT3G54210	AP1	Ribosomal protein L17 family protein	GSE46986
+	AT3G54220	AP1	GRAS family transcription factor	GSE46986
+	AT3G54990	AP1	Integrase-type DNA-binding superfamily protein	GSE46986
+	AT3G55000	AP1	tonneau family protein	GSE46986
+	AT3G55512	AP1	MIR172D; miRNA	GSE46986
+	AT3G55560	AP1	AT-hook protein of GA feedback 2	GSE46986
+	AT3G55566	AP1		GSE46986
+	AT3G55880	AP1	Alpha/beta hydrolase related protein	GSE46986
+	AT3G55890	AP1	Yippee family putative zinc-binding protein	GSE46986
+	AT3G55980	AP1	salt-inducible zinc finger 1	GSE46986
+	AT3G55990	AP1	Plant protein of unknown function (DUF828)	GSE46986
+	AT3G57130	AP1	Ankyrin repeat family protein / BTB/POZ domain-containing protein	GSE46986
+	AT3G57390	AP1	AGAMOUS-like 18	GSE46986
+	AT3G57550	AP1	guanylate kinase	GSE46986
+	AT3G57570	AP1	ARM repeat superfamily protein	GSE46986
+	AT3G60390	AP1	homeobox-leucine zipper protein 3	GSE46986
+	AT3G60400	AP1	Mitochondrial transcription termination factor family protein	GSE46986
+	AT3G61150	AP1	homeodomain GLABROUS 1	GSE46986
+	AT3G61160	AP1	Protein kinase superfamily protein	GSE46986
+	AT3G61240	AP1	DEA(D/H)-box RNA helicase family protein	GSE46986
+	AT3G61250	AP1	myb domain protein 17	GSE46986
+	AT3G61897	AP1	MIR166/MIR166B; miRNA	GSE46986
+	AT3G61898	AP1		GSE46986
+	AT3G63010	AP1	alpha/beta-Hydrolases superfamily protein	GSE46986
+	AT3G63020	AP1	Protein of unknown function (DUF3049)	GSE46986
+	AT3G63440	AP1	cytokinin oxidase/dehydrogenase 6	GSE46986
+	AT3G63445	AP1	other RNA	GSE46986
+	AT3G63530	AP1	RING/U-box superfamily protein	GSE46986
+	AT3G63540	AP1	Mog1/PsbP/DUF1795-like photosystem II reaction center PsbP family protein	GSE46986
+	AT4G02075	AP1	RING/FYVE/PHD zinc finger superfamily protein	GSE46986
+	AT4G03205	AP1	Coproporphyrinogen III oxidase	GSE46986
+	AT4G03210	AP1	xyloglucan endotransglucosylase/hydrolase 9	GSE46986
+	AT4G03220	AP1	Protein with RNI-like/FBD-like domains	GSE46986
+	AT4G04630	AP1	Protein of unknown function, DUF584	GSE46986
+	AT4G13530	AP1		GSE46986
+	AT4G13540	AP1		GSE46986
+	AT4G14740	AP1	Plant protein of unknown function (DUF828) with plant pleckstrin homology-like region	GSE46986
+	AT4G17695	AP1	Homeodomain-like superfamily protein	GSE46986
+	AT4G22840	AP1	Sodium Bile acid symporter family	GSE46986
+	AT4G22850	AP1	SNARE associated Golgi protein family	GSE46986
+	AT4G22860	AP1	Cell cycle regulated microtubule associated protein	GSE46986
+	AT4G23050	AP1	PAS domain-containing protein tyrosine kinase family protein	GSE46986
+	AT4G25470	AP1	C-repeat/DRE binding factor 2	GSE46986
+	AT4G25480	AP1	dehydration response element B1A	GSE46986
+	AT4G25490	AP1	C-repeat/DRE binding factor 1	GSE46986
+	AT4G28560	AP1	ROP-interactive CRIB motif-containing protein 7	GSE46986
+	AT4G28564	AP1		GSE46986
+	AT4G28570	AP1	Long-chain fatty alcohol dehydrogenase family protein	GSE46986
+	AT4G28730	AP1	Glutaredoxin family protein	GSE46986
+	AT4G32020	AP1		GSE46986
+	AT4G32030	AP1		GSE46986
+	AT4G32800	AP1	Integrase-type DNA-binding superfamily protein	GSE46986
+	AT4G32980	AP1	homeobox gene 1	GSE46986
+	AT4G32990	AP1	Transducin/WD40 repeat-like superfamily protein	GSE46986
+	AT4G35900	AP1	Basic-leucine zipper (bZIP) transcription factor family protein	GSE46986
+	AT4G35905	AP1		GSE46986
+	AT4G36240	AP1	GATA transcription factor 7	GSE46986
+	AT4G36250	AP1	aldehyde dehydrogenase 3F1	GSE46986
+	AT4G36870	AP1	BEL1-like homeodomain 2	GSE46986
+	AT4G36910	AP1	Cystathionine beta-synthase (CBS) family protein	GSE46986
+	AT4G36920	AP1	Integrase-type DNA-binding superfamily protein	GSE46986
+	AT4G36925	AP1		GSE46986
+	AT4G36970	AP1	Remorin family protein	GSE46986
+	AT4G37650	AP1	GRAS family transcription factor	GSE46986
+	AT4G37810	AP1		GSE46986
+	AT4G37820	AP1		GSE46986
+	AT4G39070	AP1	B-box zinc finger family protein	GSE46986
+	AT4G39080	AP1	vacuolar proton ATPase A3	GSE46986
+	AT5G03140	AP1	Concanavalin A-like lectin protein kinase family protein	GSE46986
+	AT5G05820	AP1	Nucleotide-sugar transporter family protein	GSE46986
+	AT5G06250	AP1	AP2/B3-like transcriptional factor family protein	GSE46986
+	AT5G06370	AP1	NC domain-containing protein-related	GSE46986
+	AT5G06380	AP1		GSE46986
+	AT5G06390	AP1	FASCICLIN-like arabinogalactan protein 17 precursor	GSE46986
+	AT5G07180	AP1	ERECTA-like 2	GSE46986
+	AT5G07571	AP1	Oleosin family protein	GSE46986
+	AT5G07580	AP1	Integrase-type DNA-binding superfamily protein	GSE46986
+	AT5G08710	AP1	Regulator of chromosome condensation (RCC1) family protein	GSE46986
+	AT5G08712	AP1	MIR166/MIR166C; miRNA	GSE46986
+	AT5G08717	AP1	MIR166/MIR166D; miRNA	GSE46986
+	AT5G08720	AP1		GSE46986
+	AT5G09800	AP1	ARM repeat superfamily protein	GSE46986
+	AT5G09805	AP1	inflorescence deficient in abscission (IDA)-like 3	GSE46986
+	AT5G10310	AP1		GSE46986
+	AT5G10510	AP1	AINTEGUMENTA-like 6	GSE46986
+	AT5G10970	AP1	C2H2 and C2HC zinc fingers superfamily protein	GSE46986
+	AT5G10990	AP1	SAUR-like auxin-responsive protein family	GSE46986
+	AT5G11000	AP1	Plant protein of unknown function (DUF868)	GSE46986
+	AT5G11150	AP1	vesicle-associated membrane protein 713	GSE46986
+	AT5G11160	AP1	adenine phosphoribosyltransferase 5	GSE46986
+	AT5G11170	AP1	DEAD/DEAH box RNA helicase family protein	GSE46986
+	AT5G13780	AP1	Acyl-CoA N-acyltransferases (NAT) superfamily protein	GSE46986
+	AT5G13790	AP1	AGAMOUS-like 15	GSE46986
+	AT5G13800	AP1	pheophytinase	GSE46986
+	AT5G14230	AP1		GSE46986
+	AT5G17070	AP1		GSE46986
+	AT5G17073	AP1		GSE46986
+	AT5G17080	AP1	Cysteine proteinases superfamily protein	GSE46986
+	AT5G18570	AP1	GTP1/OBG family protein	GSE46986
+	AT5G20635	AP1		GSE46986
+	AT5G23000	AP1	myb domain protein 37	GSE46986
+	AT5G23260	AP1	K-box region and MADS-box transcription factor family protein	GSE46986
+	AT5G24830	AP1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE46986
+	AT5G24910	AP1	cytochrome P450, family 714, subfamily A, polypeptide 1	GSE46986
+	AT5G27680	AP1	RECQ helicase SIM	GSE46986
+	AT5G28490	AP1	Protein of unknown function (DUF640)	GSE46986
+	AT5G28491	AP1		GSE46986
+	AT5G28640	AP1	SSXT family protein	GSE46986
+	AT5G35770	AP1	Transducin/WD40 repeat-like superfamily protein	GSE46986
+	AT5G41380	AP1	CCT motif family protein	GSE46986
+	AT5G41390	AP1	PLAC8 family protein	GSE46986
+	AT5G44620	AP1	cytochrome P450, family 706, subfamily A, polypeptide 3	GSE46986
+	AT5G44630	AP1	Terpenoid cyclases/Protein prenyltransferases superfamily protein	GSE46986
+	AT5G46690	AP1	beta HLH protein 71	GSE46986
+	AT5G53640	AP1		GSE46986
+	AT5G53660	AP1	growth-regulating factor 7	GSE46986
+	AT5G54390	AP1	HAL2-like	GSE46986
+	AT5G55170	AP1	small ubiquitin-like modifier 3	GSE46986
+	AT5G55180	AP1	O-Glycosyl hydrolases family 17 protein	GSE46986
+	AT5G56865	AP1		GSE46986
+	AT5G60910	AP1	AGAMOUS-like 8	GSE46986
+	AT5G65590	AP1	Dof-type zinc finger DNA-binding family protein	GSE46986
+	AT5G66440	AP1		GSE46986
+	AT5G66450	AP1	Phosphatidic acid phosphatase (PAP2) family protein	GSE46986
+	AT5G66940	AP1	Dof-type zinc finger DNA-binding family protein	GSE46986
+	AT5G66950	AP1	Pyridoxal phosphate (PLP)-dependent transferases superfamily protein	GSE46986
+	AT5G67180	AP1	target of early activation tagged (EAT) 3	GSE46986
+	AT5G67260	AP1	CYCLIN D3;2	GSE46986

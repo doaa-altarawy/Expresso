@@ -1,0 +1,299 @@
+Target Gene ID	TF Name	Description	GEO ID
+AT1G01070	TOC1	nodulin MtN21 /EamA-like transporter family protein	GSE35952
+AT1G01430	TOC1	TRICHOME BIREFRINGENCE-LIKE 25	GSE35952
+AT1G01520	TOC1	Homeodomain-like superfamily protein	GSE35952
+AT1G02065	TOC1	squamosa promoter binding protein-like 8	GSE35952
+AT1G02350	TOC1	protoporphyrinogen oxidase-related	GSE35952
+AT1G02400	TOC1	gibberellin 2-oxidase 6	GSE35952
+AT1G04990	TOC1	Zinc finger C-x8-C-x5-C-x3-H type family protein	GSE35952
+AT1G06050	TOC1	Protein of unknown function (DUF1336)	GSE35952
+AT1G06580	TOC1	Pentatricopeptide repeat (PPR) superfamily protein	GSE35952
+AT1G07010	TOC1	Calcineurin-like metallo-phosphoesterase superfamily protein	GSE35952
+AT1G07890	TOC1	ascorbate peroxidase 1	GSE35952
+AT1G09080	TOC1	Heat shock protein 70 (Hsp 70) family protein	GSE35952
+AT1G09260	TOC1	Chaperone DnaJ-domain superfamily protein	GSE35952
+AT1G09350	TOC1	galactinol synthase 3	GSE35952
+AT1G09520	TOC1		GSE35952
+AT1G09960	TOC1	sucrose transporter 4	GSE35952
+AT1G10030	TOC1	homolog of yeast ergosterol28	GSE35952
+AT1G10970	TOC1	zinc transporter 4 precursor	GSE35952
+AT1G13080	TOC1	cytochrome P450, family 71, subfamily B, polypeptide 2	GSE35952
+AT1G15350	TOC1		GSE35952
+AT1G17230	TOC1	Leucine-rich receptor-like protein kinase family protein	GSE35952
+AT1G17420	TOC1	lipoxygenase 3	GSE35952
+AT1G17620	TOC1	Late embryogenesis abundant (LEA) hydroxyproline-rich glycoprotein family	GSE35952
+AT1G18210	TOC1	Calcium-binding EF-hand family protein	GSE35952
+AT1G18300	TOC1	nudix hydrolase homolog 4	GSE35952
+AT1G18740	TOC1	Protein of unknown function (DUF793)	GSE35952
+AT1G19000	TOC1	Homeodomain-like superfamily protein	GSE35952
+AT1G19190	TOC1	alpha/beta-Hydrolases superfamily protein	GSE35952
+AT1G19220	TOC1	auxin response factor 19	GSE35952
+AT1G19500	TOC1		GSE35952
+AT1G19880	TOC1	Regulator of chromosome condensation (RCC1) family protein	GSE35952
+AT1G20890	TOC1		GSE35952
+AT1G20980	TOC1	squamosa promoter binding protein-like 14	GSE35952
+AT1G21310	TOC1	extensin 3	GSE35952
+AT1G21600	TOC1	plastid transcriptionally active 6	GSE35952
+AT1G22760	TOC1	poly(A) binding protein 3	GSE35952
+AT1G22770	TOC1	gigantea protein (GI)	GSE35952
+AT1G22830	TOC1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE35952
+AT1G25400	TOC1		GSE35952
+AT1G28360	TOC1	ERF domain protein 12	GSE35952
+AT1G29630	TOC1	5'-3' exonuclease family protein	GSE35952
+AT1G31420	TOC1	Leucine-rich repeat protein kinase family protein	GSE35952
+AT1G32700	TOC1	PLATZ transcription factor family protein	GSE35952
+AT1G32920	TOC1		GSE35952
+AT1G32928	TOC1		GSE35952
+AT1G33590	TOC1	Leucine-rich repeat (LRR) family protein	GSE35952
+AT1G56660	TOC1		GSE35952
+AT1G60950	TOC1	2Fe-2S ferredoxin-like superfamily protein	GSE35952
+AT1G62181	TOC1		GSE35952
+AT1G62870	TOC1		GSE35952
+AT1G64035	TOC1		GSE35952
+AT1G68020	TOC1	UDP-Glycosyltransferase / trehalose-phosphatase family protein	GSE35952
+AT1G68845	TOC1		GSE35952
+AT1G69260	TOC1	ABI five binding protein	GSE35952
+AT1G70580	TOC1	alanine-2-oxoglutarate aminotransferase 2	GSE35952
+AT1G70700	TOC1	TIFY domain/Divergent CCT motif family protein	GSE35952
+AT1G71040	TOC1	Cupredoxin superfamily protein	GSE35952
+AT1G72520	TOC1	PLAT/LH2 domain-containing lipoxygenase family protein	GSE35952
+AT1G73010	TOC1	phosphate starvation-induced gene 2	GSE35952
+AT1G73060	TOC1	Low  PSII Accumulation 3	GSE35952
+AT1G73390	TOC1	Endosomal targeting BRO1-like domain-containing protein	GSE35952
+AT1G73480	TOC1	alpha/beta-Hydrolases superfamily protein	GSE35952
+AT1G73540	TOC1	nudix hydrolase homolog 21	GSE35952
+AT1G73670	TOC1	MAP kinase 15	GSE35952
+AT1G74450	TOC1	Protein of unknown function (DUF793)	GSE35952
+AT1G74940	TOC1	Protein of unknown function (DUF581)	GSE35952
+AT1G75080	TOC1	Brassinosteroid signalling positive regulator (BZR1) family protein	GSE35952
+AT1G75450	TOC1	cytokinin oxidase 5	GSE35952
+AT1G75810	TOC1		GSE35952
+AT1G76590	TOC1	PLATZ transcription factor family protein	GSE35952
+AT1G76650	TOC1	calmodulin-like 38	GSE35952
+AT1G77450	TOC1	NAC domain containing protein 32	GSE35952
+AT1G79245	TOC1		GSE35952
+AT1G80610	TOC1		GSE35952
+AT1G80840	TOC1	WRKY DNA-binding protein 40	GSE35952
+AT1G80850	TOC1	DNA glycosylase superfamily protein	GSE35952
+AT2G01670	TOC1	nudix hydrolase homolog 17	GSE35952
+AT2G01830	TOC1	CHASE domain containing histidine kinase protein	GSE35952
+AT2G01850	TOC1	endoxyloglucan transferase A3	GSE35952
+AT2G03550	TOC1	alpha/beta-Hydrolases superfamily protein	GSE35952
+AT2G17840	TOC1	Senescence/dehydration-associated protein-related	GSE35952
+AT2G18115	TOC1		GSE35952
+AT2G18790	TOC1	phytochrome B	GSE35952
+AT2G20580	TOC1	26S proteasome regulatory subunit S2 1A	GSE35952
+AT2G20670	TOC1	Protein of unknown function (DUF506)	GSE35952
+AT2G20990	TOC1	synaptotagmin A	GSE35952
+AT2G21300	TOC1	ATP binding microtubule motor family protein	GSE35952
+AT2G22088	TOC1		GSE35952
+AT2G22500	TOC1	uncoupling protein 5	GSE35952
+AT2G22660	TOC1	Protein of unknown function (duplicated DUF1399)	GSE35952
+AT2G22850	TOC1	basic leucine-zipper 6	GSE35952
+AT2G23810	TOC1	tetraspanin8	GSE35952
+AT2G26190	TOC1	calmodulin-binding family protein	GSE35952
+AT2G27500	TOC1	Glycosyl hydrolase superfamily protein	GSE35952
+AT2G28360	TOC1	SIT4 phosphatase-associated family protein	GSE35952
+AT2G29190	TOC1	pumilio 2	GSE35952
+AT2G30020	TOC1	Protein phosphatase 2C family protein	GSE35952
+AT2G30050	TOC1	transducin family protein / WD-40 repeat family protein	GSE35952
+AT2G30368	TOC1		GSE35952
+AT2G30520	TOC1	Phototropic-responsive NPH3 family protein	GSE35952
+AT2G33120	TOC1	synaptobrevin-related protein 1	GSE35952
+AT2G33510	TOC1		GSE35952
+AT2G34490	TOC1	cytochrome P450, family 710, subfamily A, polypeptide 2	GSE35952
+AT2G34720	TOC1	nuclear factor Y, subunit A4	GSE35952
+AT2G37180	TOC1	Aquaporin-like superfamily protein	GSE35952
+AT2G38470	TOC1	WRKY DNA-binding protein 33	GSE35952
+AT2G39730	TOC1	rubisco activase	GSE35952
+AT2G40000	TOC1	ortholog of sugar beet HS1 PRO-1 2	GSE35952
+AT2G40010	TOC1	Ribosomal protein L10 family protein	GSE35952
+AT2G40050	TOC1	Cysteine/Histidine-rich C1 domain family protein	GSE35952
+AT2G40350	TOC1	Integrase-type DNA-binding superfamily protein	GSE35952
+AT2G41090	TOC1	Calcium-binding EF-hand family protein	GSE35952
+AT2G41660	TOC1	Protein of unknown function, DUF617	GSE35952
+AT2G43010	TOC1	phytochrome interacting factor 4	GSE35952
+AT2G44660	TOC1	ALG6, ALG8 glycosyltransferase family	GSE35952
+AT2G45161	TOC1		GSE35952
+AT2G45330	TOC1	RNA 2'-phosphotransferase, Tpt1 / KptA family	GSE35952
+AT2G45740	TOC1	peroxin 11D	GSE35952
+AT2G45830	TOC1	downstream target of AGL15 2	GSE35952
+AT2G46330	TOC1	arabinogalactan protein 16	GSE35952
+AT2G46420	TOC1	Plant protein 1589 of unknown function	GSE35952
+AT2G46780	TOC1	RNA-binding (RRM/RBD/RNP motifs) family protein	GSE35952
+AT2G46790	TOC1	pseudo-response regulator 9	GSE35952
+AT2G46830	TOC1	circadian clock associated 1	GSE35952
+AT2G47260	TOC1	WRKY DNA-binding protein 23	GSE35952
+AT3G01400	TOC1	ARM repeat superfamily protein	GSE35952
+AT3G02140	TOC1	AFP2 (ABI five-binding protein 2) family protein	GSE35952
+AT3G02420	TOC1		GSE35952
+AT3G02470	TOC1	S-adenosylmethionine decarboxylase	GSE35952
+AT3G03460	TOC1		GSE35952
+AT3G03870	TOC1		GSE35952
+AT3G04430	TOC1	NAC domain containing protein 49	GSE35952
+AT3G05510	TOC1	Phospholipid/glycerol acyltransferase family protein	GSE35952
+AT3G07350	TOC1	Protein of unknown function (DUF506)	GSE35952
+AT3G07360	TOC1	plant U-box 9	GSE35952
+AT3G10930	TOC1		GSE35952
+AT3G12320	TOC1		GSE35952
+AT3G12920	TOC1	SBP (S-ribonuclease binding protein) family protein	GSE35952
+AT3G13510	TOC1	Protein of Unknown Function (DUF239)	GSE35952
+AT3G13690	TOC1	Protein kinase protein with adenine nucleotide alpha hydrolases-like domain	GSE35952
+AT3G14870	TOC1	Plant protein of unknown function (DUF641)	GSE35952
+AT3G15210	TOC1	ethylene responsive element binding factor 4	GSE35952
+AT3G16050	TOC1	pyridoxine biosynthesis 1.2	GSE35952
+AT3G16720	TOC1	TOXICOS EN LEVADURA 2	GSE35952
+AT3G17800	TOC1	Protein of unknown function (DUF760)	GSE35952
+AT3G17810	TOC1	pyrimidine 1	GSE35952
+AT3G18060	TOC1	transducin family protein / WD-40 repeat family protein	GSE35952
+AT3G19180	TOC1	paralog of ARC6	GSE35952
+AT3G19590	TOC1	Transducin/WD40 repeat-like superfamily protein	GSE35952
+AT3G19680	TOC1	Protein of unknown function (DUF1005)	GSE35952
+AT3G19700	TOC1	Leucine-rich repeat protein kinase family protein	GSE35952
+AT3G20260	TOC1	Protein of unknown function (DUF1666)	GSE35952
+AT3G20820	TOC1	Leucine-rich repeat (LRR) family protein	GSE35952
+AT3G22380	TOC1	time for coffee	GSE35952
+AT3G24840	TOC1	Sec14p-like phosphatidylinositol transfer family protein	GSE35952
+AT3G26810	TOC1	auxin signaling F-box 2	GSE35952
+AT3G27210	TOC1		GSE35952
+AT3G29030	TOC1	expansin A5	GSE35952
+AT3G45640	TOC1	mitogen-activated protein kinase 3	GSE35952
+AT3G46620	TOC1	zinc finger (C3HC4-type RING finger) family protein	GSE35952
+AT3G46640	TOC1	Homeodomain-like superfamily protein	GSE35952
+AT3G48050	TOC1	BAH domain ;TFIIS helical bundle-like domain	GSE35952
+AT3G48240	TOC1	Octicosapeptide/Phox/Bem1p family protein	GSE35952
+AT3G49530	TOC1	NAC domain containing protein 62	GSE35952
+AT3G49540	TOC1		GSE35952
+AT3G50020	TOC1	Serine protease inhibitor, potato inhibitor I-type family protein	GSE35952
+AT3G50060	TOC1	myb domain protein 77	GSE35952
+AT3G51950	TOC1	Zinc finger (CCCH-type) family protein / RNA recognition motif (RRM)-containing protein	GSE35952
+AT3G52880	TOC1	monodehydroascorbate reductase 1	GSE35952
+AT3G53810	TOC1	Concanavalin A-like lectin protein kinase family protein	GSE35952
+AT3G53830	TOC1	Regulator of chromosome condensation (RCC1) family protein	GSE35952
+AT3G55440	TOC1	triosephosphate isomerase	GSE35952
+AT3G55580	TOC1	Regulator of chromosome condensation (RCC1) family protein	GSE35952
+AT3G55780	TOC1	Glycosyl hydrolase superfamily protein	GSE35952
+AT3G55990	TOC1	Plant protein of unknown function (DUF828)	GSE35952
+AT3G57450	TOC1		GSE35952
+AT3G57990	TOC1		GSE35952
+AT3G59060	TOC1	phytochrome interacting factor 3-like 6	GSE35952
+AT3G60200	TOC1		GSE35952
+AT3G60400	TOC1	Mitochondrial transcription termination factor family protein	GSE35952
+AT3G61430	TOC1	plasma membrane intrinsic protein 1A	GSE35952
+AT3G61630	TOC1	cytokinin response factor 6	GSE35952
+AT3G63010	TOC1	alpha/beta-Hydrolases superfamily protein	GSE35952
+AT4G00210	TOC1	LOB domain-containing protein 31	GSE35952
+AT4G00380	TOC1	XH/XS domain-containing protein	GSE35952
+AT4G00820	TOC1	IQ-domain 17	GSE35952
+AT4G01330	TOC1	Protein kinase superfamily protein	GSE35952
+AT4G03115	TOC1	Mitochondrial substrate carrier family protein	GSE35952
+AT4G05053	TOC1		GSE35952
+AT4G11230	TOC1	Riboflavin synthase-like superfamily protein	GSE35952
+AT4G11280	TOC1	1-aminocyclopropane-1-carboxylic acid (acc) synthase 6	GSE35952
+AT4G16490	TOC1	ARM repeat superfamily protein	GSE35952
+AT4G16960	TOC1	Disease resistance protein (TIR-NBS-LRR class) family	GSE35952
+AT4G17080	TOC1	Histone H3 K4-specific methyltransferase SET7/9 family protein	GSE35952
+AT4G17560	TOC1	Ribosomal protein L19 family protein	GSE35952
+AT4G18700	TOC1	CBL-interacting protein kinase 12	GSE35952
+AT4G19045	TOC1	Mob1/phocein family protein	GSE35952
+AT4G21930	TOC1	Protein of unknown function, DUF584	GSE35952
+AT4G22592	TOC1	conserved peptide upstream open reading frame 27	GSE35952
+AT4G22780	TOC1	ACT domain repeat 7	GSE35952
+AT4G23050	TOC1	PAS domain-containing protein tyrosine kinase family protein	GSE35952
+AT4G23630	TOC1	VIRB2-interacting protein 1	GSE35952
+AT4G24390	TOC1	RNI-like superfamily protein	GSE35952
+AT4G24570	TOC1	dicarboxylate carrier 2	GSE35952
+AT4G24580	TOC1	Rho GTPase activation protein (RhoGAP) with PH domain	GSE35952
+AT4G25260	TOC1	Plant invertase/pectin methylesterase inhibitor superfamily protein	GSE35952
+AT4G25470	TOC1	C-repeat/DRE binding factor 2	GSE35952
+AT4G25500	TOC1	arginine/serine-rich splicing factor 35	GSE35952
+AT4G26090	TOC1	NB-ARC domain-containing disease resistance protein	GSE35952
+AT4G27310	TOC1	B-box type zinc finger family protein	GSE35952
+AT4G27520	TOC1	early nodulin-like protein 2	GSE35952
+AT4G27654	TOC1		GSE35952
+AT4G27657	TOC1		GSE35952
+AT4G27940	TOC1	manganese tracking factor for mitochondrial SOD2	GSE35952
+AT4G29103	TOC1		GSE35952
+AT4G29680	TOC1	Alkaline-phosphatase-like family protein	GSE35952
+AT4G29780	TOC1		GSE35952
+AT4G30440	TOC1	UDP-D-glucuronate 4-epimerase 1	GSE35952
+AT4G32950	TOC1	Protein phosphatase 2C family protein	GSE35952
+AT4G33910	TOC1	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein	GSE35952
+AT4G34160	TOC1	CYCLIN D3;1	GSE35952
+AT4G34412	TOC1		GSE35952
+AT4G34490	TOC1	cyclase associated protein 1	GSE35952
+AT4G35760	TOC1	NAD(P)H dehydrogenase (quinone)s	GSE35952
+AT4G35850	TOC1	Pentatricopeptide repeat (PPR) superfamily protein	GSE35952
+AT4G37175	TOC1	pre-tRNA	GSE35952
+AT4G38430	TOC1	rho guanyl-nucleotide exchange factor 1	GSE35952
+AT4G38470	TOC1	ACT-like protein tyrosine kinase family protein	GSE35952
+AT4G39100	TOC1	PHD finger family protein / bromo-adjacent homology (BAH) domain-containing protein	GSE35952
+AT4G39400	TOC1	Leucine-rich receptor-like protein kinase family protein	GSE35952
+AT4G39800	TOC1	myo-inositol-1-phosphate synthase 1	GSE35952
+AT5G01350	TOC1		GSE35952
+AT5G01520	TOC1	RING/U-box superfamily protein	GSE35952
+AT5G01720	TOC1	RNI-like superfamily protein	GSE35952
+AT5G01730	TOC1	SCAR family protein 4	GSE35952
+AT5G01820	TOC1	serine/threonine protein kinase 1	GSE35952
+AT5G02200	TOC1	far-red-elongated hypocotyl1-like	GSE35952
+AT5G02230	TOC1	Haloacid dehalogenase-like hydrolase (HAD) superfamily protein	GSE35952
+AT5G02290	TOC1	Protein kinase superfamily protein	GSE35952
+AT5G02580	TOC1	Plant protein 1589 of unknown function	GSE35952
+AT5G02820	TOC1	Spo11/DNA topoisomerase VI, subunit A protein	GSE35952
+AT5G03040	TOC1	IQ-domain 2	GSE35952
+AT5G03210	TOC1		GSE35952
+AT5G03290	TOC1	isocitrate dehydrogenase V	GSE35952
+AT5G03760	TOC1	Nucleotide-diphospho-sugar transferases superfamily protein	GSE35952
+AT5G04340	TOC1	zinc finger of Arabidopsis thaliana 6	GSE35952
+AT5G05440	TOC1	Polyketide cyclase/dehydrase and lipid transport superfamily protein	GSE35952
+AT5G06320	TOC1	NDR1/HIN1-like 3	GSE35952
+AT5G06390	TOC1	FASCICLIN-like arabinogalactan protein 17 precursor	GSE35952
+AT5G09620	TOC1	Octicosapeptide/Phox/Bem1p family protein	GSE35952
+AT5G10745	TOC1		GSE35952
+AT5G13100	TOC1		GSE35952
+AT5G13640	TOC1	phospholipid:diacylglycerol acyltransferase	GSE35952
+AT5G13760	TOC1	Plasma-membrane choline transporter family protein	GSE35952
+AT5G18280	TOC1	apyrase 2	GSE35952
+AT5G18830	TOC1	squamosa promoter binding protein-like 7	GSE35952
+AT5G18920	TOC1	Cox19-like CHCH family protein	GSE35952
+AT5G19250	TOC1	Glycoprotein membrane precursor GPI-anchored	GSE35952
+AT5G20190	TOC1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE35952
+AT5G22250	TOC1	Polynucleotidyl transferase, ribonuclease H-like superfamily protein	GSE35952
+AT5G22940	TOC1	FRA8 homolog	GSE35952
+AT5G23120	TOC1	photosystem II stability/assembly factor, chloroplast (HCF136)	GSE35952
+AT5G23730	TOC1	Transducin/WD40 repeat-like superfamily protein	GSE35952
+AT5G24470	TOC1	pseudo-response regulator 5	GSE35952
+AT5G24820	TOC1	Eukaryotic aspartyl protease family protein	GSE35952
+AT5G40470	TOC1	RNI-like superfamily protein	GSE35952
+AT5G41600	TOC1	VIRB2-interacting protein 3	GSE35952
+AT5G42060	TOC1	DEK, chromatin associated protein	GSE35952
+AT5G45340	TOC1	cytochrome P450, family 707, subfamily A, polypeptide 3	GSE35952
+AT5G47230	TOC1	ethylene responsive element binding factor 5	GSE35952
+AT5G47370	TOC1	Homeobox-leucine zipper protein 4 (HB-4) / HD-ZIP protein	GSE35952
+AT5G47660	TOC1	Homeodomain-like superfamily protein	GSE35952
+AT5G47910	TOC1	respiratory burst oxidase homologue D	GSE35952
+AT5G48660	TOC1	B-cell receptor-associated protein 31-like	GSE35952
+AT5G49700	TOC1	Predicted AT-hook DNA-binding family protein	GSE35952
+AT5G51190	TOC1	Integrase-type DNA-binding superfamily protein	GSE35952
+AT5G51460	TOC1	Haloacid dehalogenase-like hydrolase (HAD) superfamily protein	GSE35952
+AT5G54480	TOC1	Protein of unknown function (DUF630 and DUF632)	GSE35952
+AT5G57560	TOC1	Xyloglucan endotransglucosylase/hydrolase family protein	GSE35952
+AT5G58080	TOC1	response regulator 18	GSE35952
+AT5G58720	TOC1	smr (Small MutS Related) domain-containing protein	GSE35952
+AT5G59550	TOC1	zinc finger (C3HC4-type RING finger) family protein	GSE35952
+AT5G59820	TOC1	C2H2-type zinc finger family protein	GSE35952
+AT5G60760	TOC1	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE35952
+AT5G61970	TOC1	signal recognition particle-related / SRP-related	GSE35952
+AT5G62000	TOC1	auxin response factor 2	GSE35952
+AT5G62130	TOC1	Per1-like family protein	GSE35952
+AT5G63135	TOC1		GSE35952
+AT5G63770	TOC1	diacylglycerol kinase 2	GSE35952
+AT5G63780	TOC1	RING/FYVE/PHD zinc finger superfamily protein	GSE35952
+AT5G64260	TOC1	EXORDIUM like 2	GSE35952
+AT5G64440	TOC1	fatty acid amide hydrolase	GSE35952
+AT5G64850	TOC1		GSE35952
+AT5G65300	TOC1		GSE35952
+AT5G66210	TOC1	calcium-dependent protein kinase 28	GSE35952
+AT5G66680	TOC1	dolichyl-diphosphooligosaccharide-protein glycosyltransferase 48kDa subunit family protein	GSE35952
+AT5G67300	TOC1	myb domain protein r1	GSE35952
+AT5G67420	TOC1	LOB domain-containing protein 37	GSE35952

@@ -1,0 +1,8 @@
+	AT1G21660	ATAF1	Chaperone DnaJ-domain superfamily protein	GSE43637
+	AT1G40104	ATAF1		GSE43637
+	AT1G40105	ATAF1	transposable element gene	GSE43637
+	AT3G29805	ATAF1	transposable element gene	GSE43637
+	AT5G13900	ATAF1	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein	GSE43637
+	AT5G13910	ATAF1	Integrase-type DNA-binding superfamily protein	GSE43637
+	AT5G31804	ATAF1	transposable element gene	GSE43637
+	AT5G31821	ATAF1	transposable element gene	GSE43637

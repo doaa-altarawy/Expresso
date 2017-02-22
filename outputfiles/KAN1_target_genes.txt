@@ -1,0 +1,2964 @@
+	AT1G01020	KAN1	Arv1-like protein	GSE48081
+	AT1G01030	KAN1	AP2/B3-like transcriptional factor family protein	GSE48081
+	AT1G01040	KAN1	dicer-like 1	GSE48081
+	AT1G01120	KAN1	3-ketoacyl-CoA synthase 1	GSE48081
+	AT1G01130	KAN1		GSE48081
+	AT1G01140	KAN1	CBL-interacting protein kinase 9	GSE48081
+	AT1G01150	KAN1	Homeodomain-like protein with RING/FYVE/PHD-type zinc finger domain	GSE48081
+	AT1G01290	KAN1	cofactor of nitrate reductase and xanthine dehydrogenase 3	GSE48081
+	AT1G01300	KAN1	Eukaryotic aspartyl protease family protein	GSE48081
+	AT1G01370	KAN1	Histone superfamily protein	GSE48081
+	AT1G01380	KAN1	Homeodomain-like superfamily protein	GSE48081
+	AT1G01490	KAN1	Heavy metal transport/detoxification superfamily protein	GSE48081
+	AT1G01500	KAN1	Erythronate-4-phosphate dehydrogenase family protein	GSE48081
+	AT1G01530	KAN1	AGAMOUS-like 28	GSE48081
+	AT1G01550	KAN1	Protein of unknown function (DUF793)	GSE48081
+	AT1G01830	KAN1	ARM repeat superfamily protein	GSE48081
+	AT1G01840	KAN1		GSE48081
+	AT1G02190	KAN1	Fatty acid hydroxylase superfamily	GSE48081
+	AT1G02210	KAN1	NAC (No Apical Meristem) domain transcriptional regulator superfamily protein	GSE48081
+	AT1G02220	KAN1	NAC domain containing protein 3	GSE48081
+	AT1G02228	KAN1	transposable element gene	GSE48081
+	AT1G02230	KAN1	NAC domain containing protein 4	GSE48081
+	AT1G02391	KAN1		GSE48081
+	AT1G02405	KAN1	proline-rich family protein	GSE48081
+	AT1G02450	KAN1	NIM1-interacting 1	GSE48081
+	AT1G02460	KAN1	Pectin lyase-like superfamily protein	GSE48081
+	AT1G02610	KAN1	RING/FYVE/PHD zinc finger superfamily protein	GSE48081
+	AT1G02620	KAN1	Ras-related small GTP-binding family protein	GSE48081
+	AT1G02630	KAN1	Nucleoside transporter family protein	GSE48081
+	AT1G02650	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT1G02670	KAN1	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT1G02850	KAN1	beta glucosidase 11	GSE48081
+	AT1G02860	KAN1	SPX (SYG1/Pho81/XPR1) domain-containing protein	GSE48081
+	AT1G02890	KAN1	AAA-type ATPase family protein	GSE48081
+	AT1G02900	KAN1	rapid alkalinization factor 1	GSE48081
+	AT1G03870	KAN1	FASCICLIN-like arabinoogalactan 9	GSE48081
+	AT1G03880	KAN1	cruciferin 2	GSE48081
+	AT1G04150	KAN1	C2 calcium/lipid-binding plant phosphoribosyltransferase family protein	GSE48081
+	AT1G04160	KAN1	myosin XI B	GSE48081
+	AT1G04360	KAN1	RING/U-box superfamily protein	GSE48081
+	AT1G04370	KAN1	Ethylene-responsive element binding factor 14	GSE48081
+	AT1G04530	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT1G04540	KAN1	Calcium-dependent lipid-binding (CaLB domain) family protein	GSE48081
+	AT1G04770	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT1G04778	KAN1		GSE48081
+	AT1G04990	KAN1	Zinc finger C-x8-C-x5-C-x3-H type family protein	GSE48081
+	AT1G05000	KAN1	Phosphotyrosine protein phosphatases superfamily protein	GSE48081
+	AT1G05300	KAN1	zinc transporter 5 precursor	GSE48081
+	AT1G05310	KAN1	Pectin lyase-like superfamily protein	GSE48081
+	AT1G05410	KAN1	Protein of unknown function (DUF1423)	GSE48081
+	AT1G05420	KAN1	ovate family protein 12	GSE48081
+	AT1G05800	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT1G05810	KAN1	RAB GTPase homolog A5E	GSE48081
+	AT1G06040	KAN1	B-box zinc finger family protein	GSE48081
+	AT1G06050	KAN1	Protein of unknown function (DUF1336)	GSE48081
+	AT1G06520	KAN1	glycerol-3-phosphate acyltransferase 1	GSE48081
+	AT1G06530	KAN1	Tropomyosin-related	GSE48081
+	AT1G06970	KAN1	cation/hydrogen exchanger 14	GSE48081
+	AT1G06980	KAN1		GSE48081
+	AT1G07150	KAN1	mitogen-activated protein kinase kinase kinase 13	GSE48081
+	AT1G07160	KAN1	Protein phosphatase 2C family protein	GSE48081
+	AT1G07570	KAN1	Protein kinase superfamily protein	GSE48081
+	AT1G07580	KAN1	pre-tRNA	GSE48081
+	AT1G07590	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT1G07610	KAN1	metallothionein 1C	GSE48081
+	AT1G07620	KAN1	GTP-binding protein Obg/CgtA	GSE48081
+	AT1G07630	KAN1	pol-like 5	GSE48081
+	AT1G08180	KAN1		GSE48081
+	AT1G08190	KAN1	vacuolar protein sorting 41	GSE48081
+	AT1G08315	KAN1	ARM repeat superfamily protein	GSE48081
+	AT1G08320	KAN1	bZIP transcription factor family protein	GSE48081
+	AT1G08340	KAN1	Rho GTPase activating protein with PAK-box/P21-Rho-binding domain	GSE48081
+	AT1G09230	KAN1	RNA-binding (RRM/RBD/RNP motifs) family protein	GSE48081
+	AT1G09240	KAN1	nicotianamine synthase 3	GSE48081
+	AT1G09380	KAN1	nodulin MtN21 /EamA-like transporter family protein	GSE48081
+	AT1G09390	KAN1	GDSL-like Lipase/Acylhydrolase superfamily protein	GSE48081
+	AT1G09520	KAN1		GSE48081
+	AT1G09530	KAN1	phytochrome interacting factor 3	GSE48081
+	AT1G09540	KAN1	myb domain protein 61	GSE48081
+	AT1G09575	KAN1	Protein of unknown function (DUF607)	GSE48081
+	AT1G09580	KAN1	emp24/gp25L/p24 family/GOLD family protein	GSE48081
+	AT1G09780	KAN1	Phosphoglycerate mutase, 2,3-bisphosphoglycerate-independent	GSE48081
+	AT1G09790	KAN1	COBRA-like protein 6 precursor	GSE48081
+	AT1G09810	KAN1	evolutionarily conserved C-terminal region 11	GSE48081
+	AT1G09812	KAN1		GSE48081
+	AT1G09960	KAN1	sucrose transporter 4	GSE48081
+	AT1G09970	KAN1	Leucine-rich receptor-like protein kinase family protein	GSE48081
+	AT1G10060	KAN1	branched-chain amino acid transaminase 1	GSE48081
+	AT1G10070	KAN1	branched-chain amino acid transaminase 2	GSE48081
+	AT1G10110	KAN1	F-box family protein	GSE48081
+	AT1G10130	KAN1	endoplasmic reticulum-type calcium-transporting ATPase 3	GSE48081
+	AT1G10140	KAN1	Uncharacterised conserved protein UCP031279	GSE48081
+	AT1G10150	KAN1	Carbohydrate-binding protein	GSE48081
+	AT1G10200	KAN1	GATA type zinc finger transcription factor family protein	GSE48081
+	AT1G10210	KAN1	mitogen-activated protein kinase 1	GSE48081
+	AT1G10470	KAN1	response regulator 4	GSE48081
+	AT1G10480	KAN1	zinc finger protein 5	GSE48081
+	AT1G10690	KAN1		GSE48081
+	AT1G10700	KAN1	phosphoribosyl pyrophosphate (PRPP) synthase 3	GSE48081
+	AT1G11310	KAN1	Seven transmembrane MLO family protein	GSE48081
+	AT1G11320	KAN1		GSE48081
+	AT1G11330	KAN1	S-locus lectin protein kinase family protein	GSE48081
+	AT1G11690	KAN1		GSE48081
+	AT1G11700	KAN1	Protein of unknown function, DUF584	GSE48081
+	AT1G11710	KAN1	Pentatricopeptide repeat (PPR) superfamily protein	GSE48081
+	AT1G12070	KAN1	Immunoglobulin E-set superfamily protein	GSE48081
+	AT1G12080	KAN1	Vacuolar calcium-binding protein-related	GSE48081
+	AT1G12100	KAN1	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein	GSE48081
+	AT1G12110	KAN1	nitrate transporter 1.1	GSE48081
+	AT1G12420	KAN1	ACT domain repeat 8	GSE48081
+	AT1G12423	KAN1		GSE48081
+	AT1G12430	KAN1	armadillo repeat kinesin 3	GSE48081
+	AT1G12440	KAN1	A20/AN1-like zinc finger family protein	GSE48081
+	AT1G12450	KAN1	SNARE associated Golgi protein family	GSE48081
+	AT1G12820	KAN1	auxin signaling F-box 3	GSE48081
+	AT1G12830	KAN1		GSE48081
+	AT1G13100	KAN1	cytochrome P450, family 71, subfamily B, polypeptide 29	GSE48081
+	AT1G13110	KAN1	cytochrome P450, family 71 subfamily B, polypeptide 7	GSE48081
+	AT1G13195	KAN1	RING/U-box superfamily protein	GSE48081
+	AT1G13200	KAN1	F-box and associated interaction domains-containing protein	GSE48081
+	AT1G13245	KAN1	ROTUNDIFOLIA like 17	GSE48081
+	AT1G13250	KAN1	galacturonosyltransferase-like 3	GSE48081
+	AT1G13260	KAN1	related to ABI3/VP1 1	GSE48081
+	AT1G13300	KAN1	myb-like transcription factor family protein	GSE48081
+	AT1G13310	KAN1	Endosomal targeting BRO1-like domain-containing protein	GSE48081
+	AT1G13360	KAN1		GSE48081
+	AT1G13370	KAN1	Histone superfamily protein	GSE48081
+	AT1G13440	KAN1	glyceraldehyde-3-phosphate dehydrogenase C2	GSE48081
+	AT1G13448	KAN1	other RNA	GSE48081
+	AT1G13600	KAN1	basic leucine-zipper 58	GSE48081
+	AT1G13605	KAN1		GSE48081
+	AT1G13730	KAN1	Nuclear transport factor 2 (NTF2) family protein with RNA binding (RRM-RBD-RNP motifs) domain	GSE48081
+	AT1G13740	KAN1	ABI five binding protein 2	GSE48081
+	AT1G13940	KAN1	Plant protein of unknown function (DUF863)	GSE48081
+	AT1G13950	KAN1	eukaryotic elongation factor 5A-1	GSE48081
+	AT1G14270	KAN1	CAAX amino terminal protease family protein	GSE48081
+	AT1G14280	KAN1	phytochrome kinase substrate 2	GSE48081
+	AT1G14290	KAN1	sphingoid base hydroxylase 2	GSE48081
+	AT1G14330	KAN1	Galactose oxidase/kelch repeat superfamily protein	GSE48081
+	AT1G14340	KAN1	RNA-binding (RRM/RBD/RNP motifs) family protein	GSE48081
+	AT1G14360	KAN1	UDP-galactose transporter 3	GSE48081
+	AT1G14370	KAN1	protein kinase 2A	GSE48081
+	AT1G14440	KAN1	homeobox protein 31	GSE48081
+	AT1G14450	KAN1	NADH dehydrogenase (ubiquinone)s	GSE48081
+	AT1G14600	KAN1	Homeodomain-like superfamily protein	GSE48081
+	AT1G14610	KAN1	valyl-tRNA synthetase / valine--tRNA ligase (VALRS)	GSE48081
+	AT1G14690	KAN1	microtubule-associated protein 65-7	GSE48081
+	AT1G14700	KAN1	purple acid phosphatase 3	GSE48081
+	AT1G14710	KAN1	hydroxyproline-rich glycoprotein family protein	GSE48081
+	AT1G14720	KAN1	xyloglucan endotransglucosylase/hydrolase 28	GSE48081
+	AT1G14730	KAN1	Cytochrome b561/ferric reductase transmembrane protein family	GSE48081
+	AT1G14740	KAN1	Protein of unknown function (DUF1423)	GSE48081
+	AT1G14750	KAN1	Cyclin family protein	GSE48081
+	AT1G14870	KAN1	PLANT CADMIUM RESISTANCE 2	GSE48081
+	AT1G14880	KAN1	PLANT CADMIUM RESISTANCE 1	GSE48081
+	AT1G14920	KAN1	GRAS family transcription factor family protein	GSE48081
+	AT1G14930	KAN1	Polyketide cyclase/dehydrase and lipid transport superfamily protein	GSE48081
+	AT1G15020	KAN1	quiescin-sulfhydryl oxidase 1	GSE48081
+	AT1G15030	KAN1	Protein of unknown function (DUF789)	GSE48081
+	AT1G15110	KAN1	phosphatidyl serine synthase family protein	GSE48081
+	AT1G15120	KAN1	Ubiquinol-cytochrome C reductase hinge protein	GSE48081
+	AT1G15340	KAN1	methyl-CPG-binding domain 10	GSE48081
+	AT1G15350	KAN1		GSE48081
+	AT1G15660	KAN1	centromere protein C	GSE48081
+	AT1G15670	KAN1	Galactose oxidase/kelch repeat superfamily protein	GSE48081
+	AT1G15750	KAN1	Transducin family protein / WD-40 repeat family protein	GSE48081
+	AT1G15757	KAN1	Molecular chaperone Hsp40/DnaJ family protein	GSE48081
+	AT1G16360	KAN1	LEM3 (ligand-effect modulator 3) family protein / CDC50 family protein	GSE48081
+	AT1G16370	KAN1	organic cation/carnitine transporter 6	GSE48081
+	AT1G16510	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT1G16515	KAN1		GSE48081
+	AT1G17060	KAN1	cytochrome p450 72c1	GSE48081
+	AT1G17070	KAN1	GC-rich sequence DNA-binding factor-like protein with Tuftelin interacting domain	GSE48081
+	AT1G17220	KAN1	Translation initiation factor 2, small GTP-binding protein	GSE48081
+	AT1G17230	KAN1	Leucine-rich receptor-like protein kinase family protein	GSE48081
+	AT1G17285	KAN1		GSE48081
+	AT1G17290	KAN1	alanine aminotransferas	GSE48081
+	AT1G17350	KAN1	NADH:ubiquinone oxidoreductase intermediate-associated protein 30	GSE48081
+	AT1G17360	KAN1		GSE48081
+	AT1G17495	KAN1	transposable element gene	GSE48081
+	AT1G17500	KAN1	ATPase E1-E2 type family protein / haloacid dehalogenase-like hydrolase family protein	GSE48081
+	AT1G17744	KAN1		GSE48081
+	AT1G17750	KAN1	PEP1 receptor 2	GSE48081
+	AT1G17990	KAN1	FMN-linked oxidoreductases superfamily protein	GSE48081
+	AT1G18000	KAN1	Major facilitator superfamily protein	GSE48081
+	AT1G18010	KAN1	Major facilitator superfamily protein	GSE48081
+	AT1G18020	KAN1	FMN-linked oxidoreductases superfamily protein	GSE48081
+	AT1G18070	KAN1	Translation elongation factor EF1A/initiation factor IF2gamma family protein	GSE48081
+	AT1G18075	KAN1	MIR159/MIR159B; miRNA	GSE48081
+	AT1G18330	KAN1	Homeodomain-like superfamily protein	GSE48081
+	AT1G18335	KAN1	Acyl-CoA N-acyltransferases (NAT) superfamily protein	GSE48081
+	AT1G18370	KAN1	ATP binding microtubule motor family protein	GSE48081
+	AT1G18390	KAN1	Protein kinase superfamily protein	GSE48081
+	AT1G18400	KAN1	BR enhanced expression 1	GSE48081
+	AT1G18410	KAN1	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT1G18730	KAN1	NDH dependent flow 6	GSE48081
+	AT1G18740	KAN1	Protein of unknown function (DUF793)	GSE48081
+	AT1G18860	KAN1	WRKY DNA-binding protein 61	GSE48081
+	AT1G18870	KAN1	isochorismate synthase 2	GSE48081
+	AT1G19000	KAN1	Homeodomain-like superfamily protein	GSE48081
+	AT1G19010	KAN1		GSE48081
+	AT1G19050	KAN1	response regulator 7	GSE48081
+	AT1G19060	KAN1	Protein of unknown function (DUF626)	GSE48081
+	AT1G19200	KAN1	Protein of unknown function (DUF581)	GSE48081
+	AT1G19210	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT1G19250	KAN1	flavin-dependent monooxygenase 1	GSE48081
+	AT1G19260	KAN1	TTF-type zinc finger protein with HAT dimerisation domain	GSE48081
+	AT1G19290	KAN1	Pentatricopeptide repeat (PPR) superfamily protein	GSE48081
+	AT1G19300	KAN1	Nucleotide-diphospho-sugar transferases superfamily protein	GSE48081
+	AT1G19310	KAN1	RING/U-box superfamily protein	GSE48081
+	AT1G19330	KAN1		GSE48081
+	AT1G19340	KAN1	Methyltransferase MT-A70 family protein	GSE48081
+	AT1G19350	KAN1	Brassinosteroid signalling positive regulator (BZR1) family protein	GSE48081
+	AT1G19450	KAN1	Major facilitator superfamily protein	GSE48081
+	AT1G19460	KAN1	Galactose oxidase/kelch repeat superfamily protein	GSE48081
+	AT1G19750	KAN1	Transducin/WD40 repeat-like superfamily protein	GSE48081
+	AT1G19770	KAN1	purine permease 14	GSE48081
+	AT1G19840	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT1G19850	KAN1	Transcriptional factor B3 family protein / auxin-responsive factor AUX/IAA-related	GSE48081
+	AT1G19870	KAN1	IQ-domain 32	GSE48081
+	AT1G19880	KAN1	Regulator of chromosome condensation (RCC1) family protein	GSE48081
+	AT1G20000	KAN1	TBP-associated factor 11B	GSE48081
+	AT1G20015	KAN1	snoRNA	GSE48081
+	AT1G20320	KAN1	Haloacid dehalogenase-like hydrolase (HAD) superfamily protein	GSE48081
+	AT1G20330	KAN1	sterol methyltransferase 2	GSE48081
+	AT1G20440	KAN1	cold-regulated 47	GSE48081
+	AT1G20450	KAN1	Dehydrin family protein	GSE48081
+	AT1G20530	KAN1	Protein of unknown function (DUF630 and DUF632)	GSE48081
+	AT1G20540	KAN1	Transducin/WD40 repeat-like superfamily protein	GSE48081
+	AT1G20840	KAN1	tonoplast monosaccharide transporter1	GSE48081
+	AT1G20850	KAN1	xylem cysteine peptidase 2	GSE48081
+	AT1G20890	KAN1		GSE48081
+	AT1G20900	KAN1	Predicted AT-hook DNA-binding family protein	GSE48081
+	AT1G20970	KAN1		GSE48081
+	AT1G20980	KAN1	squamosa promoter binding protein-like 14	GSE48081
+	AT1G20990	KAN1	Cysteine/Histidine-rich C1 domain family protein	GSE48081
+	AT1G21000	KAN1	PLATZ transcription factor family protein	GSE48081
+	AT1G21010	KAN1		GSE48081
+	AT1G21050	KAN1	Protein of unknown function, DUF617	GSE48081
+	AT1G21060	KAN1	Protein of unknown function, DUF547	GSE48081
+	AT1G21380	KAN1	Target of Myb protein 1	GSE48081
+	AT1G21390	KAN1	embryo defective 2170	GSE48081
+	AT1G21400	KAN1	Thiamin diphosphate-binding fold (THDP-binding) superfamily protein	GSE48081
+	AT1G21410	KAN1	F-box/RNI-like superfamily protein	GSE48081
+	AT1G21590	KAN1	Protein kinase protein with adenine nucleotide alpha hydrolases-like domain	GSE48081
+	AT1G21600	KAN1	plastid transcriptionally active 6	GSE48081
+	AT1G21660	KAN1	Chaperone DnaJ-domain superfamily protein	GSE48081
+	AT1G21670	KAN1		GSE48081
+	AT1G21680	KAN1	DPP6 N-terminal domain-like protein	GSE48081
+	AT1G21810	KAN1	Plant protein of unknown function (DUF869)	GSE48081
+	AT1G21830	KAN1		GSE48081
+	AT1G21835	KAN1	Plant thionin family protein	GSE48081
+	AT1G21900	KAN1	emp24/gp25L/p24 family/GOLD family protein	GSE48081
+	AT1G21910	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT1G21920	KAN1	Histone H3 K4-specific methyltransferase SET7/9 family protein	GSE48081
+	AT1G21975	KAN1		GSE48081
+	AT1G21980	KAN1	phosphatidylinositol-4-phosphate 5-kinase 1	GSE48081
+	AT1G22030	KAN1		GSE48081
+	AT1G22040	KAN1	Galactose oxidase/kelch repeat superfamily protein	GSE48081
+	AT1G22180	KAN1	Sec14p-like phosphatidylinositol transfer family protein	GSE48081
+	AT1G22190	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT1G22400	KAN1	UDP-Glycosyltransferase superfamily protein	GSE48081
+	AT1G22403	KAN1	other RNA	GSE48081
+	AT1G22560	KAN1	transposable element gene	GSE48081
+	AT1G22570	KAN1	Major facilitator superfamily protein	GSE48081
+	AT1G22580	KAN1	transposable element gene	GSE48081
+	AT1G22600	KAN1	Late embryogenesis abundant protein (LEA) family protein	GSE48081
+	AT1G22610	KAN1	C2 calcium/lipid-binding plant phosphoribosyltransferase family protein	GSE48081
+	AT1G22640	KAN1	myb domain protein 3	GSE48081
+	AT1G22650	KAN1	Plant neutral invertase family protein	GSE48081
+	AT1G22920	KAN1	COP9 signalosome 5A	GSE48081
+	AT1G22930	KAN1	T-complex protein 11	GSE48081
+	AT1G23020	KAN1	ferric reduction oxidase 3	GSE48081
+	AT1G23030	KAN1	ARM repeat superfamily protein	GSE48081
+	AT1G23090	KAN1	sulfate transporter 91	GSE48081
+	AT1G23100	KAN1	GroES-like family protein	GSE48081
+	AT1G23380	KAN1	KNOTTED1-like homeobox gene 6	GSE48081
+	AT1G23390	KAN1	Kelch repeat-containing F-box family protein	GSE48081
+	AT1G23520	KAN1	Domain of unknown function (DUF220)	GSE48081
+	AT1G23530	KAN1		GSE48081
+	AT1G23700	KAN1	Protein kinase superfamily protein	GSE48081
+	AT1G23710	KAN1	Protein of unknown function (DUF1645)	GSE48081
+	AT1G23860	KAN1	RS-containing zinc finger protein 21	GSE48081
+	AT1G23870	KAN1	trehalose-phosphatase/synthase 9	GSE48081
+	AT1G24120	KAN1	ARG1-like 1	GSE48081
+	AT1G24130	KAN1	Transducin/WD40 repeat-like superfamily protein	GSE48081
+	AT1G24170	KAN1	Nucleotide-diphospho-sugar transferases superfamily protein	GSE48081
+	AT1G24180	KAN1	Thiamin diphosphate-binding fold (THDP-binding) superfamily protein	GSE48081
+	AT1G24260	KAN1	K-box region and MADS-box transcription factor family protein	GSE48081
+	AT1G24265	KAN1	Protein of unknown function (DUF1664)	GSE48081
+	AT1G24530	KAN1	Transducin/WD40 repeat-like superfamily protein	GSE48081
+	AT1G24540	KAN1	cytochrome P450, family 86, subfamily C, polypeptide 1	GSE48081
+	AT1G25220	KAN1	anthranilate synthase beta subunit 1	GSE48081
+	AT1G25230	KAN1	Calcineurin-like metallo-phosphoesterase superfamily protein	GSE48081
+	AT1G25240	KAN1	ENTH/VHS/GAT family protein	GSE48081
+	AT1G25250	KAN1	indeterminate(ID)-domain 16	GSE48081
+	AT1G25420	KAN1	Regulator of Vps4 activity in the MVB pathway protein	GSE48081
+	AT1G25422	KAN1		GSE48081
+	AT1G25430	KAN1	transposable element gene	GSE48081
+	AT1G25440	KAN1	B-box type zinc finger protein with CCT domain	GSE48081
+	AT1G25510	KAN1	Eukaryotic aspartyl protease family protein	GSE48081
+	AT1G25520	KAN1	Uncharacterized protein family (UPF0016)	GSE48081
+	AT1G25540	KAN1	phytochrome and flowering time regulatory protein (PFT1)	GSE48081
+	AT1G25550	KAN1	myb-like transcription factor family protein	GSE48081
+	AT1G25560	KAN1	AP2/B3 transcription factor family protein	GSE48081
+	AT1G25570	KAN1	Di-glucose binding protein with Leucine-rich repeat domain	GSE48081
+	AT1G26208	KAN1	other RNA	GSE48081
+	AT1G26218	KAN1	other RNA	GSE48081
+	AT1G26550	KAN1	FKBP-like peptidyl-prolyl cis-trans isomerase family protein	GSE48081
+	AT1G26558	KAN1	other RNA	GSE48081
+	AT1G26570	KAN1	UDP-glucose dehydrogenase 1	GSE48081
+	AT1G26590	KAN1	C2H2-like zinc finger protein	GSE48081
+	AT1G26720	KAN1		GSE48081
+	AT1G26730	KAN1	EXS (ERD1/XPR1/SYG1) family protein	GSE48081
+	AT1G26910	KAN1	Ribosomal protein L16p/L10e family protein	GSE48081
+	AT1G26916	KAN1		GSE48081
+	AT1G26921	KAN1		GSE48081
+	AT1G26930	KAN1	Galactose oxidase/kelch repeat superfamily protein	GSE48081
+	AT1G26940	KAN1	Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein	GSE48081
+	AT1G27090	KAN1	glycine-rich protein	GSE48081
+	AT1G27110	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT1G27200	KAN1	Domain of unknown function (DUF23)	GSE48081
+	AT1G27210	KAN1	ARM repeat superfamily protein	GSE48081
+	AT1G27213	KAN1		GSE48081
+	AT1G27220	KAN1	paired amphipathic helix repeat-containing protein	GSE48081
+	AT1G27330	KAN1	Ribosome associated membrane protein RAMP4	GSE48081
+	AT1G27340	KAN1	Galactose oxidase/kelch repeat superfamily protein	GSE48081
+	AT1G27960	KAN1	evolutionarily conserved C-terminal region 9	GSE48081
+	AT1G27980	KAN1	dihydrosphingosine phosphate lyase	GSE48081
+	AT1G28310	KAN1	Dof-type zinc finger DNA-binding family protein	GSE48081
+	AT1G28320	KAN1	protease-related	GSE48081
+	AT1G28440	KAN1	HAESA-like 1	GSE48081
+	AT1G28450	KAN1	AGAMOUS-like 58	GSE48081
+	AT1G28510	KAN1	Optic atrophy 3 protein (OPA3)	GSE48081
+	AT1G28520	KAN1	vascular plant one zinc finger protein	GSE48081
+	AT1G28580	KAN1	GDSL-like Lipase/Acylhydrolase superfamily protein	GSE48081
+	AT1G28590	KAN1	GDSL-like Lipase/Acylhydrolase superfamily protein	GSE48081
+	AT1G28670	KAN1	GDSL-like Lipase/Acylhydrolase superfamily protein	GSE48081
+	AT1G28685	KAN1	other RNA	GSE48081
+	AT1G29160	KAN1	Dof-type zinc finger DNA-binding family protein	GSE48081
+	AT1G29170	KAN1	SCAR family protein	GSE48081
+	AT1G29330	KAN1	ER lumen protein retaining receptor family protein	GSE48081
+	AT1G29340	KAN1	plant U-box 17	GSE48081
+	AT1G29350	KAN1	Kinase-related protein of unknown function (DUF1296)	GSE48081
+	AT1G29400	KAN1	MEI2-like protein 5	GSE48081
+	AT1G29410	KAN1	phosphoribosylanthranilate isomerase 3	GSE48081
+	AT1G29650	KAN1	transposable element gene	GSE48081
+	AT1G29660	KAN1	GDSL-like Lipase/Acylhydrolase superfamily protein	GSE48081
+	AT1G30016	KAN1		GSE48081
+	AT1G30030	KAN1	transposable element gene	GSE48081
+	AT1G30100	KAN1	nine-cis-epoxycarotenoid dioxygenase 5	GSE48081
+	AT1G30110	KAN1	nudix hydrolase homolog 25	GSE48081
+	AT1G30190	KAN1		GSE48081
+	AT1G30200	KAN1	F-box family protein	GSE48081
+	AT1G30350	KAN1	Pectin lyase-like superfamily protein	GSE48081
+	AT1G30360	KAN1	Early-responsive to dehydration stress protein (ERD4)	GSE48081
+	AT1G30430	KAN1	pre-tRNA	GSE48081
+	AT1G30440	KAN1	Phototropic-responsive NPH3 family protein	GSE48081
+	AT1G31350	KAN1	KAR-UP F-box 1	GSE48081
+	AT1G31358	KAN1	MIR404; miRNA	GSE48081
+	AT1G32090	KAN1	early-responsive to dehydration stress protein (ERD4)	GSE48081
+	AT1G32100	KAN1	pinoresinol reductase 1	GSE48081
+	AT1G32160	KAN1	Protein of unknown function (DUF760)	GSE48081
+	AT1G32170	KAN1	xyloglucan endotransglucosylase/hydrolase 30	GSE48081
+	AT1G32230	KAN1	WWE protein-protein interaction domain protein family	GSE48081
+	AT1G32240	KAN1	Homeodomain-like superfamily protein	GSE48081
+	AT1G32350	KAN1	alternative oxidase 1D	GSE48081
+	AT1G32361	KAN1	RING/U-box superfamily protein	GSE48081
+	AT1G32375	KAN1	F-box/RNI-like/FBD-like domains-containing protein	GSE48081
+	AT1G32380	KAN1	phosphoribosyl pyrophosphate (PRPP) synthase 2	GSE48081
+	AT1G32530	KAN1	RING/U-box superfamily protein	GSE48081
+	AT1G32540	KAN1	lsd one like 1	GSE48081
+	AT1G32550	KAN1	2Fe-2S ferredoxin-like superfamily protein	GSE48081
+	AT1G32700	KAN1	PLATZ transcription factor family protein	GSE48081
+	AT1G32710	KAN1	Cytochrome c oxidase, subunit Vib family protein	GSE48081
+	AT1G33250	KAN1	Protein of unknown function (DUF604)	GSE48081
+	AT1G33260	KAN1	Protein kinase superfamily protein	GSE48081
+	AT1G33550	KAN1	transposable element gene	GSE48081
+	AT1G33560	KAN1	Disease resistance protein (CC-NBS-LRR class) family	GSE48081
+	AT1G34000	KAN1	one-helix protein 2	GSE48081
+	AT1G34020	KAN1	Nucleotide-sugar transporter family protein	GSE48081
+	AT1G34240	KAN1	transposable element gene	GSE48081
+	AT1G34245	KAN1	Putative membrane lipoprotein	GSE48081
+	AT1G35350	KAN1	EXS (ERD1/XPR1/SYG1) family protein	GSE48081
+	AT1G35360	KAN1	transposable element gene	GSE48081
+	AT1G35420	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT1G35430	KAN1		GSE48081
+	AT1G35550	KAN1	elongation factor Tu C-terminal domain-containing protein	GSE48081
+	AT1G35560	KAN1	TCP family transcription factor	GSE48081
+	AT1G35600	KAN1	transposable element gene	GSE48081
+	AT1G35610	KAN1	Cysteine/Histidine-rich C1 domain family protein	GSE48081
+	AT1G37120	KAN1	transposable element gene	GSE48081
+	AT1G37130	KAN1	nitrate reductase 2	GSE48081
+	AT1G38140	KAN1	transposable element gene	GSE48081
+	AT1G38149	KAN1	transposable element gene	GSE48081
+	AT1G44350	KAN1	IAA-leucine resistant (ILR)-like gene 6	GSE48081
+	AT1G44414	KAN1		GSE48081
+	AT1G44760	KAN1	Adenine nucleotide alpha hydrolases-like superfamily protein	GSE48081
+	AT1G44770	KAN1		GSE48081
+	AT1G46192	KAN1	transposable element gene	GSE48081
+	AT1G46264	KAN1	heat shock transcription factor  B4	GSE48081
+	AT1G47128	KAN1	Granulin repeat cysteine protease family protein	GSE48081
+	AT1G47200	KAN1	WPP domain protein 2	GSE48081
+	AT1G47860	KAN1	transposable element gene	GSE48081
+	AT1G47870	KAN1	winged-helix DNA-binding transcription factor family protein	GSE48081
+	AT1G47990	KAN1	gibberellin 2-oxidase 4	GSE48081
+	AT1G48000	KAN1	myb domain protein 112	GSE48081
+	AT1G48095	KAN1		GSE48081
+	AT1G48100	KAN1	Pectin lyase-like superfamily protein	GSE48081
+	AT1G48360	KAN1	zinc ion binding;nucleic acid binding;hydrolases, acting on acid anhydrides, in phosphorus-containing anhydrides	GSE48081
+	AT1G48370	KAN1	YELLOW STRIPE like 8	GSE48081
+	AT1G49190	KAN1	response regulator 19	GSE48081
+	AT1G49200	KAN1	RING/U-box superfamily protein	GSE48081
+	AT1G49440	KAN1	transposable element gene	GSE48081
+	AT1G49460	KAN1	pre-tRNA	GSE48081
+	AT1G49610	KAN1	F-box family protein	GSE48081
+	AT1G49620	KAN1	Cyclin-dependent kinase inhibitor family protein	GSE48081
+	AT1G49660	KAN1	carboxyesterase 5	GSE48081
+	AT1G49670	KAN1	ARP protein (REF)	GSE48081
+	AT1G49715	KAN1	Defensin-like (DEFL) family protein	GSE48081
+	AT1G49720	KAN1	abscisic acid responsive element-binding factor 1	GSE48081
+	AT1G49780	KAN1	plant U-box 26	GSE48081
+	AT1G49790	KAN1	F-box associated ubiquitination effector family protein	GSE48081
+	AT1G49840	KAN1	Protein of unknown function (DUF620)	GSE48081
+	AT1G49850	KAN1	RING/U-box superfamily protein	GSE48081
+	AT1G50420	KAN1	scarecrow-like 3	GSE48081
+	AT1G50430	KAN1	Ergosterol biosynthesis ERG4/ERG24 family	GSE48081
+	AT1G50950	KAN1	Thioredoxin protein with domain of unknown function (DUF1692)	GSE48081
+	AT1G50954	KAN1		GSE48081
+	AT1G51130	KAN1	Nse4, component of Smc5/6 DNA repair complex	GSE48081
+	AT1G51140	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT1G51700	KAN1	DOF zinc finger protein 1	GSE48081
+	AT1G51710	KAN1	ubiquitin-specific protease 6	GSE48081
+	AT1G51805	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT1G51810	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT1G51950	KAN1	indole-3-acetic acid inducible 18	GSE48081
+	AT1G51960	KAN1	IQ-domain 27	GSE48081
+	AT1G52020	KAN1	transposable element gene	GSE48081
+	AT1G52040	KAN1	myrosinase-binding protein 1	GSE48081
+	AT1G52185	KAN1	MIR406; miRNA	GSE48081
+	AT1G52190	KAN1	Major facilitator superfamily protein	GSE48081
+	AT1G52530	KAN1		GSE48081
+	AT1G52550	KAN1		GSE48081
+	AT1G52790	KAN1	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein	GSE48081
+	AT1G52800	KAN1	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein	GSE48081
+	AT1G52890	KAN1	NAC domain containing protein 19	GSE48081
+	AT1G52900	KAN1	Toll-Interleukin-Resistance (TIR) domain family protein	GSE48081
+	AT1G53040	KAN1	Protein of unknown function (DUF616)	GSE48081
+	AT1G53050	KAN1	Protein kinase superfamily protein	GSE48081
+	AT1G53080	KAN1	Legume lectin family protein	GSE48081
+	AT1G53090	KAN1	SPA1-related 4	GSE48081
+	AT1G53140	KAN1	Dynamin related protein 5A	GSE48081
+	AT1G53160	KAN1	squamosa promoter binding protein-like 4	GSE48081
+	AT1G53170	KAN1	ethylene response factor 8	GSE48081
+	AT1G53180	KAN1		GSE48081
+	AT1G53220	KAN1	pre-tRNA	GSE48081
+	AT1G53230	KAN1	TEOSINTE BRANCHED 1, cycloidea and PCF transcription factor 3	GSE48081
+	AT1G53310	KAN1	phosphoenolpyruvate carboxylase 1	GSE48081
+	AT1G53320	KAN1	tubby like protein 7	GSE48081
+	AT1G53370	KAN1	F-box and associated interaction domains-containing protein	GSE48081
+	AT1G53390	KAN1	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT1G53720	KAN1	cyclophilin 59	GSE48081
+	AT1G53730	KAN1	STRUBBELIG-receptor family 6	GSE48081
+	AT1G53885	KAN1	Protein of unknown function (DUF581)	GSE48081
+	AT1G53887	KAN1		GSE48081
+	AT1G53903	KAN1	Protein of unknown function (DUF581)	GSE48081
+	AT1G53910	KAN1	related to AP2 12	GSE48081
+	AT1G54115	KAN1	cation calcium exchanger 4	GSE48081
+	AT1G54120	KAN1		GSE48081
+	AT1G54200	KAN1		GSE48081
+	AT1G54210	KAN1	Ubiquitin-like superfamily protein	GSE48081
+	AT1G54410	KAN1	dehydrin family protein	GSE48081
+	AT1G54420	KAN1		GSE48081
+	AT1G54570	KAN1	Esterase/lipase/thioesterase family protein	GSE48081
+	AT1G54575	KAN1		GSE48081
+	AT1G54720	KAN1	early-responsive to dehydration protein-related / ERD protein-related	GSE48081
+	AT1G54740	KAN1	Protein of unknown function (DUF3049)	GSE48081
+	AT1G55207	KAN1		GSE48081
+	AT1G55210	KAN1	Disease resistance-responsive (dirigent-like protein) family protein	GSE48081
+	AT1G55270	KAN1	Galactose oxidase/kelch repeat superfamily protein	GSE48081
+	AT1G55280	KAN1	Lipase/lipooxygenase, PLAT/LH2 family protein	GSE48081
+	AT1G55610	KAN1	BRI1 like	GSE48081
+	AT1G55620	KAN1	chloride channel F	GSE48081
+	AT1G55690	KAN1	Sec14p-like phosphatidylinositol transfer family protein	GSE48081
+	AT1G55700	KAN1	Cysteine/Histidine-rich C1 domain family protein	GSE48081
+	AT1G55760	KAN1	BTB/POZ domain-containing protein	GSE48081
+	AT1G55770	KAN1	Plant invertase/pectin methylesterase inhibitor superfamily protein	GSE48081
+	AT1G55790	KAN1	Domain of unknown function (DUF2431)	GSE48081
+	AT1G56000	KAN1	FAD/NAD(P)-binding oxidoreductase family protein	GSE48081
+	AT1G56020	KAN1		GSE48081
+	AT1G56145	KAN1	Leucine-rich repeat transmembrane protein kinase	GSE48081
+	AT1G56150	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT1G56242	KAN1	other RNA	GSE48081
+	AT1G56250	KAN1	phloem protein 2-B14	GSE48081
+	AT1G56590	KAN1	Clathrin adaptor complexes medium subunit family protein	GSE48081
+	AT1G56600	KAN1	galactinol synthase 2	GSE48081
+	AT1G56630	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT1G56650	KAN1	production of anthocyanin pigment 1	GSE48081
+	AT1G56690	KAN1	Pentatricopeptide repeat (PPR) superfamily protein	GSE48081
+	AT1G56700	KAN1	Peptidase C15, pyroglutamyl peptidase I-like	GSE48081
+	AT1G57990	KAN1	purine permease 18	GSE48081
+	AT1G58007	KAN1		GSE48081
+	AT1G58080	KAN1	ATP phosphoribosyl transferase 1	GSE48081
+	AT1G58090	KAN1	F-box and associated interaction domains-containing protein	GSE48081
+	AT1G58340	KAN1	MATE efflux family protein	GSE48081
+	AT1G58350	KAN1	Putative serine esterase  family protein	GSE48081
+	AT1G58450	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT1G58460	KAN1		GSE48081
+	AT1G58590	KAN1	other RNA	GSE48081
+	AT1G58602	KAN1	LRR and NB-ARC domains-containing disease resistance protein	GSE48081
+	AT1G59730	KAN1	thioredoxin H-type 7	GSE48081
+	AT1G59740	KAN1	Major facilitator superfamily protein	GSE48081
+	AT1G60010	KAN1		GSE48081
+	AT1G60020	KAN1	transposable element gene	GSE48081
+	AT1G60150	KAN1	transposable element gene	GSE48081
+	AT1G60160	KAN1	Potassium transporter family protein	GSE48081
+	AT1G60940	KAN1	SNF1-related protein kinase 2.10	GSE48081
+	AT1G60950	KAN1	2Fe-2S ferredoxin-like superfamily protein	GSE48081
+	AT1G61100	KAN1	disease resistance protein (TIR class), putative	GSE48081
+	AT1G61105	KAN1	Toll-Interleukin-Resistance (TIR) domain family protein	GSE48081
+	AT1G61350	KAN1	ARM repeat superfamily protein	GSE48081
+	AT1G61353	KAN1		GSE48081
+	AT1G61380	KAN1	S-domain-1 29	GSE48081
+	AT1G61390	KAN1	S-locus lectin protein kinase family protein	GSE48081
+	AT1G61660	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT1G61667	KAN1	Protein of unknown function, DUF538	GSE48081
+	AT1G62301	KAN1		GSE48081
+	AT1G62305	KAN1	Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein	GSE48081
+	AT1G62370	KAN1	RING/U-box superfamily protein	GSE48081
+	AT1G62380	KAN1	ACC oxidase 2	GSE48081
+	AT1G62430	KAN1	CDP-diacylglycerol synthase 1	GSE48081
+	AT1G62440	KAN1	leucine-rich repeat/extensin 2	GSE48081
+	AT1G62500	KAN1	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein	GSE48081
+	AT1G62510	KAN1	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein	GSE48081
+	AT1G62810	KAN1	Copper amine oxidase family protein	GSE48081
+	AT1G62820	KAN1	Calcium-binding EF-hand family protein	GSE48081
+	AT1G62981	KAN1	Protein of unknown function (DUF1191)	GSE48081
+	AT1G62990	KAN1	KNOTTED-like homeobox of Arabidopsis thaliana 7	GSE48081
+	AT1G63090	KAN1	phloem protein 2-A11	GSE48081
+	AT1G63100	KAN1	GRAS family transcription factor	GSE48081
+	AT1G63640	KAN1	P-loop nucleoside triphosphate hydrolases superfamily protein with CH (Calponin Homology) domain	GSE48081
+	AT1G63650	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT1G63680	KAN1	acid-amino acid ligases;ligases;ATP binding;ATP binding;ligases	GSE48081
+	AT1G63690	KAN1	SIGNAL PEPTIDE PEPTIDASE-LIKE 2	GSE48081
+	AT1G63860	KAN1	Disease resistance protein (TIR-NBS-LRR class) family	GSE48081
+	AT1G63870	KAN1	Disease resistance protein (TIR-NBS-LRR class) family	GSE48081
+	AT1G64050	KAN1		GSE48081
+	AT1G64065	KAN1	Late embryogenesis abundant (LEA) hydroxyproline-rich glycoprotein family	GSE48081
+	AT1G64380	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT1G64385	KAN1		GSE48081
+	AT1G64490	KAN1	DEK, chromatin associated protein	GSE48081
+	AT1G64500	KAN1	Glutaredoxin family protein	GSE48081
+	AT1G64520	KAN1	regulatory particle non-ATPase 12A	GSE48081
+	AT1G64530	KAN1	Plant regulator RWP-RK family protein	GSE48081
+	AT1G64618	KAN1	other RNA	GSE48081
+	AT1G64620	KAN1	Dof-type zinc finger DNA-binding family protein	GSE48081
+	AT1G64625	KAN1	Serine/threonine-protein kinase WNK (With No Lysine)-related	GSE48081
+	AT1G65070	KAN1	DNA mismatch repair protein MutS, type 2	GSE48081
+	AT1G65080	KAN1	Membrane insertion protein, OxaA/YidC with tetratricopeptide repeat domain	GSE48081
+	AT1G65295	KAN1		GSE48081
+	AT1G65300	KAN1	AGAMOUS-like 38	GSE48081
+	AT1G65580	KAN1	Endonuclease/exonuclease/phosphatase family protein	GSE48081
+	AT1G65610	KAN1	Six-hairpin glycosidases superfamily protein	GSE48081
+	AT1G65620	KAN1	Lateral organ boundaries (LOB) domain family protein	GSE48081
+	AT1G65830	KAN1	pre-tRNA	GSE48081
+	AT1G65840	KAN1	polyamine oxidase 4	GSE48081
+	AT1G65950	KAN1	Protein kinase superfamily protein	GSE48081
+	AT1G65970	KAN1	thioredoxin-dependent peroxidase 2	GSE48081
+	AT1G66130	KAN1	NAD(P)-binding Rossmann-fold superfamily protein	GSE48081
+	AT1G66145	KAN1	CLAVATA3/ESR-RELATED 18	GSE48081
+	AT1G66150	KAN1	transmembrane kinase 1	GSE48081
+	AT1G66160	KAN1	CYS, MET, PRO, and GLY protein 1	GSE48081
+	AT1G66173	KAN1	other RNA	GSE48081
+	AT1G66180	KAN1	Eukaryotic aspartyl protease family protein	GSE48081
+	AT1G66190	KAN1		GSE48081
+	AT1G66220	KAN1	Subtilase family protein	GSE48081
+	AT1G66230	KAN1	myb domain protein 20	GSE48081
+	AT1G66320	KAN1	F-box/RNI-like superfamily protein	GSE48081
+	AT1G66340	KAN1	Signal transduction histidine kinase, hybrid-type, ethylene sensor	GSE48081
+	AT1G66345	KAN1	Pentatricopeptide repeat (PPR) superfamily protein	GSE48081
+	AT1G66350	KAN1	RGA-like 1	GSE48081
+	AT1G66590	KAN1	cytochrome c oxidase 19-1	GSE48081
+	AT1G66600	KAN1	ABA overly sensitive mutant 3	GSE48081
+	AT1G66783	KAN1	MIR157A; miRNA	GSE48081
+	AT1G66790	KAN1		GSE48081
+	AT1G66795	KAN1	MIR157B; miRNA	GSE48081
+	AT1G66840	KAN1	Plant protein of unknown function (DUF827)	GSE48081
+	AT1G66850	KAN1	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein	GSE48081
+	AT1G66920	KAN1	Protein kinase superfamily protein	GSE48081
+	AT1G66930	KAN1	Protein kinase superfamily protein	GSE48081
+	AT1G66940	KAN1	protein kinase-related	GSE48081
+	AT1G66950	KAN1	pleiotropic drug resistance 11	GSE48081
+	AT1G67040	KAN1		GSE48081
+	AT1G67050	KAN1		GSE48081
+	AT1G67060	KAN1		GSE48081
+	AT1G67190	KAN1	F-box/RNI-like superfamily protein	GSE48081
+	AT1G67195	KAN1	MIR414 (MICRORNA 414)	GSE48081
+	AT1G67460	KAN1	Minichromosome maintenance (MCM2/3/5) family protein	GSE48081
+	AT1G67470	KAN1	Protein kinase superfamily protein	GSE48081
+	AT1G67480	KAN1	Galactose oxidase/kelch repeat superfamily protein	GSE48081
+	AT1G67590	KAN1	Remorin family protein	GSE48081
+	AT1G67600	KAN1	Acid phosphatase/vanadium-dependent haloperoxidase-related protein	GSE48081
+	AT1G67710	KAN1	response regulator 11	GSE48081
+	AT1G67720	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT1G67810	KAN1	sulfur E2	GSE48081
+	AT1G67820	KAN1	Protein phosphatase 2C family protein	GSE48081
+	AT1G67880	KAN1	beta-1,4-N-acetylglucosaminyltransferase family protein	GSE48081
+	AT1G67890	KAN1	PAS domain-containing protein tyrosine kinase family protein	GSE48081
+	AT1G67900	KAN1	Phototropic-responsive NPH3 family protein	GSE48081
+	AT1G67910	KAN1		GSE48081
+	AT1G68120	KAN1	basic pentacysteine 3	GSE48081
+	AT1G68130	KAN1	indeterminate(ID)-domain 14	GSE48081
+	AT1G68390	KAN1	Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein	GSE48081
+	AT1G68410	KAN1	Protein phosphatase 2C family protein	GSE48081
+	AT1G68480	KAN1	C2H2 and C2HC zinc fingers superfamily protein	GSE48081
+	AT1G68490	KAN1		GSE48081
+	AT1G68500	KAN1		GSE48081
+	AT1G68510	KAN1	LOB domain-containing protein 42	GSE48081
+	AT1G68520	KAN1	B-box type zinc finger protein with CCT domain	GSE48081
+	AT1G68526	KAN1		GSE48081
+	AT1G68530	KAN1	3-ketoacyl-CoA synthase 6	GSE48081
+	AT1G68540	KAN1	NAD(P)-binding Rossmann-fold superfamily protein	GSE48081
+	AT1G68610	KAN1	PLANT CADMIUM RESISTANCE 11	GSE48081
+	AT1G68620	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT1G68660	KAN1	Ribosomal protein L12/ ATP-dependent Clp protease adaptor protein ClpS family protein	GSE48081
+	AT1G68670	KAN1	myb-like transcription factor family protein	GSE48081
+	AT1G68680	KAN1		GSE48081
+	AT1G68710	KAN1	ATPase E1-E2 type family protein / haloacid dehalogenase-like hydrolase family protein	GSE48081
+	AT1G68720	KAN1	tRNA arginine adenosine deaminase	GSE48081
+	AT1G68830	KAN1	STT7 homolog STN7	GSE48081
+	AT1G68840	KAN1	related to ABI3/VP1 2	GSE48081
+	AT1G69030	KAN1	BSD domain-containing protein	GSE48081
+	AT1G69040	KAN1	ACT domain repeat 4	GSE48081
+	AT1G69252	KAN1	other RNA	GSE48081
+	AT1G69270	KAN1	receptor-like protein kinase 1	GSE48081
+	AT1G69280	KAN1		GSE48081
+	AT1G69440	KAN1	Argonaute family protein	GSE48081
+	AT1G69450	KAN1	Early-responsive to dehydration stress protein (ERD4)	GSE48081
+	AT1G69485	KAN1	Ribosomal L32p protein family	GSE48081
+	AT1G69490	KAN1	NAC-like, activated by AP3/PI	GSE48081
+	AT1G69526	KAN1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	GSE48081
+	AT1G69530	KAN1	expansin A1	GSE48081
+	AT1G69540	KAN1	AGAMOUS-like 94	GSE48081
+	AT1G69760	KAN1		GSE48081
+	AT1G69770	KAN1	chromomethylase 3	GSE48081
+	AT1G69850	KAN1	nitrate transporter 1:2	GSE48081
+	AT1G69860	KAN1	Major facilitator superfamily protein	GSE48081
+	AT1G70010	KAN1	transposable element gene	GSE48081
+	AT1G70020	KAN1	Protein of unknown function (DUF1163)	GSE48081
+	AT1G70080	KAN1	Terpenoid cyclases/Protein prenyltransferases superfamily protein	GSE48081
+	AT1G70090	KAN1	glucosyl transferase family 8	GSE48081
+	AT1G70280	KAN1	NHL domain-containing protein	GSE48081
+	AT1G70290	KAN1	trehalose-6-phosphatase synthase S8	GSE48081
+	AT1G70300	KAN1	K+ uptake permease 6	GSE48081
+	AT1G70420	KAN1	Protein of unknown function (DUF1645)	GSE48081
+	AT1G70430	KAN1	Protein kinase superfamily protein	GSE48081
+	AT1G70530	KAN1	cysteine-rich RLK (RECEPTOR-like protein kinase) 3	GSE48081
+	AT1G70540	KAN1	Plant invertase/pectin methylesterase inhibitor superfamily protein	GSE48081
+	AT1G70560	KAN1	tryptophan aminotransferase of Arabidopsis 1	GSE48081
+	AT1G70680	KAN1	Caleosin-related family protein	GSE48081
+	AT1G70690	KAN1	Receptor-like protein kinase-related family protein	GSE48081
+	AT1G70740	KAN1	Protein kinase superfamily protein	GSE48081
+	AT1G70750	KAN1	Protein of unknown function, DUF593	GSE48081
+	AT1G70770	KAN1	Protein of unknown function DUF2359, transmembrane	GSE48081
+	AT1G70780	KAN1		GSE48081
+	AT1G70782	KAN1	conserved peptide upstream open reading frame 28	GSE48081
+	AT1G70940	KAN1	Auxin efflux carrier family protein	GSE48081
+	AT1G70944	KAN1		GSE48081
+	AT1G71697	KAN1	choline kinase 1	GSE48081
+	AT1G71720	KAN1	Nucleic acid-binding proteins superfamily	GSE48081
+	AT1G71870	KAN1	MATE efflux family protein	GSE48081
+	AT1G71880	KAN1	sucrose-proton symporter 1	GSE48081
+	AT1G71950	KAN1	Proteinase inhibitor, propeptide	GSE48081
+	AT1G71970	KAN1		GSE48081
+	AT1G71980	KAN1	Protease-associated (PA) RING/U-box zinc finger family protein	GSE48081
+	AT1G72000	KAN1	Plant neutral invertase family protein	GSE48081
+	AT1G72020	KAN1		GSE48081
+	AT1G72150	KAN1	PATELLIN 1	GSE48081
+	AT1G72160	KAN1	Sec14p-like phosphatidylinositol transfer family protein	GSE48081
+	AT1G72175	KAN1	RING/U-box protein with domain of unknown function (DUF 1232)	GSE48081
+	AT1G72180	KAN1	Leucine-rich receptor-like protein kinase family protein	GSE48081
+	AT1G72410	KAN1	COP1-interacting protein-related	GSE48081
+	AT1G72416	KAN1	Chaperone DnaJ-domain superfamily protein	GSE48081
+	AT1G72450	KAN1	jasmonate-zim-domain protein 6	GSE48081
+	AT1G72460	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT1G72500	KAN1		GSE48081
+	AT1G72510	KAN1	Protein of unknown function (DUF1677)	GSE48081
+	AT1G72760	KAN1	Protein kinase superfamily protein	GSE48081
+	AT1G72770	KAN1	homology to ABI1	GSE48081
+	AT1G73370	KAN1	sucrose synthase 6	GSE48081
+	AT1G73380	KAN1		GSE48081
+	AT1G73490	KAN1	RNA-binding (RRM/RBD/RNP motifs) family protein	GSE48081
+	AT1G73500	KAN1	MAP kinase kinase 9	GSE48081
+	AT1G73590	KAN1	Auxin efflux carrier family protein	GSE48081
+	AT1G73600	KAN1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	GSE48081
+	AT1G73607	KAN1	low-molecular-weight cysteine-rich 65	GSE48081
+	AT1G73830	KAN1	BR enhanced expression 3	GSE48081
+	AT1G73840	KAN1	hydroxyproline-rich glycoprotein family protein	GSE48081
+	AT1G73850	KAN1	Protein of unknown function (DUF1666)	GSE48081
+	AT1G73860	KAN1	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT1G74500	KAN1	activation-tagged BRI1(brassinosteroid-insensitive 1)-suppressor 1	GSE48081
+	AT1G74510	KAN1	Galactose oxidase/kelch repeat superfamily protein	GSE48081
+	AT1G74660	KAN1	mini zinc finger 1	GSE48081
+	AT1G74670	KAN1	Gibberellin-regulated family protein	GSE48081
+	AT1G74710	KAN1	ADC synthase superfamily protein	GSE48081
+	AT1G74720	KAN1	C2 calcium/lipid-binding plant phosphoribosyltransferase family protein	GSE48081
+	AT1G74780	KAN1	Nodulin-like / Major Facilitator Superfamily protein	GSE48081
+	AT1G74790	KAN1	catalytics	GSE48081
+	AT1G74930	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT1G74950	KAN1	TIFY domain/Divergent CCT motif family protein	GSE48081
+	AT1G74960	KAN1	fatty acid biosynthesis 1	GSE48081
+	AT1G74970	KAN1	ribosomal protein S9	GSE48081
+	AT1G74990	KAN1	RING/U-box superfamily protein	GSE48081
+	AT1G75000	KAN1	GNS1/SUR4 membrane protein family	GSE48081
+	AT1G75295	KAN1	other RNA	GSE48081
+	AT1G75310	KAN1	auxin-like 1 protein	GSE48081
+	AT1G75410	KAN1	BEL1-like homeodomain 3	GSE48081
+	AT1G75420	KAN1	UDP-Glycosyltransferase superfamily protein	GSE48081
+	AT1G75430	KAN1	BEL1-like homeodomain 11	GSE48081
+	AT1G75440	KAN1	ubiquitin-conjugating enzyme 16	GSE48081
+	AT1G75450	KAN1	cytokinin oxidase 5	GSE48081
+	AT1G75460	KAN1	ATP-dependent protease La (LON) domain protein	GSE48081
+	AT1G75530	KAN1	Forkhead-associated (FHA) domain-containing protein	GSE48081
+	AT1G75540	KAN1	salt tolerance homolog2	GSE48081
+	AT1G75550	KAN1	glycine-rich protein	GSE48081
+	AT1G75570	KAN1	pre-tRNA	GSE48081
+	AT1G75580	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT1G75700	KAN1	HVA22-like protein G	GSE48081
+	AT1G75717	KAN1		GSE48081
+	AT1G76070	KAN1		GSE48081
+	AT1G76080	KAN1	chloroplastic drought-induced stress protein of 32 kD	GSE48081
+	AT1G76090	KAN1	sterol methyltransferase 3	GSE48081
+	AT1G76160	KAN1	SKU5 similar 5	GSE48081
+	AT1G76170	KAN1	2-thiocytidine tRNA biosynthesis protein, TtcA	GSE48081
+	AT1G76180	KAN1	Dehydrin family protein	GSE48081
+	AT1G76185	KAN1		GSE48081
+	AT1G76360	KAN1	Protein kinase superfamily protein	GSE48081
+	AT1G76370	KAN1	Protein kinase superfamily protein	GSE48081
+	AT1G76510	KAN1	ARID/BRIGHT DNA-binding domain-containing protein	GSE48081
+	AT1G76520	KAN1	Auxin efflux carrier family protein	GSE48081
+	AT1G76550	KAN1	Phosphofructokinase family protein	GSE48081
+	AT1G76560	KAN1	CP12 domain-containing protein 3	GSE48081
+	AT1G76980	KAN1		GSE48081
+	AT1G76990	KAN1	ACT domain repeat 3	GSE48081
+	AT1G76994	KAN1		GSE48081
+	AT1G77490	KAN1	thylakoidal ascorbate peroxidase	GSE48081
+	AT1G77500	KAN1	Protein of unknown function (DUF630 and DUF632)	GSE48081
+	AT1G77630	KAN1	Peptidoglycan-binding LysM domain-containing protein	GSE48081
+	AT1G77640	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT1G77740	KAN1	phosphatidylinositol-4-phosphate 5-kinase 2	GSE48081
+	AT1G77746	KAN1		GSE48081
+	AT1G77750	KAN1	Ribosomal protein S13/S18 family	GSE48081
+	AT1G77910	KAN1		GSE48081
+	AT1G77920	KAN1	bZIP transcription factor family protein	GSE48081
+	AT1G77992	KAN1	other RNA	GSE48081
+	AT1G78000	KAN1	sulfate transporter 1;2	GSE48081
+	AT1G78020	KAN1	Protein of unknown function (DUF581)	GSE48081
+	AT1G78030	KAN1		GSE48081
+	AT1G78140	KAN1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	GSE48081
+	AT1G78160	KAN1	pumilio 7	GSE48081
+	AT1G78170	KAN1		GSE48081
+	AT1G78220	KAN1	general regulatory factor 13	GSE48081
+	AT1G78230	KAN1	Outer arm dynein light chain 1 protein	GSE48081
+	AT1G78240	KAN1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	GSE48081
+	AT1G78250	KAN1	pre-tRNA	GSE48081
+	AT1G78410	KAN1	VQ motif-containing protein	GSE48081
+	AT1G78420	KAN1	RING/U-box superfamily protein	GSE48081
+	AT1G78430	KAN1	ROP interactive partner 2	GSE48081
+	AT1G78440	KAN1	Arabidopsis thaliana gibberellin 2-oxidase 1	GSE48081
+	AT1G78850	KAN1	D-mannose binding lectin protein with Apple-like carbohydrate-binding domain	GSE48081
+	AT1G78860	KAN1	D-mannose binding lectin protein with Apple-like carbohydrate-binding domain	GSE48081
+	AT1G78870	KAN1	ubiquitin-conjugating enzyme 35	GSE48081
+	AT1G79060	KAN1		GSE48081
+	AT1G79070	KAN1	SNARE-associated protein-related	GSE48081
+	AT1G79110	KAN1	zinc ion binding	GSE48081
+	AT1G79120	KAN1	Ubiquitin carboxyl-terminal hydrolase family protein	GSE48081
+	AT1G79130	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT1G79620	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT1G79640	KAN1	Protein kinase superfamily protein	GSE48081
+	AT1G79830	KAN1	golgin candidate 5	GSE48081
+	AT1G79840	KAN1	HD-ZIP IV family of homeobox-leucine zipper protein with lipid-binding START domain	GSE48081
+	AT1G80290	KAN1	Nucleotide-diphospho-sugar transferases superfamily protein	GSE48081
+	AT1G80300	KAN1	nucleotide transporter 1	GSE48081
+	AT1G80420	KAN1	BRCT domain-containing DNA repair protein	GSE48081
+	AT1G80440	KAN1	Galactose oxidase/kelch repeat superfamily protein	GSE48081
+	AT1G80450	KAN1	VQ motif-containing protein	GSE48081
+	AT1G80470	KAN1	F-box/RNI-like/FBD-like domains-containing protein	GSE48081
+	AT1G80630	KAN1	RNI-like superfamily protein	GSE48081
+	AT1G80640	KAN1	Protein kinase superfamily protein	GSE48081
+	AT1G80831	KAN1		GSE48081
+	AT1G80840	KAN1	WRKY DNA-binding protein 40	GSE48081
+	AT1G80865	KAN1		GSE48081
+	AT1G80870	KAN1	Protein kinase superfamily protein	GSE48081
+	AT1G80930	KAN1	MIF4G domain-containing protein / MA3 domain-containing protein	GSE48081
+	AT1G80940	KAN1		GSE48081
+	AT2G01280	KAN1	Cyclin/Brf1-like TBP-binding protein	GSE48081
+	AT2G01300	KAN1		GSE48081
+	AT2G01410	KAN1	NHL domain-containing protein	GSE48081
+	AT2G01420	KAN1	Auxin efflux carrier family protein	GSE48081
+	AT2G01560	KAN1	Plant protein 1589 of unknown function	GSE48081
+	AT2G01570	KAN1	GRAS family transcription factor family protein	GSE48081
+	AT2G01580	KAN1		GSE48081
+	AT2G01670	KAN1	nudix hydrolase homolog 17	GSE48081
+	AT2G01680	KAN1	Ankyrin repeat family protein	GSE48081
+	AT2G01840	KAN1	transposable element gene	GSE48081
+	AT2G01850	KAN1	endoxyloglucan transferase A3	GSE48081
+	AT2G01860	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT2G01900	KAN1	DNAse I-like superfamily protein	GSE48081
+	AT2G01910	KAN1	Microtubule associated protein (MAP65/ASE1) family protein	GSE48081
+	AT2G01930	KAN1	basic pentacysteine1	GSE48081
+	AT2G01940	KAN1	C2H2-like zinc finger protein	GSE48081
+	AT2G02070	KAN1	indeterminate(ID)-domain 5	GSE48081
+	AT2G02080	KAN1	indeterminate(ID)-domain 4	GSE48081
+	AT2G02440	KAN1		GSE48081
+	AT2G02450	KAN1	NAC domain containing protein 35	GSE48081
+	AT2G02830	KAN1	transposable element gene	GSE48081
+	AT2G02835	KAN1		GSE48081
+	AT2G02950	KAN1	phytochrome kinase substrate 1	GSE48081
+	AT2G02955	KAN1	maternal effect embryo arrest 12	GSE48081
+	AT2G03500	KAN1	Homeodomain-like superfamily protein	GSE48081
+	AT2G03505	KAN1	Carbohydrate-binding X8 domain superfamily protein	GSE48081
+	AT2G03730	KAN1	ACT domain repeat 5	GSE48081
+	AT2G03740	KAN1	late embryogenesis abundant domain-containing protein / LEA domain-containing protein	GSE48081
+	AT2G03890	KAN1	phosphoinositide 4-kinase gamma 7	GSE48081
+	AT2G03913	KAN1	Cysteine-rich protein	GSE48081
+	AT2G04140	KAN1	transposable element gene	GSE48081
+	AT2G04170	KAN1	TRAF-like family protein	GSE48081
+	AT2G04240	KAN1	RING/U-box superfamily protein	GSE48081
+	AT2G04270	KAN1	RNAse E/G-like	GSE48081
+	AT2G04790	KAN1		GSE48081
+	AT2G04795	KAN1		GSE48081
+	AT2G05518	KAN1		GSE48081
+	AT2G05520	KAN1	glycine-rich protein 3	GSE48081
+	AT2G07042	KAN1	other RNA	GSE48081
+	AT2G07050	KAN1	cycloartenol synthase 1	GSE48081
+	AT2G10530	KAN1	transposable element gene	GSE48081
+	AT2G10535	KAN1	low-molecular-weight cysteine-rich 29	GSE48081
+	AT2G15820	KAN1	endonucleases	GSE48081
+	AT2G15830	KAN1		GSE48081
+	AT2G15860	KAN1		GSE48081
+	AT2G15890	KAN1	maternal effect embryo arrest 14	GSE48081
+	AT2G15900	KAN1	Phox-associated domain;Phox-like;Sorting nexin, C-terminal	GSE48081
+	AT2G16400	KAN1	BEL1-like homeodomain 7	GSE48081
+	AT2G16405	KAN1	Transducin/WD40 repeat-like superfamily protein	GSE48081
+	AT2G16430	KAN1	purple acid phosphatase 10	GSE48081
+	AT2G16440	KAN1	Minichromosome maintenance (MCM2/3/5) family protein	GSE48081
+	AT2G16490	KAN1	XH domain-containing protein	GSE48081
+	AT2G16500	KAN1	arginine decarboxylase 1	GSE48081
+	AT2G16600	KAN1	rotamase CYP 3	GSE48081
+	AT2G16610	KAN1	transposable element gene	GSE48081
+	AT2G16660	KAN1	Major facilitator superfamily protein	GSE48081
+	AT2G16668	KAN1		GSE48081
+	AT2G16700	KAN1	actin depolymerizing factor 5	GSE48081
+	AT2G16710	KAN1	Iron-sulphur cluster biosynthesis family protein	GSE48081
+	AT2G16850	KAN1	plasma membrane intrinsic protein 2;8	GSE48081
+	AT2G16860	KAN1	GCIP-interacting family protein	GSE48081
+	AT2G17550	KAN1		GSE48081
+	AT2G17556	KAN1		GSE48081
+	AT2G17705	KAN1		GSE48081
+	AT2G17710	KAN1		GSE48081
+	AT2G18290	KAN1	anaphase promoting complex 10	GSE48081
+	AT2G18300	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT2G18660	KAN1	plant natriuretic peptide A	GSE48081
+	AT2G18670	KAN1	RING/U-box superfamily protein	GSE48081
+	AT2G18690	KAN1		GSE48081
+	AT2G18700	KAN1	trehalose phosphatase/synthase 11	GSE48081
+	AT2G18721	KAN1		GSE48081
+	AT2G18730	KAN1	diacylglycerol kinase 3	GSE48081
+	AT2G18780	KAN1	F-box and associated interaction domains-containing protein	GSE48081
+	AT2G18790	KAN1	phytochrome B	GSE48081
+	AT2G18950	KAN1	homogentisate phytyltransferase 1	GSE48081
+	AT2G18960	KAN1	H(+)-ATPase 1	GSE48081
+	AT2G18970	KAN1		GSE48081
+	AT2G18980	KAN1	Peroxidase superfamily protein	GSE48081
+	AT2G19780	KAN1	Leucine-rich repeat (LRR) family protein	GSE48081
+	AT2G19790	KAN1	SNARE-like superfamily protein	GSE48081
+	AT2G20050	KAN1	protein serine/threonine phosphatases;protein kinases;catalytics;cAMP-dependent protein kinase regulators;ATP binding;protein serine/threonine phosphatases	GSE48081
+	AT2G20060	KAN1	Ribosomal protein L4/L1 family	GSE48081
+	AT2G20170	KAN1	Protein of Unknown Function (DUF239)	GSE48081
+	AT2G20190	KAN1	CLIP-associated protein	GSE48081
+	AT2G20240	KAN1	Protein of unknown function (DUF3741)	GSE48081
+	AT2G20250	KAN1		GSE48081
+	AT2G20570	KAN1	GBF's pro-rich region-interacting factor 1	GSE48081
+	AT2G20580	KAN1	26S proteasome regulatory subunit S2 1A	GSE48081
+	AT2G20670	KAN1	Protein of unknown function (DUF506)	GSE48081
+	AT2G20680	KAN1	Glycosyl hydrolase superfamily protein	GSE48081
+	AT2G21210	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT2G21220	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT2G21300	KAN1	ATP binding microtubule motor family protein	GSE48081
+	AT2G21310	KAN1	transposable element gene	GSE48081
+	AT2G21330	KAN1	fructose-bisphosphate aldolase 1	GSE48081
+	AT2G21340	KAN1	MATE efflux family protein	GSE48081
+	AT2G22180	KAN1	hydroxyproline-rich glycoprotein family protein	GSE48081
+	AT2G22190	KAN1	Haloacid dehalogenase-like hydrolase (HAD) superfamily protein	GSE48081
+	AT2G22280	KAN1	pre-tRNA	GSE48081
+	AT2G22290	KAN1	RAB GTPase homolog H1D	GSE48081
+	AT2G22320	KAN1		GSE48081
+	AT2G22330	KAN1	cytochrome P450, family 79, subfamily B, polypeptide 3	GSE48081
+	AT2G22750	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT2G22760	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT2G22795	KAN1		GSE48081
+	AT2G22800	KAN1	Homeobox-leucine zipper protein family	GSE48081
+	AT2G22802	KAN1		GSE48081
+	AT2G22980	KAN1	serine carboxypeptidase-like 13	GSE48081
+	AT2G22990	KAN1	sinapoylglucose 1	GSE48081
+	AT2G23120	KAN1	Late embryogenesis abundant protein, group 6	GSE48081
+	AT2G23130	KAN1	arabinogalactan protein 17	GSE48081
+	AT2G23171	KAN1		GSE48081
+	AT2G23180	KAN1	cytochrome P450, family 96, subfamily A, polypeptide 1	GSE48081
+	AT2G23290	KAN1	myb domain protein 70	GSE48081
+	AT2G23300	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT2G23420	KAN1	nicotinate phosphoribosyltransferase 2	GSE48081
+	AT2G23430	KAN1	Cyclin-dependent kinase inhibitor family protein	GSE48081
+	AT2G23440	KAN1		GSE48081
+	AT2G23450	KAN1	Protein kinase superfamily protein	GSE48081
+	AT2G23460	KAN1	extra-large G-protein 1	GSE48081
+	AT2G23600	KAN1	acetone-cyanohydrin lyase	GSE48081
+	AT2G23610	KAN1	methyl esterase 3	GSE48081
+	AT2G23620	KAN1	methyl esterase 1	GSE48081
+	AT2G23690	KAN1		GSE48081
+	AT2G23700	KAN1	Protein of unknown function, DUF547	GSE48081
+	AT2G23755	KAN1		GSE48081
+	AT2G23760	KAN1	BEL1-like homeodomain 4	GSE48081
+	AT2G23790	KAN1	Protein of unknown function (DUF607)	GSE48081
+	AT2G23800	KAN1	geranylgeranyl pyrophosphate synthase 2	GSE48081
+	AT2G24150	KAN1	heptahelical protein 3	GSE48081
+	AT2G24170	KAN1	Endomembrane protein 70 protein family	GSE48081
+	AT2G24580	KAN1	FAD-dependent oxidoreductase family protein	GSE48081
+	AT2G24590	KAN1	RNA recognition motif and CCHC-type zinc finger domains containing protein	GSE48081
+	AT2G24760	KAN1	transposable element gene	GSE48081
+	AT2G24762	KAN1	glutamine dumper 4	GSE48081
+	AT2G25070	KAN1	Protein phosphatase 2C family protein	GSE48081
+	AT2G25080	KAN1	glutathione peroxidase 1	GSE48081
+	AT2G25460	KAN1		GSE48081
+	AT2G25470	KAN1	receptor like protein 21	GSE48081
+	AT2G25482	KAN1	Protein of unknown function (DUF784)	GSE48081
+	AT2G25490	KAN1	EIN3-binding F box protein 1	GSE48081
+	AT2G25680	KAN1	molybdate transporter 1	GSE48081
+	AT2G25685	KAN1	SCR-like 17	GSE48081
+	AT2G25690	KAN1	Protein of unknown function (DUF581)	GSE48081
+	AT2G25697	KAN1		GSE48081
+	AT2G26080	KAN1	glycine decarboxylase P-protein 2	GSE48081
+	AT2G26090	KAN1	pre-tRNA	GSE48081
+	AT2G26120	KAN1	glycine-rich protein	GSE48081
+	AT2G26130	KAN1	RING/U-box protein with C6HC-type zinc finger	GSE48081
+	AT2G26180	KAN1	IQ-domain 6	GSE48081
+	AT2G26200	KAN1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	GSE48081
+	AT2G26500	KAN1	cytochrome b6f complex subunit (petM), putative	GSE48081
+	AT2G26510	KAN1	Xanthine/uracil permease family protein	GSE48081
+	AT2G26530	KAN1	Protein of unknown function (DUF1645)	GSE48081
+	AT2G26540	KAN1	uroporphyrinogen-III synthase family protein	GSE48081
+	AT2G26640	KAN1	3-ketoacyl-CoA synthase 11	GSE48081
+	AT2G26650	KAN1	K+ transporter 1	GSE48081
+	AT2G26660	KAN1	SPX domain gene 2	GSE48081
+	AT2G26692	KAN1	other RNA	GSE48081
+	AT2G26695	KAN1	Ran BP2/NZF zinc finger-like superfamily protein	GSE48081
+	AT2G26700	KAN1	AGC (cAMP-dependent, cGMP-dependent and protein kinase C) kinase family protein	GSE48081
+	AT2G26710	KAN1	Cytochrome P450 superfamily protein	GSE48081
+	AT2G26900	KAN1	Sodium Bile acid symporter family	GSE48081
+	AT2G26910	KAN1	pleiotropic drug resistance 4	GSE48081
+	AT2G27220	KAN1	BEL1-like homeodomain 5	GSE48081
+	AT2G27229	KAN1	Pentatricopeptide repeat (PPR) superfamily protein	GSE48081
+	AT2G27300	KAN1	NTM1-like 8	GSE48081
+	AT2G27310	KAN1	F-box family protein	GSE48081
+	AT2G27315	KAN1	Protein of unknown function (DUF1278)	GSE48081
+	AT2G27500	KAN1	Glycosyl hydrolase superfamily protein	GSE48081
+	AT2G27505	KAN1	FBD-like domain family protein	GSE48081
+	AT2G27540	KAN1		GSE48081
+	AT2G27550	KAN1	centroradialis	GSE48081
+	AT2G27690	KAN1	cytochrome P450, family 94, subfamily C, polypeptide 1	GSE48081
+	AT2G27700	KAN1	eukaryotic translation initiation factor 2 family protein / eIF-2 family protein	GSE48081
+	AT2G27760	KAN1	tRNAisopentenyltransferase 2	GSE48081
+	AT2G27770	KAN1	Plant protein of unknown function (DUF868)	GSE48081
+	AT2G27810	KAN1	nucleobase-ascorbate transporter 12	GSE48081
+	AT2G27820	KAN1	prephenate dehydratase 1	GSE48081
+	AT2G27830	KAN1		GSE48081
+	AT2G27900	KAN1		GSE48081
+	AT2G27930	KAN1	PLATZ transcription factor family protein	GSE48081
+	AT2G28080	KAN1	UDP-Glycosyltransferase superfamily protein	GSE48081
+	AT2G28085	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT2G28110	KAN1	Exostosin family protein	GSE48081
+	AT2G28120	KAN1	Major facilitator superfamily protein	GSE48081
+	AT2G28130	KAN1		GSE48081
+	AT2G28140	KAN1	Protein of unknown function (DUF1635)	GSE48081
+	AT2G28190	KAN1	copper/zinc superoxide dismutase 2	GSE48081
+	AT2G28200	KAN1	C2H2-type zinc finger family protein	GSE48081
+	AT2G28290	KAN1	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT2G28305	KAN1	Putative lysine decarboxylase family protein	GSE48081
+	AT2G28315	KAN1	Nucleotide/sugar transporter family protein	GSE48081
+	AT2G28320	KAN1	Pleckstrin homology (PH) and lipid-binding START domains-containing protein	GSE48081
+	AT2G28340	KAN1	GATA transcription factor 13	GSE48081
+	AT2G28350	KAN1	auxin response factor 10	GSE48081
+	AT2G28390	KAN1	SAND family protein	GSE48081
+	AT2G28400	KAN1	Protein of unknown function, DUF584	GSE48081
+	AT2G28510	KAN1	Dof-type zinc finger DNA-binding family protein	GSE48081
+	AT2G28520	KAN1	vacuolar proton ATPase A1	GSE48081
+	AT2G28550	KAN1	related to AP2.7	GSE48081
+	AT2G28560	KAN1	DNA repair (Rad51) family protein	GSE48081
+	AT2G28800	KAN1	63 kDa inner membrane family protein	GSE48081
+	AT2G28830	KAN1	PLANT U-BOX 12	GSE48081
+	AT2G28940	KAN1	Protein kinase superfamily protein	GSE48081
+	AT2G28950	KAN1	expansin A6	GSE48081
+	AT2G29080	KAN1	FTSH protease 3	GSE48081
+	AT2G29090	KAN1	cytochrome P450, family 707, subfamily A, polypeptide 2	GSE48081
+	AT2G29660	KAN1	zinc finger (C2H2 type) family protein	GSE48081
+	AT2G29670	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT2G29679	KAN1		GSE48081
+	AT2G29960	KAN1	cyclophilin 5	GSE48081
+	AT2G29970	KAN1	Double Clp-N motif-containing P-loop nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT2G29980	KAN1	fatty acid desaturase 3	GSE48081
+	AT2G29990	KAN1	alternative NAD(P)H dehydrogenase 2	GSE48081
+	AT2G30010	KAN1	TRICHOME BIREFRINGENCE-LIKE 45	GSE48081
+	AT2G30020	KAN1	Protein phosphatase 2C family protein	GSE48081
+	AT2G30032	KAN1		GSE48081
+	AT2G30040	KAN1	mitogen-activated protein kinase kinase kinase 14	GSE48081
+	AT2G30050	KAN1	transducin family protein / WD-40 repeat family protein	GSE48081
+	AT2G30060	KAN1	Pleckstrin homology (PH) domain superfamily protein	GSE48081
+	AT2G30070	KAN1	potassium transporter 1	GSE48081
+	AT2G30220	KAN1	GDSL-like Lipase/Acylhydrolase family protein	GSE48081
+	AT2G30230	KAN1		GSE48081
+	AT2G30350	KAN1	Excinuclease ABC, C subunit, N-terminal	GSE48081
+	AT2G30370	KAN1	allergen-related	GSE48081
+	AT2G30490	KAN1	cinnamate-4-hydroxylase	GSE48081
+	AT2G30500	KAN1	Kinase interacting (KIP1-like) family protein	GSE48081
+	AT2G30520	KAN1	Phototropic-responsive NPH3 family protein	GSE48081
+	AT2G30530	KAN1		GSE48081
+	AT2G30580	KAN1	DREB2A-interacting protein 2	GSE48081
+	AT2G30600	KAN1	BTB/POZ domain-containing protein	GSE48081
+	AT2G30990	KAN1	Protein of unknown function (DUF688)	GSE48081
+	AT2G31005	KAN1		GSE48081
+	AT2G31010	KAN1	Protein kinase superfamily protein	GSE48081
+	AT2G31018	KAN1		GSE48081
+	AT2G31080	KAN1	transposable element gene	GSE48081
+	AT2G31081	KAN1	CLAVATA3/ESR-RELATED 4	GSE48081
+	AT2G31082	KAN1	CLAVATA3/ESR-RELATED 7	GSE48081
+	AT2G31083	KAN1	CLAVATA3/ESR-RELATED 5	GSE48081
+	AT2G31271	KAN1		GSE48081
+	AT2G31280	KAN1	conserved peptide upstream open reading frame 7	GSE48081
+	AT2G31370	KAN1	Basic-leucine zipper (bZIP) transcription factor family protein	GSE48081
+	AT2G31380	KAN1	salt tolerance homologue	GSE48081
+	AT2G31730	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT2G31740	KAN1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	GSE48081
+	AT2G32010	KAN1	CVP2 like 1	GSE48081
+	AT2G32020	KAN1	Acyl-CoA N-acyltransferases (NAT) superfamily protein	GSE48081
+	AT2G32260	KAN1	phosphorylcholine cytidylyltransferase	GSE48081
+	AT2G32270	KAN1	zinc transporter 3 precursor	GSE48081
+	AT2G32415	KAN1	Polynucleotidyl transferase, ribonuclease H fold protein with HRDC domain	GSE48081
+	AT2G32430	KAN1	Galactosyltransferase family protein	GSE48081
+	AT2G32540	KAN1	cellulose synthase-like B4	GSE48081
+	AT2G32550	KAN1	Cell differentiation, Rcd1-like protein	GSE48081
+	AT2G32560	KAN1	F-box family protein	GSE48081
+	AT2G32970	KAN1		GSE48081
+	AT2G32980	KAN1		GSE48081
+	AT2G33160	KAN1	glycoside hydrolase family 28 protein / polygalacturonase (pectinase) family protein	GSE48081
+	AT2G33170	KAN1	Leucine-rich repeat receptor-like protein kinase family protein	GSE48081
+	AT2G33175	KAN1		GSE48081
+	AT2G33300	KAN1	Transcription elongation factor (TFIIS) family protein	GSE48081
+	AT2G33320	KAN1	Calcium-dependent lipid-binding (CaLB domain) family protein	GSE48081
+	AT2G33330	KAN1	plasmodesmata-located protein 3	GSE48081
+	AT2G33500	KAN1	B-box type zinc finger protein with CCT domain	GSE48081
+	AT2G33509	KAN1		GSE48081
+	AT2G34070	KAN1	TRICHOME BIREFRINGENCE-LIKE 37	GSE48081
+	AT2G34110	KAN1		GSE48081
+	AT2G34710	KAN1	Homeobox-leucine zipper family protein / lipid-binding START domain-containing protein	GSE48081
+	AT2G34720	KAN1	nuclear factor Y, subunit A4	GSE48081
+	AT2G35640	KAN1	Homeodomain-like superfamily protein	GSE48081
+	AT2G35650	KAN1	cellulose synthase like	GSE48081
+	AT2G35700	KAN1	ERF family protein 38	GSE48081
+	AT2G35710	KAN1	Nucleotide-diphospho-sugar transferases superfamily protein	GSE48081
+	AT2G35850	KAN1		GSE48081
+	AT2G35859	KAN1		GSE48081
+	AT2G35880	KAN1	TPX2 (targeting protein for Xklp2) protein family	GSE48081
+	AT2G35940	KAN1	BEL1-like homeodomain 1	GSE48081
+	AT2G35950	KAN1	embryo sac development arrest 12	GSE48081
+	AT2G35960	KAN1	NDR1/HIN1-like 12	GSE48081
+	AT2G35970	KAN1	Late embryogenesis abundant (LEA) hydroxyproline-rich glycoprotein family	GSE48081
+	AT2G36053	KAN1		GSE48081
+	AT2G36060	KAN1	MMS ZWEI homologue 3	GSE48081
+	AT2G36261	KAN1		GSE48081
+	AT2G36280	KAN1	pre-tRNA	GSE48081
+	AT2G36402	KAN1	transposable element gene	GSE48081
+	AT2G36410	KAN1	Family of unknown function (DUF662)	GSE48081
+	AT2G36420	KAN1		GSE48081
+	AT2G36680	KAN1	Modifier of rudimentary (Mod(r)) protein	GSE48081
+	AT2G36690	KAN1	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein	GSE48081
+	AT2G36815	KAN1		GSE48081
+	AT2G36830	KAN1	gamma tonoplast intrinsic protein	GSE48081
+	AT2G36950	KAN1	Heavy metal transport/detoxification superfamily protein	GSE48081
+	AT2G36960	KAN1	TSL-kinase interacting protein 1	GSE48081
+	AT2G36970	KAN1	UDP-Glycosyltransferase superfamily protein	GSE48081
+	AT2G37120	KAN1	S1FA-like DNA-binding protein	GSE48081
+	AT2G37130	KAN1	Peroxidase superfamily protein	GSE48081
+	AT2G37140	KAN1	Terpenoid synthases superfamily protein	GSE48081
+	AT2G37380	KAN1		GSE48081
+	AT2G37390	KAN1	Chloroplast-targeted copper chaperone protein	GSE48081
+	AT2G37420	KAN1	ATP binding microtubule motor family protein	GSE48081
+	AT2G37435	KAN1	Cystatin/monellin superfamily protein	GSE48081
+	AT2G37460	KAN1	nodulin MtN21 /EamA-like transporter family protein	GSE48081
+	AT2G37470	KAN1	Histone superfamily protein	GSE48081
+	AT2G37570	KAN1	HSP20-like chaperones superfamily protein	GSE48081
+	AT2G37580	KAN1	RING/U-box superfamily protein	GSE48081
+	AT2G37590	KAN1	DNA binding with one finger 2.4	GSE48081
+	AT2G37600	KAN1	Ribosomal protein L36e family protein	GSE48081
+	AT2G37740	KAN1	zinc-finger protein 10	GSE48081
+	AT2G37750	KAN1		GSE48081
+	AT2G37950	KAN1	RING/FYVE/PHD zinc finger superfamily protein	GSE48081
+	AT2G37960	KAN1		GSE48081
+	AT2G38090	KAN1	Duplicated homeodomain-like superfamily protein	GSE48081
+	AT2G38100	KAN1	proton-dependent oligopeptide transport (POT) family protein	GSE48081
+	AT2G38110	KAN1	glycerol-3-phosphate acyltransferase 6	GSE48081
+	AT2G38120	KAN1	Transmembrane amino acid transporter family protein	GSE48081
+	AT2G38170	KAN1	cation exchanger 1	GSE48081
+	AT2G38180	KAN1	SGNH hydrolase-type esterase superfamily protein	GSE48081
+	AT2G38240	KAN1	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein	GSE48081
+	AT2G38250	KAN1	Homeodomain-like superfamily protein	GSE48081
+	AT2G38290	KAN1	ammonium transporter 2	GSE48081
+	AT2G38300	KAN1	myb-like HTH transcriptional regulator family protein	GSE48081
+	AT2G38310	KAN1	PYR1-like 4	GSE48081
+	AT2G38320	KAN1	TRICHOME BIREFRINGENCE-LIKE 34	GSE48081
+	AT2G38640	KAN1	Protein of unknown function (DUF567)	GSE48081
+	AT2G38646	KAN1		GSE48081
+	AT2G39000	KAN1	Acyl-CoA N-acyltransferases (NAT) superfamily protein	GSE48081
+	AT2G39020	KAN1	Acyl-CoA N-acyltransferases (NAT) superfamily protein	GSE48081
+	AT2G39175	KAN1	MIR160/MIR160A; miRNA	GSE48081
+	AT2G39180	KAN1	CRINKLY4 related 2	GSE48081
+	AT2G39200	KAN1	Seven transmembrane MLO family protein	GSE48081
+	AT2G39210	KAN1	Major facilitator superfamily protein	GSE48081
+	AT2G39220	KAN1	PATATIN-like protein 6	GSE48081
+	AT2G39360	KAN1	Protein kinase superfamily protein	GSE48081
+	AT2G39370	KAN1		GSE48081
+	AT2G39550	KAN1	Prenyltransferase family protein	GSE48081
+	AT2G39560	KAN1	Putative membrane lipoprotein	GSE48081
+	AT2G39760	KAN1	BTB/POZ/MATH-domains containing protein	GSE48081
+	AT2G39770	KAN1	Glucose-1-phosphate adenylyltransferase family protein	GSE48081
+	AT2G40000	KAN1	ortholog of sugar beet HS1 PRO-1 2	GSE48081
+	AT2G40004	KAN1		GSE48081
+	AT2G40008	KAN1	other RNA	GSE48081
+	AT2G40090	KAN1	ABC2 homolog 9	GSE48081
+	AT2G40095	KAN1	Alpha/beta hydrolase related protein	GSE48081
+	AT2G40120	KAN1	Protein kinase superfamily protein	GSE48081
+	AT2G40130	KAN1	Double Clp-N motif-containing P-loop nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT2G40140	KAN1	zinc finger (CCCH-type) family protein	GSE48081
+	AT2G40230	KAN1	HXXXD-type acyl-transferase family protein	GSE48081
+	AT2G40233	KAN1		GSE48081
+	AT2G40260	KAN1	Homeodomain-like superfamily protein	GSE48081
+	AT2G40270	KAN1	Protein kinase family protein	GSE48081
+	AT2G40280	KAN1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	GSE48081
+	AT2G40320	KAN1	TRICHOME BIREFRINGENCE-LIKE 33	GSE48081
+	AT2G40330	KAN1	PYR1-like 6	GSE48081
+	AT2G40340	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT2G40430	KAN1		GSE48081
+	AT2G40435	KAN1		GSE48081
+	AT2G40660	KAN1	Nucleic acid-binding, OB-fold-like protein	GSE48081
+	AT2G40670	KAN1	response regulator 16	GSE48081
+	AT2G40900	KAN1	nodulin MtN21 /EamA-like transporter family protein	GSE48081
+	AT2G40910	KAN1	F-box and associated interaction domains-containing protein	GSE48081
+	AT2G40970	KAN1	Homeodomain-like superfamily protein	GSE48081
+	AT2G40980	KAN1	Protein kinase superfamily protein	GSE48081
+	AT2G41130	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT2G41140	KAN1	CDPK-related kinase 1	GSE48081
+	AT2G41210	KAN1	phosphatidylinositol- 4-phosphate 5-kinase 5	GSE48081
+	AT2G41220	KAN1	glutamate synthase 2	GSE48081
+	AT2G41233	KAN1		GSE48081
+	AT2G41240	KAN1	basic helix-loop-helix protein 100	GSE48081
+	AT2G41250	KAN1	Haloacid dehalogenase-like hydrolase (HAD) superfamily protein	GSE48081
+	AT2G41260	KAN1	glycine-rich protein / late embryogenesis abundant protein (M17)	GSE48081
+	AT2G41300	KAN1	strictosidine synthase-like 1	GSE48081
+	AT2G41310	KAN1	response regulator 3	GSE48081
+	AT2G41370	KAN1	Ankyrin repeat family protein / BTB/POZ domain-containing protein	GSE48081
+	AT2G41380	KAN1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	GSE48081
+	AT2G41560	KAN1	autoinhibited Ca(2+)-ATPase, isoform 4	GSE48081
+	AT2G41570	KAN1	transposable element gene	GSE48081
+	AT2G41630	KAN1	transcription factor IIB	GSE48081
+	AT2G41640	KAN1	Glycosyltransferase family 61 protein	GSE48081
+	AT2G41650	KAN1		GSE48081
+	AT2G41670	KAN1	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT2G41700	KAN1	ATP-binding cassette A1	GSE48081
+	AT2G41705	KAN1	camphor resistance CrcB family protein	GSE48081
+	AT2G41710	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT2G41720	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT2G41835	KAN1	zinc finger (C2H2 type, AN1-like) family protein	GSE48081
+	AT2G41840	KAN1	Ribosomal protein S5 family protein	GSE48081
+	AT2G41890	KAN1	curculin-like (mannose-binding) lectin family protein / PAN domain-containing protein	GSE48081
+	AT2G41900	KAN1	CCCH-type zinc finger protein with ARM repeat domain	GSE48081
+	AT2G41930	KAN1	Protein kinase superfamily protein	GSE48081
+	AT2G41940	KAN1	zinc finger protein 8	GSE48081
+	AT2G42280	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT2G42290	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT2G42340	KAN1		GSE48081
+	AT2G42350	KAN1	RING/U-box superfamily protein	GSE48081
+	AT2G42590	KAN1	general regulatory factor 9	GSE48081
+	AT2G42600	KAN1	phosphoenolpyruvate carboxylase 2	GSE48081
+	AT2G42610	KAN1	Protein of unknown function (DUF640)	GSE48081
+	AT2G42620	KAN1	RNI-like superfamily protein	GSE48081
+	AT2G42750	KAN1	DNAJ heat shock N-terminal domain-containing protein	GSE48081
+	AT2G42770	KAN1	Peroxisomal membrane 22 kDa (Mpv17/PMP22) family protein	GSE48081
+	AT2G42955	KAN1		GSE48081
+	AT2G42960	KAN1	Protein kinase superfamily protein	GSE48081
+	AT2G43060	KAN1	ILI1 binding bHLH 1	GSE48081
+	AT2G43070	KAN1	SIGNAL PEPTIDE PEPTIDASE-LIKE 3	GSE48081
+	AT2G43130	KAN1	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT2G43150	KAN1	Proline-rich extensin-like family protein	GSE48081
+	AT2G43160	KAN1	ENTH/VHS family protein	GSE48081
+	AT2G44070	KAN1	NagB/RpiA/CoA transferase-like superfamily protein	GSE48081
+	AT2G44080	KAN1	ARGOS-like	GSE48081
+	AT2G44420	KAN1	protein N-terminal asparagine amidohydrolase family protein	GSE48081
+	AT2G44440	KAN1	Emsy N Terminus (ENT) domain-containing protein	GSE48081
+	AT2G44450	KAN1	beta glucosidase 15	GSE48081
+	AT2G44460	KAN1	beta glucosidase 28	GSE48081
+	AT2G44490	KAN1	Glycosyl hydrolase superfamily protein	GSE48081
+	AT2G44500	KAN1	O-fucosyltransferase family protein	GSE48081
+	AT2G44578	KAN1	RING/U-box superfamily protein	GSE48081
+	AT2G44581	KAN1	RING/U-box superfamily protein	GSE48081
+	AT2G44820	KAN1		GSE48081
+	AT2G44830	KAN1	Protein kinase superfamily protein	GSE48081
+	AT2G44930	KAN1	Plant protein of unknown function (DUF247)	GSE48081
+	AT2G44940	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT2G45210	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT2G45220	KAN1	Plant invertase/pectin methylesterase inhibitor superfamily	GSE48081
+	AT2G45300	KAN1	RNA 3'-terminal phosphate cyclase/enolpyruvate transferase, alpha/beta	GSE48081
+	AT2G45310	KAN1	UDP-D-glucuronate 4-epimerase 4	GSE48081
+	AT2G45400	KAN1	NAD(P)-binding Rossmann-fold superfamily protein	GSE48081
+	AT2G45403	KAN1		GSE48081
+	AT2G45420	KAN1	LOB domain-containing protein 18	GSE48081
+	AT2G45430	KAN1	AT-hook motif nuclear-localized protein 22	GSE48081
+	AT2G45660	KAN1	AGAMOUS-like 20	GSE48081
+	AT2G45670	KAN1	calcineurin B subunit-related	GSE48081
+	AT2G45685	KAN1	other RNA	GSE48081
+	AT2G45690	KAN1	shrunken seed protein (SSE1)	GSE48081
+	AT2G45900	KAN1	Phosphatidylinositol N-acetyglucosaminlytransferase subunit P-related	GSE48081
+	AT2G45910	KAN1	U-box domain-containing protein kinase family protein	GSE48081
+	AT2G45950	KAN1	SKP1-like 20	GSE48081
+	AT2G45960	KAN1	plasma membrane intrinsic protein 1B	GSE48081
+	AT2G46360	KAN1		GSE48081
+	AT2G46370	KAN1	Auxin-responsive GH3 family protein	GSE48081
+	AT2G46580	KAN1	Pyridoxamine 5'-phosphate oxidase family protein	GSE48081
+	AT2G46590	KAN1	Dof-type zinc finger DNA-binding family protein	GSE48081
+	AT2G46610	KAN1	RNA-binding (RRM/RBD/RNP motifs) family protein	GSE48081
+	AT2G46620	KAN1	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT2G46630	KAN1		GSE48081
+	AT2G46685	KAN1	MIR166/MIR166A; miRNA	GSE48081
+	AT2G46690	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT2G46700	KAN1	CDPK-related kinase 3	GSE48081
+	AT2G46710	KAN1	Rho GTPase activating protein with PAK-box/P21-Rho-binding domain	GSE48081
+	AT2G46770	KAN1	NAC (No Apical Meristem) domain transcriptional regulator superfamily protein	GSE48081
+	AT2G46780	KAN1	RNA-binding (RRM/RBD/RNP motifs) family protein	GSE48081
+	AT2G46860	KAN1	pyrophosphorylase 3	GSE48081
+	AT2G46870	KAN1	AP2/B3-like transcriptional factor family protein	GSE48081
+	AT2G47000	KAN1	ATP binding cassette subfamily B4	GSE48081
+	AT2G47010	KAN1		GSE48081
+	AT2G47160	KAN1	HCO3- transporter family	GSE48081
+	AT2G47170	KAN1	Ras-related small GTP-binding family protein	GSE48081
+	AT2G47430	KAN1	Signal transduction histidine kinase	GSE48081
+	AT2G47440	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT2G47560	KAN1	RING/U-box superfamily protein	GSE48081
+	AT2G47570	KAN1	Ribosomal protein L18e/L15 superfamily protein	GSE48081
+	AT2G47790	KAN1	Transducin/WD40 repeat-like superfamily protein	GSE48081
+	AT2G47800	KAN1	multidrug resistance-associated protein 4	GSE48081
+	AT3G01120	KAN1	Pyridoxal phosphate (PLP)-dependent transferases superfamily protein	GSE48081
+	AT3G01130	KAN1		GSE48081
+	AT3G01290	KAN1	SPFH/Band 7/PHB domain-containing membrane-associated protein family	GSE48081
+	AT3G01300	KAN1	Protein kinase superfamily protein	GSE48081
+	AT3G01680	KAN1		GSE48081
+	AT3G01690	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT3G02040	KAN1	senescence-related gene 3	GSE48081
+	AT3G02050	KAN1	K+ uptake transporter 3	GSE48081
+	AT3G02140	KAN1	AFP2 (ABI five-binding protein 2) family protein	GSE48081
+	AT3G02150	KAN1	plastid transcription factor 1	GSE48081
+	AT3G02170	KAN1	longifolia2	GSE48081
+	AT3G02180	KAN1	SPIRAL1-like3	GSE48081
+	AT3G02370	KAN1		GSE48081
+	AT3G02380	KAN1	CONSTANS-like 2	GSE48081
+	AT3G02510	KAN1	Regulator of chromosome condensation (RCC1) family protein	GSE48081
+	AT3G02515	KAN1	transposable element gene	GSE48081
+	AT3G02900	KAN1		GSE48081
+	AT3G02910	KAN1	AIG2-like (avirulence induced gene) family protein	GSE48081
+	AT3G03200	KAN1	NAC domain containing protein 45	GSE48081
+	AT3G03210	KAN1		GSE48081
+	AT3G03260	KAN1	homeodomain GLABROUS 8	GSE48081
+	AT3G03272	KAN1	Protein of unknown function (DUF1278)	GSE48081
+	AT3G03456	KAN1		GSE48081
+	AT3G03460	KAN1		GSE48081
+	AT3G03830	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT3G03840	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT3G03860	KAN1	APR-like 5	GSE48081
+	AT3G03870	KAN1		GSE48081
+	AT3G03980	KAN1	NAD(P)-binding Rossmann-fold superfamily protein	GSE48081
+	AT3G03990	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT3G04070	KAN1	NAC domain containing protein 47	GSE48081
+	AT3G04080	KAN1	apyrase 1	GSE48081
+	AT3G04210	KAN1	Disease resistance protein (TIR-NBS class)	GSE48081
+	AT3G04220	KAN1	Disease resistance protein (TIR-NBS-LRR class) family	GSE48081
+	AT3G04420	KAN1	NAC domain containing protein 48	GSE48081
+	AT3G04430	KAN1	NAC domain containing protein 49	GSE48081
+	AT3G04470	KAN1	Ankyrin repeat family protein	GSE48081
+	AT3G04480	KAN1	endoribonucleases	GSE48081
+	AT3G04790	KAN1	Ribose 5-phosphate isomerase, type A protein	GSE48081
+	AT3G04810	KAN1	NIMA-related kinase 2	GSE48081
+	AT3G04903	KAN1	Defensin-like (DEFL) family protein	GSE48081
+	AT3G04910	KAN1	with no lysine (K) kinase 1	GSE48081
+	AT3G04920	KAN1	Ribosomal protein S24e family protein	GSE48081
+	AT3G05110	KAN1	Domain of unknown function (DUF3444)	GSE48081
+	AT3G05120	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT3G05160	KAN1	Major facilitator superfamily protein	GSE48081
+	AT3G05165	KAN1	Major facilitator superfamily protein	GSE48081
+	AT3G05170	KAN1	Phosphoglycerate mutase family protein	GSE48081
+	AT3G05220	KAN1	Heavy metal transport/detoxification superfamily protein	GSE48081
+	AT3G05230	KAN1	Signal peptidase subunit	GSE48081
+	AT3G05270	KAN1	Plant protein of unknown function (DUF869)	GSE48081
+	AT3G05280	KAN1	Integral membrane Yip1 family protein	GSE48081
+	AT3G05320	KAN1	O-fucosyltransferase family protein	GSE48081
+	AT3G05327	KAN1	Cyclin family protein	GSE48081
+	AT3G05470	KAN1	Actin-binding FH2 (formin homology 2) family protein	GSE48081
+	AT3G05480	KAN1	cell cycle checkpoint control protein family	GSE48081
+	AT3G05625	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT3G05630	KAN1	phospholipase D P2	GSE48081
+	AT3G05890	KAN1	Low temperature and salt responsive protein family	GSE48081
+	AT3G05905	KAN1	other RNA	GSE48081
+	AT3G06070	KAN1		GSE48081
+	AT3G06080	KAN1	Plant protein of unknown function (DUF828)	GSE48081
+	AT3G06090	KAN1		GSE48081
+	AT3G06170	KAN1	Serinc-domain containing serine and sphingolipid biosynthesis protein	GSE48081
+	AT3G06180	KAN1	Ribosomal protein L34e superfamily protein	GSE48081
+	AT3G06370	KAN1	sodium hydrogen exchanger 4	GSE48081
+	AT3G06380	KAN1	tubby-like protein 9	GSE48081
+	AT3G06490	KAN1	myb domain protein 108	GSE48081
+	AT3G06500	KAN1	Plant neutral invertase family protein	GSE48081
+	AT3G06510	KAN1	Glycosyl hydrolase superfamily protein	GSE48081
+	AT3G06580	KAN1	Mevalonate/galactokinase family protein	GSE48081
+	AT3G06600	KAN1		GSE48081
+	AT3G06750	KAN1	hydroxyproline-rich glycoprotein family protein	GSE48081
+	AT3G06760	KAN1	Drought-responsive family protein	GSE48081
+	AT3G06770	KAN1	Pectin lyase-like superfamily protein	GSE48081
+	AT3G06778	KAN1	Chaperone DnaJ-domain superfamily protein	GSE48081
+	AT3G06868	KAN1		GSE48081
+	AT3G06890	KAN1		GSE48081
+	AT3G07130	KAN1	purple acid phosphatase 15	GSE48081
+	AT3G07140	KAN1	GPI transamidase component Gpi16 subunit family protein	GSE48081
+	AT3G07340	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT3G07350	KAN1	Protein of unknown function (DUF506)	GSE48081
+	AT3G07360	KAN1	plant U-box 9	GSE48081
+	AT3G07370	KAN1	carboxyl terminus of HSC70-interacting protein	GSE48081
+	AT3G07380	KAN1	Domain of unknown function (DUF23)	GSE48081
+	AT3G07390	KAN1	auxin-responsive family protein	GSE48081
+	AT3G07640	KAN1		GSE48081
+	AT3G07650	KAN1	CONSTANS-like 9	GSE48081
+	AT3G08630	KAN1	Protein of unknown function (DUF3411)	GSE48081
+	AT3G08636	KAN1		GSE48081
+	AT3G08670	KAN1		GSE48081
+	AT3G08680	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT3G08710	KAN1	thioredoxin H-type 9	GSE48081
+	AT3G08730	KAN1	protein-serine kinase 1	GSE48081
+	AT3G08760	KAN1	Protein kinase superfamily protein	GSE48081
+	AT3G08762	KAN1		GSE48081
+	AT3G08770	KAN1	lipid transfer protein 6	GSE48081
+	AT3G09070	KAN1	Protein of unknown function (DUF740)	GSE48081
+	AT3G09080	KAN1	Transducin/WD40 repeat-like superfamily protein	GSE48081
+	AT3G09390	KAN1	metallothionein 2A	GSE48081
+	AT3G09400	KAN1	pol-like 3	GSE48081
+	AT3G10760	KAN1	Homeodomain-like superfamily protein	GSE48081
+	AT3G10770	KAN1	Single-stranded nucleic acid binding R3H protein	GSE48081
+	AT3G10960	KAN1	AZA-guanine resistant1	GSE48081
+	AT3G10970	KAN1	Haloacid dehalogenase-like hydrolase (HAD) superfamily protein	GSE48081
+	AT3G10985	KAN1	senescence associated gene 20	GSE48081
+	AT3G10986	KAN1	Protein of unknown function (DUF567)	GSE48081
+	AT3G11270	KAN1	Mov34/MPN/PAD-1 family protein	GSE48081
+	AT3G11280	KAN1	Duplicated homeodomain-like superfamily protein	GSE48081
+	AT3G11330	KAN1	plant intracellular ras group-related LRR 9	GSE48081
+	AT3G11340	KAN1	UDP-Glycosyltransferase superfamily protein	GSE48081
+	AT3G11490	KAN1	rac GTPase activating protein	GSE48081
+	AT3G11500	KAN1	Small nuclear ribonucleoprotein family protein	GSE48081
+	AT3G11570	KAN1	TRICHOME BIREFRINGENCE-LIKE 8	GSE48081
+	AT3G11590	KAN1		GSE48081
+	AT3G11650	KAN1	NDR1/HIN1-like 2	GSE48081
+	AT3G11660	KAN1	NDR1/HIN1-like 1	GSE48081
+	AT3G11680	KAN1	Aluminium activated malate transporter family protein	GSE48081
+	AT3G11690	KAN1		GSE48081
+	AT3G12090	KAN1	tetraspanin6	GSE48081
+	AT3G12100	KAN1	Cation efflux family protein	GSE48081
+	AT3G12915	KAN1	Ribosomal protein S5/Elongation factor G/III/V family protein	GSE48081
+	AT3G12920	KAN1	SBP (S-ribonuclease binding protein) family protein	GSE48081
+	AT3G12930	KAN1	Lojap-related protein	GSE48081
+	AT3G13040	KAN1	myb-like HTH transcriptional regulator family protein	GSE48081
+	AT3G13050	KAN1	Major facilitator superfamily protein	GSE48081
+	AT3G13110	KAN1	serine acetyltransferase 2;2	GSE48081
+	AT3G13120	KAN1	Ribosomal protein S10p/S20e family protein	GSE48081
+	AT3G13370	KAN1		GSE48081
+	AT3G13380	KAN1	BRI1-like 3	GSE48081
+	AT3G13405	KAN1	MIR169A; miRNA	GSE48081
+	AT3G13410	KAN1		GSE48081
+	AT3G13510	KAN1	Protein of Unknown Function (DUF239)	GSE48081
+	AT3G13520	KAN1	arabinogalactan protein 12	GSE48081
+	AT3G13594	KAN1		GSE48081
+	AT3G13600	KAN1	calmodulin-binding family protein	GSE48081
+	AT3G13640	KAN1	RNAse l inhibitor protein 1	GSE48081
+	AT3G13650	KAN1	Disease resistance-responsive (dirigent-like protein) family protein	GSE48081
+	AT3G13690	KAN1	Protein kinase protein with adenine nucleotide alpha hydrolases-like domain	GSE48081
+	AT3G13700	KAN1	RNA-binding (RRM/RBD/RNP motifs) family protein	GSE48081
+	AT3G13710	KAN1	prenylated RAB acceptor 1.F4	GSE48081
+	AT3G13740	KAN1	Ribonuclease III family protein	GSE48081
+	AT3G13750	KAN1	beta galactosidase 1	GSE48081
+	AT3G13760	KAN1	Cysteine/Histidine-rich C1 domain family protein	GSE48081
+	AT3G13810	KAN1	indeterminate(ID)-domain 11	GSE48081
+	AT3G13820	KAN1	F-box and associated interaction domains-containing protein	GSE48081
+	AT3G14205	KAN1	Phosphoinositide phosphatase family protein	GSE48081
+	AT3G14220	KAN1	GDSL-like Lipase/Acylhydrolase superfamily protein	GSE48081
+	AT3G14230	KAN1	related to AP2 2	GSE48081
+	AT3G14240	KAN1	Subtilase family protein	GSE48081
+	AT3G14300	KAN1	pectinesterase family protein	GSE48081
+	AT3G14310	KAN1	pectin methylesterase 3	GSE48081
+	AT3G14320	KAN1	Zinc finger, C3HC4 type (RING finger) family protein	GSE48081
+	AT3G14440	KAN1	nine-cis-epoxycarotenoid dioxygenase 3	GSE48081
+	AT3G14450	KAN1	CTC-interacting domain 9	GSE48081
+	AT3G14550	KAN1	geranylgeranyl pyrophosphate synthase 3	GSE48081
+	AT3G14560	KAN1		GSE48081
+	AT3G14670	KAN1		GSE48081
+	AT3G14680	KAN1	cytochrome P450, family 72, subfamily A, polypeptide 14	GSE48081
+	AT3G14830	KAN1		GSE48081
+	AT3G14840	KAN1	Leucine-rich repeat transmembrane protein kinase	GSE48081
+	AT3G14860	KAN1	NHL domain-containing protein	GSE48081
+	AT3G14880	KAN1		GSE48081
+	AT3G15020	KAN1	Lactate/malate dehydrogenase family protein	GSE48081
+	AT3G15030	KAN1	TCP family transcription factor 4	GSE48081
+	AT3G15040	KAN1	Protein of unknown function, DUF584	GSE48081
+	AT3G15200	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT3G15210	KAN1	ethylene responsive element binding factor 4	GSE48081
+	AT3G15354	KAN1	SPA1-related 3	GSE48081
+	AT3G15359	KAN1		GSE48081
+	AT3G15500	KAN1	NAC domain containing protein 3	GSE48081
+	AT3G15510	KAN1	NAC domain containing protein  2	GSE48081
+	AT3G15570	KAN1	Phototropic-responsive NPH3 family protein	GSE48081
+	AT3G15578	KAN1		GSE48081
+	AT3G15630	KAN1		GSE48081
+	AT3G15640	KAN1	Rubredoxin-like superfamily protein	GSE48081
+	AT3G15760	KAN1		GSE48081
+	AT3G15770	KAN1		GSE48081
+	AT3G15810	KAN1	Protein of unknown function (DUF567)	GSE48081
+	AT3G15820	KAN1	phosphatidic acid phosphatase-related / PAP2-related	GSE48081
+	AT3G16230	KAN1	Predicted eukaryotic LigT	GSE48081
+	AT3G16240	KAN1	delta tonoplast integral protein	GSE48081
+	AT3G16450	KAN1	Mannose-binding lectin superfamily protein	GSE48081
+	AT3G16460	KAN1	Mannose-binding lectin superfamily protein	GSE48081
+	AT3G16620	KAN1	translocon outer complex protein 120	GSE48081
+	AT3G16630	KAN1	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT3G16851	KAN1		GSE48081
+	AT3G16857	KAN1	response regulator 1	GSE48081
+	AT3G16910	KAN1	acyl-activating enzyme 7	GSE48081
+	AT3G16920	KAN1	chitinase-like protein 2	GSE48081
+	AT3G17100	KAN1	sequence-specific DNA binding transcription factors	GSE48081
+	AT3G17130	KAN1	Plant invertase/pectin methylesterase inhibitor superfamily protein	GSE48081
+	AT3G17140	KAN1	Plant invertase/pectin methylesterase inhibitor superfamily protein	GSE48081
+	AT3G17185	KAN1	TAS3/TASIR-ARF (TRANS-ACTING SIRNA3); other RNA	GSE48081
+	AT3G17190	KAN1		GSE48081
+	AT3G17580	KAN1		GSE48081
+	AT3G17590	KAN1	transcription regulatory protein SNF5, putative (BSH)	GSE48081
+	AT3G17640	KAN1	Leucine-rich repeat (LRR) family protein	GSE48081
+	AT3G17650	KAN1	YELLOW STRIPE like 5	GSE48081
+	AT3G17780	KAN1		GSE48081
+	AT3G17790	KAN1	purple acid phosphatase 17	GSE48081
+	AT3G17800	KAN1	Protein of unknown function (DUF760)	GSE48081
+	AT3G17810	KAN1	pyrimidine 1	GSE48081
+	AT3G17820	KAN1	glutamine synthetase 1.3	GSE48081
+	AT3G17830	KAN1	Molecular chaperone Hsp40/DnaJ family protein	GSE48081
+	AT3G17850	KAN1	Protein kinase superfamily protein	GSE48081
+	AT3G17860	KAN1	jasmonate-zim-domain protein 3	GSE48081
+	AT3G18010	KAN1	WUSCHEL related homeobox 1	GSE48081
+	AT3G18020	KAN1	Pentatricopeptide repeat (PPR) superfamily protein	GSE48081
+	AT3G18050	KAN1		GSE48081
+	AT3G18060	KAN1	transducin family protein / WD-40 repeat family protein	GSE48081
+	AT3G18070	KAN1	beta glucosidase 43	GSE48081
+	AT3G18080	KAN1	B-S glucosidase 44	GSE48081
+	AT3G18217	KAN1	MIR157C; miRNA	GSE48081
+	AT3G18220	KAN1	Phosphatidic acid phosphatase (PAP2) family protein	GSE48081
+	AT3G18282	KAN1		GSE48081
+	AT3G18290	KAN1	zinc finger protein-related	GSE48081
+	AT3G18485	KAN1	iaa-leucine resistant 2	GSE48081
+	AT3G18490	KAN1	Eukaryotic aspartyl protease family protein	GSE48081
+	AT3G18524	KAN1	MUTS homolog 2	GSE48081
+	AT3G18530	KAN1	ARM repeat superfamily protein	GSE48081
+	AT3G18535	KAN1	tubulin-tyrosine ligases	GSE48081
+	AT3G18550	KAN1	TCP family transcription factor	GSE48081
+	AT3G18770	KAN1	Autophagy-related protein 13	GSE48081
+	AT3G18779	KAN1		GSE48081
+	AT3G19030	KAN1		GSE48081
+	AT3G19035	KAN1		GSE48081
+	AT3G19090	KAN1	RNA-binding protein	GSE48081
+	AT3G19100	KAN1	Protein kinase superfamily protein	GSE48081
+	AT3G19360	KAN1	Zinc finger (CCCH-type) family protein	GSE48081
+	AT3G19370	KAN1	Plant protein of unknown function (DUF869)	GSE48081
+	AT3G19380	KAN1	plant U-box 25	GSE48081
+	AT3G19390	KAN1	Granulin repeat cysteine protease family protein	GSE48081
+	AT3G19670	KAN1	pre-mRNA-processing protein 40B	GSE48081
+	AT3G19690	KAN1	CAP (Cysteine-rich secretory proteins, Antigen 5, and Pathogenesis-related 1 protein) superfamily protein	GSE48081
+	AT3G19850	KAN1	Phototropic-responsive NPH3 family protein	GSE48081
+	AT3G19860	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT3G19920	KAN1		GSE48081
+	AT3G19930	KAN1	sugar transporter 4	GSE48081
+	AT3G20300	KAN1	Protein of unknown function (DUF3537)	GSE48081
+	AT3G20310	KAN1	ethylene response factor 7	GSE48081
+	AT3G20820	KAN1	Leucine-rich repeat (LRR) family protein	GSE48081
+	AT3G20830	KAN1	AGC (cAMP-dependent, cGMP-dependent and protein kinase C) kinase family protein	GSE48081
+	AT3G20840	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT3G20850	KAN1	proline-rich family protein	GSE48081
+	AT3G20860	KAN1	NIMA-related kinase 5	GSE48081
+	AT3G21230	KAN1	4-coumarate:CoA ligase 5	GSE48081
+	AT3G21240	KAN1	4-coumarate:CoA ligase 2	GSE48081
+	AT3G21320	KAN1		GSE48081
+	AT3G21330	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT3G21420	KAN1	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein	GSE48081
+	AT3G21430	KAN1	DNA binding	GSE48081
+	AT3G21670	KAN1	Major facilitator superfamily protein	GSE48081
+	AT3G21680	KAN1		GSE48081
+	AT3G21700	KAN1	Ras-related small GTP-binding family protein	GSE48081
+	AT3G21760	KAN1	UDP-Glycosyltransferase superfamily protein	GSE48081
+	AT3G21770	KAN1	Peroxidase superfamily protein	GSE48081
+	AT3G21890	KAN1	B-box type zinc finger family protein	GSE48081
+	AT3G21900	KAN1	Receptor-like protein kinase-related family protein	GSE48081
+	AT3G22121	KAN1	other RNA	GSE48081
+	AT3G22133	KAN1	transposable element gene	GSE48081
+	AT3G22150	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT3G22160	KAN1	VQ motif-containing protein	GSE48081
+	AT3G22380	KAN1	time for coffee	GSE48081
+	AT3G22410	KAN1	Sec14p-like phosphatidylinositol transfer family protein	GSE48081
+	AT3G22415	KAN1		GSE48081
+	AT3G22420	KAN1	with no lysine (K) kinase 2	GSE48081
+	AT3G22550	KAN1	Protein of unknown function (DUF581)	GSE48081
+	AT3G22560	KAN1	Acyl-CoA N-acyltransferases (NAT) superfamily protein	GSE48081
+	AT3G22750	KAN1	Protein kinase superfamily protein	GSE48081
+	AT3G22760	KAN1	Tesmin/TSO1-like CXC domain-containing protein	GSE48081
+	AT3G22840	KAN1	Chlorophyll A-B binding family protein	GSE48081
+	AT3G22845	KAN1	emp24/gp25L/p24 family/GOLD family protein	GSE48081
+	AT3G22880	KAN1	DNA repair (Rad51) family protein	GSE48081
+	AT3G22886	KAN1	MIR167A; miRNA	GSE48081
+	AT3G22961	KAN1	Paired amphipathic helix (PAH2) superfamily protein	GSE48081
+	AT3G22968	KAN1	conserved peptide upstream open reading frame 59	GSE48081
+	AT3G22970	KAN1	Protein of unknown function (DUF506)	GSE48081
+	AT3G22990	KAN1	ARM repeat superfamily protein	GSE48081
+	AT3G23000	KAN1	CBL-interacting protein kinase 7	GSE48081
+	AT3G23030	KAN1	indole-3-acetic acid inducible 2	GSE48081
+	AT3G23040	KAN1		GSE48081
+	AT3G23145	KAN1	zinc ion binding;isoleucine-tRNA ligases;ATP binding;aminoacyl-tRNA ligases;nucleotide binding	GSE48081
+	AT3G23150	KAN1	Signal transduction histidine kinase, hybrid-type, ethylene sensor	GSE48081
+	AT3G23245	KAN1		GSE48081
+	AT3G23250	KAN1	myb domain protein 15	GSE48081
+	AT3G23637	KAN1	DVL family protein	GSE48081
+	AT3G23640	KAN1	heteroglycan glucosidase 1	GSE48081
+	AT3G23750	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT3G23760	KAN1		GSE48081
+	AT3G23810	KAN1	S-adenosyl-l-homocysteine (SAH) hydrolase 2	GSE48081
+	AT3G23820	KAN1	UDP-D-glucuronate 4-epimerase 6	GSE48081
+	AT3G23880	KAN1	F-box and associated interaction domains-containing protein	GSE48081
+	AT3G23890	KAN1	topoisomerase II	GSE48081
+	AT3G24480	KAN1	Leucine-rich repeat (LRR) family protein	GSE48081
+	AT3G24490	KAN1	Alcohol dehydrogenase transcription factor Myb/SANT-like family protein	GSE48081
+	AT3G24503	KAN1	aldehyde dehydrogenase 2C4	GSE48081
+	AT3G24506	KAN1		GSE48081
+	AT3G24520	KAN1	heat shock transcription factor  C1	GSE48081
+	AT3G24530	KAN1	AAA-type ATPase family protein / ankyrin repeat family protein	GSE48081
+	AT3G24542	KAN1	Beta-galactosidase related protein	GSE48081
+	AT3G24550	KAN1	proline extensin-like receptor kinase 1	GSE48081
+	AT3G24660	KAN1	transmembrane kinase-like 1	GSE48081
+	AT3G24675	KAN1	transposable element gene	GSE48081
+	AT3G25585	KAN1	aminoalcoholphosphotransferase	GSE48081
+	AT3G25590	KAN1		GSE48081
+	AT3G25680	KAN1		GSE48081
+	AT3G25690	KAN1	Hydroxyproline-rich glycoprotein family protein	GSE48081
+	AT3G25727	KAN1		GSE48081
+	AT3G25730	KAN1	ethylene response DNA binding factor 3	GSE48081
+	AT3G25750	KAN1	F-box family protein with a domain of unknown function (DUF295)	GSE48081
+	AT3G25760	KAN1	allene oxide cyclase 1	GSE48081
+	AT3G25870	KAN1		GSE48081
+	AT3G25880	KAN1	NAD(P)-binding Rossmann-fold superfamily protein	GSE48081
+	AT3G25890	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT3G25900	KAN1	Homocysteine S-methyltransferase family protein	GSE48081
+	AT3G26180	KAN1	cytochrome P450, family 71, subfamily B, polypeptide 20	GSE48081
+	AT3G26190	KAN1	cytochrome P450, family 71, subfamily B, polypeptide 21	GSE48081
+	AT3G26200	KAN1	cytochrome P450, family 71, subfamily B, polypeptide 22	GSE48081
+	AT3G26210	KAN1	cytochrome P450, family 71, subfamily B, polypeptide 23	GSE48081
+	AT3G26511	KAN1		GSE48081
+	AT3G26520	KAN1	tonoplast intrinsic protein 2	GSE48081
+	AT3G26561	KAN1		GSE48081
+	AT3G26570	KAN1	phosphate transporter 2;1	GSE48081
+	AT3G27160	KAN1	Ribosomal protein S21 family protein	GSE48081
+	AT3G27170	KAN1	chloride channel B	GSE48081
+	AT3G27210	KAN1		GSE48081
+	AT3G27220	KAN1	Galactose oxidase/kelch repeat superfamily protein	GSE48081
+	AT3G27250	KAN1		GSE48081
+	AT3G27260	KAN1	global transcription factor group E8	GSE48081
+	AT3G27390	KAN1		GSE48081
+	AT3G27400	KAN1	Pectin lyase-like superfamily protein	GSE48081
+	AT3G27555	KAN1	pre-tRNA	GSE48081
+	AT3G27570	KAN1	Sucrase/ferredoxin-like family protein	GSE48081
+	AT3G28040	KAN1	Leucine-rich receptor-like protein kinase family protein	GSE48081
+	AT3G28050	KAN1	nodulin MtN21 /EamA-like transporter family protein	GSE48081
+	AT3G28060	KAN1	Nodulin MtN21 /EamA-like transporter family protein	GSE48081
+	AT3G28840	KAN1	Protein of unknown function (DUF1216)	GSE48081
+	AT3G28850	KAN1	Glutaredoxin family protein	GSE48081
+	AT3G28900	KAN1	Ribosomal protein L34e superfamily protein	GSE48081
+	AT3G28910	KAN1	myb domain protein 30	GSE48081
+	AT3G28920	KAN1	homeobox protein 34	GSE48081
+	AT3G28925	KAN1		GSE48081
+	AT3G29020	KAN1	myb domain protein 110	GSE48081
+	AT3G29032	KAN1	transposable element gene	GSE48081
+	AT3G29230	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT3G29240	KAN1	Protein of unknown function (DUF179)	GSE48081
+	AT3G29770	KAN1	methyl esterase 11	GSE48081
+	AT3G29786	KAN1	transposable element gene	GSE48081
+	AT3G30170	KAN1	transposable element gene	GSE48081
+	AT3G30180	KAN1	brassinosteroid-6-oxidase 2	GSE48081
+	AT3G43431	KAN1		GSE48081
+	AT3G43432	KAN1		GSE48081
+	AT3G43960	KAN1	Cysteine proteinases superfamily protein	GSE48081
+	AT3G43970	KAN1		GSE48081
+	AT3G44300	KAN1	nitrilase 2	GSE48081
+	AT3G44310	KAN1	nitrilase 1	GSE48081
+	AT3G44605	KAN1	transposable element gene	GSE48081
+	AT3G44620	KAN1	protein tyrosine phosphatases;protein tyrosine phosphatases	GSE48081
+	AT3G44980	KAN1		GSE48081
+	AT3G44990	KAN1	xyloglucan endo-transglycosylase-related 8	GSE48081
+	AT3G45000	KAN1	SNF7 family protein	GSE48081
+	AT3G45010	KAN1	serine carboxypeptidase-like 48	GSE48081
+	AT3G45130	KAN1	lanosterol synthase 1	GSE48081
+	AT3G45140	KAN1	lipoxygenase 2	GSE48081
+	AT3G45260	KAN1	C2H2-like zinc finger protein	GSE48081
+	AT3G45270	KAN1	transposable element gene	GSE48081
+	AT3G45775	KAN1	transposable element gene	GSE48081
+	AT3G45780	KAN1	phototropin 1	GSE48081
+	AT3G46090	KAN1	C2H2 and C2HC zinc fingers superfamily protein	GSE48081
+	AT3G46100	KAN1	Histidyl-tRNA synthetase 1	GSE48081
+	AT3G46120	KAN1	purple acid phosphatase 19	GSE48081
+	AT3G46130	KAN1	myb domain protein 48	GSE48081
+	AT3G46280	KAN1	protein kinase-related	GSE48081
+	AT3G46290	KAN1	hercules receptor kinase 1	GSE48081
+	AT3G46585	KAN1	pre-tRNA	GSE48081
+	AT3G46590	KAN1	TRF-like 1	GSE48081
+	AT3G47200	KAN1	Plant protein of unknown function (DUF247)	GSE48081
+	AT3G47210	KAN1	Plant protein of unknown function (DUF247)	GSE48081
+	AT3G47420	KAN1	phosphate starvation-induced gene 3	GSE48081
+	AT3G47430	KAN1	peroxin 11B	GSE48081
+	AT3G47490	KAN1	HNH endonuclease	GSE48081
+	AT3G47500	KAN1	cycling DOF factor 3	GSE48081
+	AT3G47610	KAN1	transcription regulators;zinc ion binding	GSE48081
+	AT3G47620	KAN1	TEOSINTE BRANCHED, cycloidea and PCF (TCP) 14	GSE48081
+	AT3G47820	KAN1	PLANT U-BOX 39	GSE48081
+	AT3G47830	KAN1	DNA glycosylase superfamily protein	GSE48081
+	AT3G47960	KAN1	Major facilitator superfamily protein	GSE48081
+	AT3G47965	KAN1		GSE48081
+	AT3G48550	KAN1		GSE48081
+	AT3G48560	KAN1	chlorsulfuron/imidazolinone resistant 1	GSE48081
+	AT3G48690	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT3G48700	KAN1	carboxyesterase 13	GSE48081
+	AT3G49210	KAN1	O-acyltransferase (WSD1-like) family protein	GSE48081
+	AT3G49230	KAN1		GSE48081
+	AT3G49570	KAN1	response to low sulfur 3	GSE48081
+	AT3G49580	KAN1	response to low sulfur 1	GSE48081
+	AT3G49670	KAN1	Leucine-rich receptor-like protein kinase family protein	GSE48081
+	AT3G49680	KAN1	branched-chain aminotransferase 3	GSE48081
+	AT3G49780	KAN1	phytosulfokine 4 precursor	GSE48081
+	AT3G49796	KAN1		GSE48081
+	AT3G49940	KAN1	LOB domain-containing protein 38	GSE48081
+	AT3G49950	KAN1	GRAS family transcription factor	GSE48081
+	AT3G49970	KAN1	Phototropic-responsive NPH3 family protein	GSE48081
+	AT3G49980	KAN1	F-box and associated interaction domains-containing protein	GSE48081
+	AT3G50060	KAN1	myb domain protein 77	GSE48081
+	AT3G50070	KAN1	CYCLIN D3;3	GSE48081
+	AT3G50240	KAN1	ATP binding microtubule motor family protein	GSE48081
+	AT3G50250	KAN1		GSE48081
+	AT3G50310	KAN1	mitogen-activated protein kinase kinase kinase 20	GSE48081
+	AT3G50320	KAN1		GSE48081
+	AT3G50470	KAN1	homolog of RPW8 3	GSE48081
+	AT3G50480	KAN1	homolog of RPW8 4	GSE48081
+	AT3G50520	KAN1	Phosphoglycerate mutase family protein	GSE48081
+	AT3G50530	KAN1	CDPK-related kinase	GSE48081
+	AT3G50625	KAN1	transposable element gene	GSE48081
+	AT3G50630	KAN1	KIP-related protein 2	GSE48081
+	AT3G50651	KAN1		GSE48081
+	AT3G50660	KAN1	Cytochrome P450 superfamily protein	GSE48081
+	AT3G50665	KAN1	pre-tRNA	GSE48081
+	AT3G50780	KAN1		GSE48081
+	AT3G50790	KAN1	esterase/lipase/thioesterase family protein	GSE48081
+	AT3G50840	KAN1	Phototropic-responsive NPH3 family protein	GSE48081
+	AT3G50845	KAN1	Protein of unknown function (DUF59)	GSE48081
+	AT3G50860	KAN1	Clathrin adaptor complex small chain family protein	GSE48081
+	AT3G50870	KAN1	GATA type zinc finger transcription factor family protein	GSE48081
+	AT3G50925	KAN1	Defensin-like (DEFL) family protein	GSE48081
+	AT3G50940	KAN1	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT3G51840	KAN1	acyl-CoA oxidase 4	GSE48081
+	AT3G51850	KAN1	calcium-dependent protein kinase 13	GSE48081
+	AT3G51950	KAN1	Zinc finger (CCCH-type) family protein / RNA recognition motif (RRM)-containing protein	GSE48081
+	AT3G51960	KAN1	basic leucine zipper 24	GSE48081
+	AT3G52285	KAN1	pre-tRNA	GSE48081
+	AT3G52290	KAN1	IQ-domain 3	GSE48081
+	AT3G52330	KAN1	F-box associated ubiquitination effector family protein	GSE48081
+	AT3G52340	KAN1	sucrose-6F-phosphate phosphohydrolase 2	GSE48081
+	AT3G52440	KAN1	Dof-type zinc finger DNA-binding family protein	GSE48081
+	AT3G52450	KAN1	plant U-box 22	GSE48081
+	AT3G52460	KAN1	hydroxyproline-rich glycoprotein family protein	GSE48081
+	AT3G52470	KAN1	Late embryogenesis abundant (LEA) hydroxyproline-rich glycoprotein family	GSE48081
+	AT3G52500	KAN1	Eukaryotic aspartyl protease family protein	GSE48081
+	AT3G52510	KAN1	F-box associated ubiquitination effector family protein	GSE48081
+	AT3G52920	KAN1	Family of unknown function (DUF662)	GSE48081
+	AT3G52930	KAN1	Aldolase superfamily protein	GSE48081
+	AT3G53150	KAN1	UDP-glucosyl transferase 73D1	GSE48081
+	AT3G53160	KAN1	UDP-glucosyl transferase 73C7	GSE48081
+	AT3G53180	KAN1	glutamate-ammonia ligases;catalytics;glutamate-ammonia ligases	GSE48081
+	AT3G53200	KAN1	myb domain protein 27	GSE48081
+	AT3G53260	KAN1	phenylalanine ammonia-lyase 2	GSE48081
+	AT3G53270	KAN1	Small nuclear RNA activating complex (SNAPc), subunit SNAP43 protein	GSE48081
+	AT3G53380	KAN1	Concanavalin A-like lectin protein kinase family protein	GSE48081
+	AT3G53390	KAN1	Transducin/WD40 repeat-like superfamily protein	GSE48081
+	AT3G53990	KAN1	Adenine nucleotide alpha hydrolases-like superfamily protein	GSE48081
+	AT3G54000	KAN1		GSE48081
+	AT3G54020	KAN1	Arabidopsis Inositol phosphorylceramide synthase 1	GSE48081
+	AT3G54030	KAN1	Protein kinase protein with tetratricopeptide repeat domain	GSE48081
+	AT3G54290	KAN1		GSE48081
+	AT3G54300	KAN1	vesicle-associated membrane protein 727	GSE48081
+	AT3G54670	KAN1	Structural maintenance of chromosomes (SMC) family protein	GSE48081
+	AT3G54680	KAN1	proteophosphoglycan-related	GSE48081
+	AT3G54810	KAN1	Plant-specific GATA-type zinc finger transcription factor family protein	GSE48081
+	AT3G54823	KAN1	transposable element gene	GSE48081
+	AT3G54990	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT3G55000	KAN1	tonneau family protein	GSE48081
+	AT3G55240	KAN1	Plant protein 1589 of unknown function	GSE48081
+	AT3G55250	KAN1		GSE48081
+	AT3G55560	KAN1	AT-hook protein of GA feedback 2	GSE48081
+	AT3G55566	KAN1		GSE48081
+	AT3G55730	KAN1	myb domain protein 109	GSE48081
+	AT3G55734	KAN1	MIR393B; miRNA	GSE48081
+	AT3G55870	KAN1	ADC synthase superfamily protein	GSE48081
+	AT3G55890	KAN1	Yippee family putative zinc-binding protein	GSE48081
+	AT3G55940	KAN1	Phosphoinositide-specific phospholipase C family protein	GSE48081
+	AT3G55950	KAN1	CRINKLY4 related 3	GSE48081
+	AT3G55960	KAN1	Haloacid dehalogenase-like hydrolase (HAD) superfamily protein	GSE48081
+	AT3G55970	KAN1	jasmonate-regulated gene 21	GSE48081
+	AT3G55980	KAN1	salt-inducible zinc finger 1	GSE48081
+	AT3G56050	KAN1	Protein kinase family protein	GSE48081
+	AT3G56060	KAN1	Glucose-methanol-choline (GMC) oxidoreductase family protein	GSE48081
+	AT3G56400	KAN1	WRKY DNA-binding protein 70	GSE48081
+	AT3G56408	KAN1	other RNA	GSE48081
+	AT3G56760	KAN1	Protein kinase superfamily protein	GSE48081
+	AT3G56770	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT3G56800	KAN1	calmodulin 3	GSE48081
+	AT3G56820	KAN1		GSE48081
+	AT3G56880	KAN1	VQ motif-containing protein	GSE48081
+	AT3G56890	KAN1	F-box associated ubiquitination effector family protein	GSE48081
+	AT3G57000	KAN1	nucleolar essential protein-related	GSE48081
+	AT3G57010	KAN1	Calcium-dependent phosphotriesterase superfamily protein	GSE48081
+	AT3G57030	KAN1	Calcium-dependent phosphotriesterase superfamily protein	GSE48081
+	AT3G57040	KAN1	response regulator 9	GSE48081
+	AT3G57062	KAN1		GSE48081
+	AT3G57070	KAN1	Glutaredoxin family protein	GSE48081
+	AT3G57120	KAN1	Protein kinase superfamily protein	GSE48081
+	AT3G57130	KAN1	Ankyrin repeat family protein / BTB/POZ domain-containing protein	GSE48081
+	AT3G57410	KAN1	villin 3	GSE48081
+	AT3G57420	KAN1	Protein of unknown function (DUF288)	GSE48081
+	AT3G57540	KAN1	Remorin family protein	GSE48081
+	AT3G57550	KAN1	guanylate kinase	GSE48081
+	AT3G57560	KAN1	N-acetyl-l-glutamate kinase	GSE48081
+	AT3G57660	KAN1	nuclear RNA polymerase A1	GSE48081
+	AT3G57670	KAN1	C2H2-type zinc finger family protein	GSE48081
+	AT3G57680	KAN1	Peptidase S41 family protein	GSE48081
+	AT3G57790	KAN1	Pectin lyase-like superfamily protein	GSE48081
+	AT3G57810	KAN1	Cysteine proteinases superfamily protein	GSE48081
+	AT3G57870	KAN1	sumo conjugation enzyme 1	GSE48081
+	AT3G57880	KAN1	Calcium-dependent lipid-binding (CaLB domain) plant phosphoribosyltransferase family protein	GSE48081
+	AT3G58070	KAN1	C2H2 and C2HC zinc fingers superfamily protein	GSE48081
+	AT3G58090	KAN1	Disease resistance-responsive (dirigent-like protein) family protein	GSE48081
+	AT3G58110	KAN1		GSE48081
+	AT3G58120	KAN1	Basic-leucine zipper (bZIP) transcription factor family protein	GSE48081
+	AT3G58610	KAN1	ketol-acid reductoisomerase	GSE48081
+	AT3G58620	KAN1	tetratricopetide-repeat thioredoxin-like 4	GSE48081
+	AT3G58770	KAN1		GSE48081
+	AT3G58780	KAN1	K-box region and MADS-box transcription factor family protein	GSE48081
+	AT3G59010	KAN1	pectin methylesterase 61	GSE48081
+	AT3G59020	KAN1	ARM repeat superfamily protein	GSE48081
+	AT3G59060	KAN1	phytochrome interacting factor 3-like 6	GSE48081
+	AT3G59068	KAN1		GSE48081
+	AT3G59340	KAN1	Eukaryotic protein of unknown function (DUF914)	GSE48081
+	AT3G59350	KAN1	Protein kinase superfamily protein	GSE48081
+	AT3G59890	KAN1	Dihydrodipicolinate reductase, bacterial/plant	GSE48081
+	AT3G59900	KAN1	auxin-regulated gene involved in organ size	GSE48081
+	AT3G60160	KAN1	multidrug resistance-associated protein 9	GSE48081
+	AT3G60170	KAN1	transposable element gene	GSE48081
+	AT3G60220	KAN1	TOXICOS EN LEVADURA 4	GSE48081
+	AT3G60238	KAN1		GSE48081
+	AT3G60310	KAN1		GSE48081
+	AT3G60318	KAN1		GSE48081
+	AT3G60320	KAN1	Protein of unknown function (DUF630 and DUF632)	GSE48081
+	AT3G60328	KAN1		GSE48081
+	AT3G60380	KAN1		GSE48081
+	AT3G60390	KAN1	homeobox-leucine zipper protein 3	GSE48081
+	AT3G60520	KAN1		GSE48081
+	AT3G60530	KAN1	GATA transcription factor 4	GSE48081
+	AT3G60680	KAN1	Plant protein of unknown function (DUF641)	GSE48081
+	AT3G60690	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT3G60961	KAN1	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT3G60970	KAN1	multidrug resistance-associated protein 15	GSE48081
+	AT3G61460	KAN1	brassinosteroid-responsive RING-H2	GSE48081
+	AT3G61470	KAN1	photosystem I light harvesting complex gene 2	GSE48081
+	AT3G61630	KAN1	cytokinin response factor 6	GSE48081
+	AT3G61640	KAN1	arabinogalactan protein 20	GSE48081
+	AT3G61750	KAN1	Cytochrome b561/ferric reductase transmembrane with DOMON related domain	GSE48081
+	AT3G61755	KAN1	pre-tRNA	GSE48081
+	AT3G61840	KAN1	Protein of unknown function (DUF688)	GSE48081
+	AT3G61850	KAN1	Dof-type zinc finger DNA-binding family protein	GSE48081
+	AT3G61950	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT3G61960	KAN1	Protein kinase superfamily protein	GSE48081
+	AT3G62050	KAN1	Putative endonuclease or glycosyl hydrolase	GSE48081
+	AT3G62060	KAN1	Pectinacetylesterase family protein	GSE48081
+	AT3G62090	KAN1	phytochrome interacting factor 3-like 2	GSE48081
+	AT3G62097	KAN1		GSE48081
+	AT3G62420	KAN1	basic region/leucine zipper motif 53	GSE48081
+	AT3G62422	KAN1	conserved peptide upstream open reading frame 3	GSE48081
+	AT3G62430	KAN1	Protein with RNI-like/FBD-like domains	GSE48081
+	AT3G62620	KAN1	sucrose-phosphatase-related	GSE48081
+	AT3G62630	KAN1	Protein of unknown function (DUF1645)	GSE48081
+	AT3G62690	KAN1	AtL5	GSE48081
+	AT3G62700	KAN1	multidrug resistance-associated protein 10	GSE48081
+	AT3G62940	KAN1	Cysteine proteinases superfamily protein	GSE48081
+	AT3G62950	KAN1	Thioredoxin superfamily protein	GSE48081
+	AT3G63006	KAN1	pre-tRNA	GSE48081
+	AT3G63010	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT3G63020	KAN1	Protein of unknown function (DUF3049)	GSE48081
+	AT3G63095	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT3G63110	KAN1	isopentenyltransferase 3	GSE48081
+	AT3G63120	KAN1	cyclin p1;1	GSE48081
+	AT3G63210	KAN1	Protein of unknown function (DUF581)	GSE48081
+	AT3G63220	KAN1	Galactose oxidase/kelch repeat superfamily protein	GSE48081
+	AT3G63430	KAN1		GSE48081
+	AT3G63440	KAN1	cytokinin oxidase/dehydrogenase 6	GSE48081
+	AT4G00720	KAN1	shaggy-like protein kinase 32	GSE48081
+	AT4G00730	KAN1	Homeobox-leucine zipper family protein / lipid-binding START domain-containing protein	GSE48081
+	AT4G00740	KAN1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	GSE48081
+	AT4G00860	KAN1	Protein of unknown function (DUF1138)	GSE48081
+	AT4G00870	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT4G00900	KAN1	ER-type Ca2+-ATPase 2	GSE48081
+	AT4G00905	KAN1	NC domain-containing protein-related	GSE48081
+	AT4G00930	KAN1	COP1-interacting protein 4.1	GSE48081
+	AT4G00940	KAN1	Dof-type zinc finger DNA-binding family protein	GSE48081
+	AT4G01245	KAN1		GSE48081
+	AT4G01250	KAN1	WRKY family transcription factor	GSE48081
+	AT4G01330	KAN1	Protein kinase superfamily protein	GSE48081
+	AT4G01335	KAN1		GSE48081
+	AT4G01710	KAN1	ARP2/3 complex 16 kDa subunit (p16-Arc)	GSE48081
+	AT4G01720	KAN1	WRKY family transcription factor	GSE48081
+	AT4G02040	KAN1		GSE48081
+	AT4G02060	KAN1	Minichromosome maintenance (MCM2/3/5) family protein	GSE48081
+	AT4G02090	KAN1		GSE48081
+	AT4G02110	KAN1	transcription coactivators	GSE48081
+	AT4G02370	KAN1	Protein of unknown function, DUF538	GSE48081
+	AT4G02380	KAN1	senescence-associated gene 21	GSE48081
+	AT4G02420	KAN1	Concanavalin A-like lectin protein kinase family protein	GSE48081
+	AT4G02425	KAN1		GSE48081
+	AT4G02930	KAN1	GTP binding Elongation factor Tu family protein	GSE48081
+	AT4G02940	KAN1	oxidoreductase, 2OG-Fe(II) oxygenase family protein	GSE48081
+	AT4G03030	KAN1	Galactose oxidase/kelch repeat superfamily protein	GSE48081
+	AT4G03038	KAN1	other RNA	GSE48081
+	AT4G03110	KAN1	RNA-binding protein-defense related 1	GSE48081
+	AT4G03115	KAN1	Mitochondrial substrate carrier family protein	GSE48081
+	AT4G03135	KAN1	pre-tRNA	GSE48081
+	AT4G03150	KAN1		GSE48081
+	AT4G03205	KAN1	Coproporphyrinogen III oxidase	GSE48081
+	AT4G03210	KAN1	xyloglucan endotransglucosylase/hydrolase 9	GSE48081
+	AT4G03380	KAN1		GSE48081
+	AT4G03400	KAN1	Auxin-responsive GH3 family protein	GSE48081
+	AT4G03410	KAN1	Peroxisomal membrane 22 kDa (Mpv17/PMP22) family protein	GSE48081
+	AT4G03420	KAN1	Protein of unknown function (DUF789)	GSE48081
+	AT4G03430	KAN1	pre-mRNA splicing factor-related	GSE48081
+	AT4G03510	KAN1	RING membrane-anchor 1	GSE48081
+	AT4G03520	KAN1	Thioredoxin superfamily protein	GSE48081
+	AT4G03540	KAN1	Uncharacterised protein family (UPF0497)	GSE48081
+	AT4G03550	KAN1	glucan synthase-like 5	GSE48081
+	AT4G04200	KAN1	Microsomal signal peptidase 25 kDa subunit (SPC25)	GSE48081
+	AT4G04210	KAN1	plant UBX domain containing protein 4	GSE48081
+	AT4G04330	KAN1	Chaperonin-like RbcX protein	GSE48081
+	AT4G04340	KAN1	ERD (early-responsive to dehydration stress) family protein	GSE48081
+	AT4G04830	KAN1	methionine sulfoxide reductase B5	GSE48081
+	AT4G04840	KAN1	methionine sulfoxide reductase B6	GSE48081
+	AT4G05310	KAN1	Ubiquitin-like superfamily protein	GSE48081
+	AT4G05320	KAN1	polyubiquitin 10	GSE48081
+	AT4G08870	KAN1	Arginase/deacetylase superfamily protein	GSE48081
+	AT4G08871	KAN1	transposable element gene	GSE48081
+	AT4G08910	KAN1		GSE48081
+	AT4G08920	KAN1	cryptochrome 1	GSE48081
+	AT4G08949	KAN1		GSE48081
+	AT4G08950	KAN1	Phosphate-responsive 1 family protein	GSE48081
+	AT4G09030	KAN1	arabinogalactan protein 10	GSE48081
+	AT4G09040	KAN1	RNA-binding (RRM/RBD/RNP motifs) family protein	GSE48081
+	AT4G09880	KAN1		GSE48081
+	AT4G09890	KAN1	Protein of unknown function (DUF3511)	GSE48081
+	AT4G10115	KAN1	SCR-like 20	GSE48081
+	AT4G10120	KAN1	Sucrose-phosphate synthase family protein	GSE48081
+	AT4G11270	KAN1	Transducin/WD40 repeat-like superfamily protein	GSE48081
+	AT4G11280	KAN1	1-aminocyclopropane-1-carboxylic acid (acc) synthase 6	GSE48081
+	AT4G11990	KAN1	Cell cycle regulated microtubule associated protein	GSE48081
+	AT4G12000	KAN1	SNARE associated Golgi protein family	GSE48081
+	AT4G12410	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT4G12423	KAN1	transposable element gene	GSE48081
+	AT4G12720	KAN1	MutT/nudix family protein	GSE48081
+	AT4G12731	KAN1		GSE48081
+	AT4G12990	KAN1		GSE48081
+	AT4G13000	KAN1	AGC (cAMP-dependent, cGMP-dependent and protein kinase C) kinase family protein	GSE48081
+	AT4G13195	KAN1	CLAVATA3/ESR-RELATED 44	GSE48081
+	AT4G13200	KAN1		GSE48081
+	AT4G13260	KAN1	Flavin-binding monooxygenase family protein	GSE48081
+	AT4G13263	KAN1	Protein of unknown function (DUF784)	GSE48081
+	AT4G13330	KAN1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	GSE48081
+	AT4G13340	KAN1	Leucine-rich repeat (LRR) family protein	GSE48081
+	AT4G13345	KAN1	Serinc-domain containing serine and sphingolipid biosynthesis protein	GSE48081
+	AT4G13395	KAN1	ROTUNDIFOLIA like 12	GSE48081
+	AT4G13400	KAN1	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein	GSE48081
+	AT4G14230	KAN1	CBS domain-containing protein with a domain of unknown function (DUF21)	GSE48081
+	AT4G14240	KAN1	CBS domain-containing protein with a domain of unknown function (DUF21)	GSE48081
+	AT4G14550	KAN1	indole-3-acetic acid inducible 14	GSE48081
+	AT4G14560	KAN1	indole-3-acetic acid inducible	GSE48081
+	AT4G14680	KAN1	Pseudouridine synthase/archaeosine transglycosylase-like family protein	GSE48081
+	AT4G14690	KAN1	Chlorophyll A-B binding family protein	GSE48081
+	AT4G14920	KAN1	Acyl-CoA N-acyltransferase with RING/FYVE/PHD-type zinc finger protein	GSE48081
+	AT4G14930	KAN1	Survival protein SurE-like phosphatase/nucleotidase	GSE48081
+	AT4G15258	KAN1	SNOR37-2; snoRNA	GSE48081
+	AT4G15270	KAN1	glucosyltransferase-related	GSE48081
+	AT4G15550	KAN1	indole-3-acetate beta-D-glucosyltransferase	GSE48081
+	AT4G15560	KAN1	Deoxyxylulose-5-phosphate synthase	GSE48081
+	AT4G15690	KAN1	Thioredoxin superfamily protein	GSE48081
+	AT4G15700	KAN1	Thioredoxin superfamily protein	GSE48081
+	AT4G15920	KAN1	Nodulin MtN3 family protein	GSE48081
+	AT4G15930	KAN1	Dynein light chain type 1 family protein	GSE48081
+	AT4G16370	KAN1	oligopeptide transporter	GSE48081
+	AT4G16380	KAN1	Heavy metal transport/detoxification superfamily protein	GSE48081
+	AT4G16390	KAN1	pentatricopeptide (PPR) repeat-containing protein	GSE48081
+	AT4G16410	KAN1		GSE48081
+	AT4G16660	KAN1	heat shock protein 70 (Hsp 70) family protein	GSE48081
+	AT4G16670	KAN1	Plant protein of unknown function (DUF828) with plant pleckstrin homology-like region	GSE48081
+	AT4G16970	KAN1	Protein kinase superfamily protein	GSE48081
+	AT4G16980	KAN1	arabinogalactan-protein family	GSE48081
+	AT4G17453	KAN1		GSE48081
+	AT4G17460	KAN1	Homeobox-leucine zipper protein 4 (HB-4) / HD-ZIP protein	GSE48081
+	AT4G17490	KAN1	ethylene responsive element binding factor 6	GSE48081
+	AT4G17500	KAN1	ethylene responsive element binding factor 1	GSE48081
+	AT4G17870	KAN1	Polyketide cyclase/dehydrase and lipid transport superfamily protein	GSE48081
+	AT4G17880	KAN1	Basic helix-loop-helix (bHLH) DNA-binding family protein	GSE48081
+	AT4G17890	KAN1	ARF-GAP domain 8	GSE48081
+	AT4G17895	KAN1	ubiquitin-specific protease 20	GSE48081
+	AT4G17900	KAN1	PLATZ transcription factor family protein	GSE48081
+	AT4G17950	KAN1	AT hook motif DNA-binding family protein	GSE48081
+	AT4G17960	KAN1		GSE48081
+	AT4G18010	KAN1	myo-inositol polyphosphate 5-phosphatase 2	GSE48081
+	AT4G18020	KAN1	CheY-like two-component responsive regulator family protein	GSE48081
+	AT4G18170	KAN1	WRKY DNA-binding protein 28	GSE48081
+	AT4G18180	KAN1	Pectin lyase-like superfamily protein	GSE48081
+	AT4G18270	KAN1	translocase 11	GSE48081
+	AT4G18280	KAN1	glycine-rich cell wall protein-related	GSE48081
+	AT4G18340	KAN1	Glycosyl hydrolase superfamily protein	GSE48081
+	AT4G18350	KAN1	nine-cis-epoxycarotenoid dioxygenase 2	GSE48081
+	AT4G18380	KAN1	F-box family protein	GSE48081
+	AT4G18390	KAN1	TEOSINTE BRANCHED 1, cycloidea and PCF transcription factor 2	GSE48081
+	AT4G18692	KAN1		GSE48081
+	AT4G18700	KAN1	CBL-interacting protein kinase 12	GSE48081
+	AT4G18710	KAN1	Protein kinase superfamily protein	GSE48081
+	AT4G18823	KAN1	Defensin-like (DEFL) family protein	GSE48081
+	AT4G18830	KAN1	ovate family protein 5	GSE48081
+	AT4G18880	KAN1	heat shock transcription factor  A4A	GSE48081
+	AT4G18890	KAN1	BES1/BZR1 homolog 3	GSE48081
+	AT4G18920	KAN1	Protein of unknown function (DUF1264)	GSE48081
+	AT4G18930	KAN1	RNA ligase/cyclic nucleotide phosphodiesterase family protein	GSE48081
+	AT4G18975	KAN1	Pentatricopeptide repeat (PPR) superfamily protein	GSE48081
+	AT4G18980	KAN1	AtS40-3	GSE48081
+	AT4G19150	KAN1	Ankyrin repeat family protein	GSE48081
+	AT4G19160	KAN1		GSE48081
+	AT4G19170	KAN1	nine-cis-epoxycarotenoid dioxygenase 4	GSE48081
+	AT4G19180	KAN1	GDA1/CD39 nucleoside phosphatase family protein	GSE48081
+	AT4G19191	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT4G19200	KAN1	proline-rich family protein	GSE48081
+	AT4G19395	KAN1	MIR168/MIR168A; miRNA	GSE48081
+	AT4G19400	KAN1	Profilin family protein	GSE48081
+	AT4G19420	KAN1	Pectinacetylesterase family protein	GSE48081
+	AT4G19430	KAN1		GSE48081
+	AT4G19440	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT4G19690	KAN1	iron-regulated transporter 1	GSE48081
+	AT4G19700	KAN1	SBP (S-ribonuclease binding protein) family protein	GSE48081
+	AT4G19710	KAN1	aspartate kinase-homoserine dehydrogenase ii	GSE48081
+	AT4G19950	KAN1		GSE48081
+	AT4G19960	KAN1	K+ uptake permease 9	GSE48081
+	AT4G20290	KAN1		GSE48081
+	AT4G20310	KAN1	Peptidase M50 family protein	GSE48081
+	AT4G20820	KAN1	FAD-binding Berberine family protein	GSE48081
+	AT4G20830	KAN1	FAD-binding Berberine family protein	GSE48081
+	AT4G21430	KAN1	Zinc finger, RING-type;Transcription factor jumonji/aspartyl beta-hydroxylase	GSE48081
+	AT4G21440	KAN1	MYB-like 102	GSE48081
+	AT4G21510	KAN1	F-box family protein	GSE48081
+	AT4G21520	KAN1	Transducin/WD40 repeat-like superfamily protein	GSE48081
+	AT4G21680	KAN1	NITRATE TRANSPORTER 1.8	GSE48081
+	AT4G21690	KAN1	gibberellin 3-oxidase 3	GSE48081
+	AT4G21750	KAN1	Homeobox-leucine zipper family protein / lipid-binding START domain-containing protein	GSE48081
+	AT4G21760	KAN1	beta-glucosidase 47	GSE48081
+	AT4G21850	KAN1	methionine sulfoxide reductase B9	GSE48081
+	AT4G21860	KAN1	methionine sulfoxide reductase B 2	GSE48081
+	AT4G21870	KAN1	HSP20-like chaperones superfamily protein	GSE48081
+	AT4G21880	KAN1	Pentatricopeptide repeat (PPR) superfamily protein	GSE48081
+	AT4G22190	KAN1		GSE48081
+	AT4G22200	KAN1	potassium transport 2/3	GSE48081
+	AT4G22235	KAN1	Arabidopsis defensin-like protein	GSE48081
+	AT4G22240	KAN1	Plastid-lipid associated protein PAP / fibrillin family protein	GSE48081
+	AT4G22780	KAN1	ACT domain repeat 7	GSE48081
+	AT4G22785	KAN1	pre-tRNA	GSE48081
+	AT4G22990	KAN1	Major Facilitator Superfamily with SPX (SYG1/Pho81/XPR1) domain-containing protein	GSE48081
+	AT4G23000	KAN1	Calcineurin-like metallo-phosphoesterase superfamily protein	GSE48081
+	AT4G23040	KAN1	Ubiquitin-like superfamily protein	GSE48081
+	AT4G23050	KAN1	PAS domain-containing protein tyrosine kinase family protein	GSE48081
+	AT4G23060	KAN1	IQ-domain 22	GSE48081
+	AT4G23490	KAN1	Protein of unknown function (DUF604)	GSE48081
+	AT4G23493	KAN1		GSE48081
+	AT4G23520	KAN1	Cysteine proteinases superfamily protein	GSE48081
+	AT4G23530	KAN1	Protein of unknown function (DUF793)	GSE48081
+	AT4G23720	KAN1	Protein of unknown function (DUF1191)	GSE48081
+	AT4G23730	KAN1	Galactose mutarotase-like superfamily protein	GSE48081
+	AT4G23810	KAN1	WRKY family transcription factor	GSE48081
+	AT4G23820	KAN1	Pectin lyase-like superfamily protein	GSE48081
+	AT4G24015	KAN1	RING/U-box superfamily protein	GSE48081
+	AT4G24020	KAN1	NIN like protein 7	GSE48081
+	AT4G24026	KAN1		GSE48081
+	AT4G24040	KAN1	trehalase 1	GSE48081
+	AT4G24050	KAN1	NAD(P)-binding Rossmann-fold superfamily protein	GSE48081
+	AT4G24060	KAN1	Dof-type zinc finger DNA-binding family protein	GSE48081
+	AT4G24110	KAN1		GSE48081
+	AT4G24120	KAN1	YELLOW STRIPE like 1	GSE48081
+	AT4G24140	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT4G24160	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT4G24230	KAN1	acyl-CoA-binding domain 3	GSE48081
+	AT4G24231	KAN1		GSE48081
+	AT4G24240	KAN1	WRKY DNA-binding protein 7	GSE48081
+	AT4G24250	KAN1	Seven transmembrane MLO family protein	GSE48081
+	AT4G24660	KAN1	homeobox protein 22	GSE48081
+	AT4G24670	KAN1	tryptophan aminotransferase related 2	GSE48081
+	AT4G24970	KAN1	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase family protein	GSE48081
+	AT4G24972	KAN1	tapetum determinant 1	GSE48081
+	AT4G25020	KAN1	D111/G-patch domain-containing protein	GSE48081
+	AT4G25030	KAN1		GSE48081
+	AT4G25090	KAN1	Riboflavin synthase-like superfamily protein	GSE48081
+	AT4G25100	KAN1	Fe superoxide dismutase 1	GSE48081
+	AT4G25400	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT4G25410	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT4G25450	KAN1	non-intrinsic ABC protein 8	GSE48081
+	AT4G25470	KAN1	C-repeat/DRE binding factor 2	GSE48081
+	AT4G25480	KAN1	dehydration response element B1A	GSE48081
+	AT4G25490	KAN1	C-repeat/DRE binding factor 1	GSE48081
+	AT4G25610	KAN1	C2H2-like zinc finger protein	GSE48081
+	AT4G25620	KAN1	hydroxyproline-rich glycoprotein family protein	GSE48081
+	AT4G25630	KAN1	fibrillarin 2	GSE48081
+	AT4G25950	KAN1	vacuolar ATP synthase G3	GSE48081
+	AT4G25960	KAN1	P-glycoprotein 2	GSE48081
+	AT4G25990	KAN1	CCT motif family protein	GSE48081
+	AT4G26000	KAN1	RNA-binding KH domain-containing protein	GSE48081
+	AT4G26080	KAN1	Protein phosphatase 2C family protein	GSE48081
+	AT4G26090	KAN1	NB-ARC domain-containing disease resistance protein	GSE48081
+	AT4G26095	KAN1	other RNA	GSE48081
+	AT4G26450	KAN1		GSE48081
+	AT4G26455	KAN1	WPP domain interacting protein 1	GSE48081
+	AT4G26530	KAN1	Aldolase superfamily protein	GSE48081
+	AT4G26540	KAN1	Leucine-rich repeat receptor-like protein kinase family protein	GSE48081
+	AT4G26550	KAN1	Got1/Sft2-like vescicle transport protein family	GSE48081
+	AT4G26965	KAN1	NADH:ubiquinone oxidoreductase, 17.2kDa subunit	GSE48081
+	AT4G26970	KAN1	aconitase 2	GSE48081
+	AT4G27250	KAN1	NAD(P)-binding Rossmann-fold superfamily protein	GSE48081
+	AT4G27260	KAN1	Auxin-responsive GH3 family protein	GSE48081
+	AT4G27270	KAN1	Quinone reductase family protein	GSE48081
+	AT4G27300	KAN1	S-locus lectin protein kinase family protein	GSE48081
+	AT4G27310	KAN1	B-box type zinc finger family protein	GSE48081
+	AT4G27410	KAN1	NAC (No Apical Meristem) domain transcriptional regulator superfamily protein	GSE48081
+	AT4G27415	KAN1		GSE48081
+	AT4G27435	KAN1	Protein of unknown function (DUF1218)	GSE48081
+	AT4G27440	KAN1	protochlorophyllide oxidoreductase B	GSE48081
+	AT4G27450	KAN1	Aluminium induced protein with YGL and LRDR motifs	GSE48081
+	AT4G27460	KAN1	Cystathionine beta-synthase (CBS) family protein	GSE48081
+	AT4G27657	KAN1		GSE48081
+	AT4G27660	KAN1		GSE48081
+	AT4G27890	KAN1	HSP20-like chaperones superfamily protein	GSE48081
+	AT4G27900	KAN1	CCT motif family protein	GSE48081
+	AT4G28270	KAN1	RING membrane-anchor 2	GSE48081
+	AT4G28280	KAN1	LORELEI-LIKE-GPI ANCHORED PROTEIN 3	GSE48081
+	AT4G28290	KAN1		GSE48081
+	AT4G28300	KAN1	Protein of unknown function (DUF1421)	GSE48081
+	AT4G28485	KAN1	DUF679 domain membrane protein 7	GSE48081
+	AT4G28490	KAN1	Leucine-rich receptor-like protein kinase family protein	GSE48081
+	AT4G28700	KAN1	ammonium transporter 1;4	GSE48081
+	AT4G28703	KAN1	RmlC-like cupins superfamily protein	GSE48081
+	AT4G28720	KAN1	Flavin-binding monooxygenase family protein	GSE48081
+	AT4G28730	KAN1	Glutaredoxin family protein	GSE48081
+	AT4G28780	KAN1	GDSL-like Lipase/Acylhydrolase superfamily protein	GSE48081
+	AT4G28790	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT4G29080	KAN1	phytochrome-associated protein 2	GSE48081
+	AT4G29090	KAN1	Ribonuclease H-like superfamily protein	GSE48081
+	AT4G29140	KAN1	MATE efflux family protein	GSE48081
+	AT4G29150	KAN1	IQ-domain 25	GSE48081
+	AT4G29190	KAN1	Zinc finger C-x8-C-x5-C-x3-H type family protein	GSE48081
+	AT4G29200	KAN1	Beta-galactosidase related protein	GSE48081
+	AT4G29310	KAN1	Protein of unknown function (DUF1005)	GSE48081
+	AT4G29330	KAN1	DERLIN-1	GSE48081
+	AT4G29340	KAN1	profilin 4	GSE48081
+	AT4G29350	KAN1	profilin 2	GSE48081
+	AT4G29710	KAN1	Alkaline-phosphatase-like family protein	GSE48081
+	AT4G29720	KAN1	polyamine oxidase 5	GSE48081
+	AT4G29735	KAN1		GSE48081
+	AT4G29740	KAN1	cytokinin oxidase 4	GSE48081
+	AT4G29840	KAN1	Pyridoxal-5'-phosphate-dependent enzyme family protein	GSE48081
+	AT4G29850	KAN1	Eukaryotic protein of unknown function (DUF872)	GSE48081
+	AT4G29940	KAN1	pathogenesis related homeodomain protein  A	GSE48081
+	AT4G29950	KAN1	Ypt/Rab-GAP domain of gyp1p superfamily protein	GSE48081
+	AT4G30170	KAN1	Peroxidase family protein	GSE48081
+	AT4G30180	KAN1	sequence-specific DNA binding transcription factors;transcription regulators	GSE48081
+	AT4G30190	KAN1	H(+)-ATPase 2	GSE48081
+	AT4G30200	KAN1	vernalization5/VIN3-like	GSE48081
+	AT4G30210	KAN1	P450 reductase 2	GSE48081
+	AT4G30270	KAN1	xyloglucan endotransglucosylase/hydrolase 24	GSE48081
+	AT4G30280	KAN1	xyloglucan endotransglucosylase/hydrolase 18	GSE48081
+	AT4G30350	KAN1	Double Clp-N motif-containing P-loop nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT4G30360	KAN1	cyclic nucleotide-gated channel 17	GSE48081
+	AT4G30490	KAN1	AFG1-like ATPase family protein	GSE48081
+	AT4G30500	KAN1	Protein of unknown function (DUF788)	GSE48081
+	AT4G30710	KAN1	Family of unknown function (DUF566)	GSE48081
+	AT4G30720	KAN1	FAD/NAD(P)-binding oxidoreductase family protein	GSE48081
+	AT4G30950	KAN1	fatty acid desaturase 6	GSE48081
+	AT4G30960	KAN1	SOS3-interacting protein 3	GSE48081
+	AT4G30970	KAN1		GSE48081
+	AT4G31240	KAN1	protein kinase C-like zinc finger protein	GSE48081
+	AT4G31250	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT4G31380	KAN1	FPF1-like protein 1	GSE48081
+	AT4G31390	KAN1	Protein kinase superfamily protein	GSE48081
+	AT4G31490	KAN1	Coatomer, beta subunit	GSE48081
+	AT4G31500	KAN1	cytochrome P450, family 83, subfamily B, polypeptide 1	GSE48081
+	AT4G31550	KAN1	WRKY DNA-binding protein 11	GSE48081
+	AT4G31560	KAN1	high chlorophyll fluorescence 153	GSE48081
+	AT4G31790	KAN1	Tetrapyrrole (Corrin/Porphyrin) Methylases	GSE48081
+	AT4G31800	KAN1	WRKY DNA-binding protein 18	GSE48081
+	AT4G32020	KAN1		GSE48081
+	AT4G32030	KAN1		GSE48081
+	AT4G32272	KAN1	Nucleotide/sugar transporter family protein	GSE48081
+	AT4G32280	KAN1	indole-3-acetic acid inducible 29	GSE48081
+	AT4G32285	KAN1	ENTH/ANTH/VHS superfamily protein	GSE48081
+	AT4G32290	KAN1	Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein	GSE48081
+	AT4G32295	KAN1		GSE48081
+	AT4G32430	KAN1	Pentatricopeptide repeat (PPR) superfamily protein	GSE48081
+	AT4G32440	KAN1	Plant Tudor-like RNA-binding protein	GSE48081
+	AT4G32475	KAN1	pre-tRNA	GSE48081
+	AT4G32480	KAN1	Protein of unknown function (DUF506)	GSE48081
+	AT4G32790	KAN1	Exostosin family protein	GSE48081
+	AT4G32800	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT4G32880	KAN1	homeobox gene 8	GSE48081
+	AT4G32890	KAN1	GATA transcription factor 9	GSE48081
+	AT4G32900	KAN1	Peptidyl-tRNA hydrolase II (PTH2) family protein	GSE48081
+	AT4G32924	KAN1		GSE48081
+	AT4G32930	KAN1		GSE48081
+	AT4G33040	KAN1	Thioredoxin superfamily protein	GSE48081
+	AT4G33050	KAN1	calmodulin-binding family protein	GSE48081
+	AT4G33060	KAN1	Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein	GSE48081
+	AT4G33070	KAN1	Thiamine pyrophosphate dependent pyruvate decarboxylase family protein	GSE48081
+	AT4G33080	KAN1	AGC (cAMP-dependent, cGMP-dependent and protein kinase C) kinase family protein	GSE48081
+	AT4G33290	KAN1	F-box and associated interaction domains-containing protein	GSE48081
+	AT4G33310	KAN1		GSE48081
+	AT4G33430	KAN1	BRI1-associated receptor kinase	GSE48081
+	AT4G33440	KAN1	Pectin lyase-like superfamily protein	GSE48081
+	AT4G33560	KAN1	Wound-responsive family protein	GSE48081
+	AT4G33565	KAN1	RING/U-box superfamily protein	GSE48081
+	AT4G33905	KAN1	Peroxisomal membrane 22 kDa (Mpv17/PMP22) family protein	GSE48081
+	AT4G33910	KAN1	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein	GSE48081
+	AT4G33950	KAN1	Protein kinase superfamily protein	GSE48081
+	AT4G33960	KAN1		GSE48081
+	AT4G34135	KAN1	UDP-glucosyltransferase 73B2	GSE48081
+	AT4G34138	KAN1	UDP-glucosyl transferase 73B1	GSE48081
+	AT4G34140	KAN1	D111/G-patch domain-containing protein	GSE48081
+	AT4G34160	KAN1	CYCLIN D3;1	GSE48081
+	AT4G34170	KAN1	Galactose oxidase/kelch repeat superfamily protein	GSE48081
+	AT4G34220	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT4G34230	KAN1	cinnamyl alcohol dehydrogenase 5	GSE48081
+	AT4G34240	KAN1	aldehyde dehydrogenase 3I1	GSE48081
+	AT4G34300	KAN1	Cupredoxin superfamily protein	GSE48081
+	AT4G34310	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT4G34350	KAN1	4-hydroxy-3-methylbut-2-enyl diphosphate reductase	GSE48081
+	AT4G34360	KAN1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	GSE48081
+	AT4G34760	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT4G34770	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT4G35070	KAN1	SBP (S-ribonuclease binding protein) family protein	GSE48081
+	AT4G35080	KAN1	high-affinity nickel-transport family protein	GSE48081
+	AT4G35090	KAN1	catalase 2	GSE48081
+	AT4G35100	KAN1	plasma membrane intrinsic protein 3	GSE48081
+	AT4G35110	KAN1	Arabidopsis phospholipase-like protein (PEARLI 4) family	GSE48081
+	AT4G35230	KAN1	BR-signaling kinase 1	GSE48081
+	AT4G35240	KAN1	Protein of unknown function (DUF630 and DUF632)	GSE48081
+	AT4G35250	KAN1	NAD(P)-binding Rossmann-fold superfamily protein	GSE48081
+	AT4G35300	KAN1	tonoplast monosaccharide transporter2	GSE48081
+	AT4G35320	KAN1		GSE48081
+	AT4G35550	KAN1	WUSCHEL related homeobox 13	GSE48081
+	AT4G35560	KAN1	Transducin/WD40 repeat-like superfamily protein	GSE48081
+	AT4G36000	KAN1	Pathogenesis-related thaumatin superfamily protein	GSE48081
+	AT4G36020	KAN1	cold shock domain protein 1	GSE48081
+	AT4G36030	KAN1	armadillo repeat only 3	GSE48081
+	AT4G36040	KAN1	Chaperone DnaJ-domain superfamily protein	GSE48081
+	AT4G36050	KAN1	endonuclease/exonuclease/phosphatase family protein	GSE48081
+	AT4G36105	KAN1		GSE48081
+	AT4G36110	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT4G36120	KAN1	Plant protein of unknown function (DUF869)	GSE48081
+	AT4G36160	KAN1	NAC domain containing protein 76	GSE48081
+	AT4G36180	KAN1	Leucine-rich receptor-like protein kinase family protein	GSE48081
+	AT4G36240	KAN1	GATA transcription factor 7	GSE48081
+	AT4G36245	KAN1	pre-tRNA	GSE48081
+	AT4G36670	KAN1	Major facilitator superfamily protein	GSE48081
+	AT4G36680	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT4G36770	KAN1	UDP-Glycosyltransferase superfamily protein	GSE48081
+	AT4G36780	KAN1	BES1/BZR1 homolog 2	GSE48081
+	AT4G36820	KAN1	Protein of unknown function (DUF607)	GSE48081
+	AT4G36830	KAN1	GNS1/SUR4 membrane protein family	GSE48081
+	AT4G36860	KAN1	LIM domain-containing protein	GSE48081
+	AT4G36870	KAN1	BEL1-like homeodomain 2	GSE48081
+	AT4G36910	KAN1	Cystathionine beta-synthase (CBS) family protein	GSE48081
+	AT4G36920	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT4G36925	KAN1		GSE48081
+	AT4G36930	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT4G37070	KAN1	Acyl transferase/acyl hydrolase/lysophospholipase superfamily protein	GSE48081
+	AT4G37080	KAN1	Protein of unknown function, DUF547	GSE48081
+	AT4G37100	KAN1	Pyridoxal phosphate (PLP)-dependent transferases superfamily protein	GSE48081
+	AT4G37110	KAN1	Zinc-finger domain of monoamine-oxidase A repressor R1	GSE48081
+	AT4G37175	KAN1	pre-tRNA	GSE48081
+	AT4G37180	KAN1	Homeodomain-like superfamily protein	GSE48081
+	AT4G37230	KAN1	Photosystem II manganese-stabilising protein (PsbO) family	GSE48081
+	AT4G37240	KAN1		GSE48081
+	AT4G37250	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT4G37260	KAN1	myb domain protein 73	GSE48081
+	AT4G37445	KAN1		GSE48081
+	AT4G37450	KAN1	arabinogalactan protein  18	GSE48081
+	AT4G37510	KAN1	Ribonuclease III family protein	GSE48081
+	AT4G37520	KAN1	Peroxidase superfamily protein	GSE48081
+	AT4G37530	KAN1	Peroxidase superfamily protein	GSE48081
+	AT4G37540	KAN1	LOB domain-containing protein 39	GSE48081
+	AT4G37550	KAN1	Acetamidase/Formamidase family protein	GSE48081
+	AT4G37580	KAN1	Acyl-CoA N-acyltransferases (NAT) superfamily protein	GSE48081
+	AT4G37590	KAN1	Phototropic-responsive NPH3 family protein	GSE48081
+	AT4G37608	KAN1		GSE48081
+	AT4G37610	KAN1	BTB and TAZ domain protein 5	GSE48081
+	AT4G37620	KAN1	transposable element gene	GSE48081
+	AT4G37740	KAN1	growth-regulating factor 2	GSE48081
+	AT4G37750	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT4G37760	KAN1	squalene epoxidase 3	GSE48081
+	AT4G37780	KAN1	myb domain protein 87	GSE48081
+	AT4G37790	KAN1	Homeobox-leucine zipper protein family	GSE48081
+	AT4G37800	KAN1	xyloglucan endotransglucosylase/hydrolase 7	GSE48081
+	AT4G37810	KAN1		GSE48081
+	AT4G38460	KAN1	geranylgeranyl reductase	GSE48081
+	AT4G38470	KAN1	ACT-like protein tyrosine kinase family protein	GSE48081
+	AT4G38600	KAN1	HEAT repeat ;HECT-domain (ubiquitin-transferase)	GSE48081
+	AT4G38630	KAN1	regulatory particle non-ATPase 10	GSE48081
+	AT4G38700	KAN1	Disease resistance-responsive (dirigent-like protein) family protein	GSE48081
+	AT4G38710	KAN1	glycine-rich protein	GSE48081
+	AT4G38840	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT4G38850	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT4G38900	KAN1	Basic-leucine zipper (bZIP) transcription factor family protein	GSE48081
+	AT4G38910	KAN1	basic pentacysteine 5	GSE48081
+	AT4G39100	KAN1	PHD finger family protein / bromo-adjacent homology (BAH) domain-containing protein	GSE48081
+	AT4G39120	KAN1	myo-inositol monophosphatase like 2	GSE48081
+	AT4G39150	KAN1	DNAJ heat shock N-terminal domain-containing protein	GSE48081
+	AT4G39170	KAN1	Sec14p-like phosphatidylinositol transfer family protein	GSE48081
+	AT4G39250	KAN1	RAD-like 1	GSE48081
+	AT4G39260	KAN1	cold, circadian rhythm, and RNA binding 1	GSE48081
+	AT4G39345	KAN1	pre-tRNA	GSE48081
+	AT4G39350	KAN1	cellulose synthase A2	GSE48081
+	AT4G39630	KAN1		GSE48081
+	AT4G39640	KAN1	gamma-glutamyl transpeptidase 1	GSE48081
+	AT4G39770	KAN1	Haloacid dehalogenase-like hydrolase (HAD) superfamily protein	GSE48081
+	AT4G39780	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT4G39790	KAN1	Protein of unknown function (DUF630 and DUF632)	GSE48081
+	AT4G40070	KAN1	RING/U-box superfamily protein	GSE48081
+	AT4G40085	KAN1	other RNA	GSE48081
+	AT5G01090	KAN1	Concanavalin A-like lectin family protein	GSE48081
+	AT5G01100	KAN1	O-fucosyltransferase family protein	GSE48081
+	AT5G01110	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT5G01190	KAN1	laccase 10	GSE48081
+	AT5G01200	KAN1	Duplicated homeodomain-like superfamily protein	GSE48081
+	AT5G01380	KAN1	Homeodomain-like superfamily protein	GSE48081
+	AT5G01390	KAN1	DNAJ heat shock family protein	GSE48081
+	AT5G01590	KAN1		GSE48081
+	AT5G01610	KAN1	Protein of unknown function, DUF538	GSE48081
+	AT5G01720	KAN1	RNI-like superfamily protein	GSE48081
+	AT5G01730	KAN1	SCAR family protein 4	GSE48081
+	AT5G01740	KAN1	Nuclear transport factor 2 (NTF2) family protein	GSE48081
+	AT5G01747	KAN1	MIR164/MIR164B; miRNA	GSE48081
+	AT5G01810	KAN1	CBL-interacting protein kinase 15	GSE48081
+	AT5G01820	KAN1	serine/threonine protein kinase 1	GSE48081
+	AT5G01830	KAN1	ARM repeat superfamily protein	GSE48081
+	AT5G01840	KAN1	ovate family protein 1	GSE48081
+	AT5G01849	KAN1		GSE48081
+	AT5G01870	KAN1	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein	GSE48081
+	AT5G01880	KAN1	RING/U-box superfamily protein	GSE48081
+	AT5G02410	KAN1	DIE2/ALG10 family	GSE48081
+	AT5G02420	KAN1		GSE48081
+	AT5G02880	KAN1	ubiquitin-protein ligase 4	GSE48081
+	AT5G02890	KAN1	HXXXD-type acyl-transferase family protein	GSE48081
+	AT5G03140	KAN1	Concanavalin A-like lectin protein kinase family protein	GSE48081
+	AT5G03150	KAN1	C2H2-like zinc finger protein	GSE48081
+	AT5G03210	KAN1		GSE48081
+	AT5G03220	KAN1	Mediator complex, subunit Med7	GSE48081
+	AT5G03240	KAN1	polyubiquitin 3	GSE48081
+	AT5G03250	KAN1	Phototropic-responsive NPH3 family protein	GSE48081
+	AT5G03350	KAN1	Legume lectin family protein	GSE48081
+	AT5G03360	KAN1	DC1 domain-containing protein	GSE48081
+	AT5G03370	KAN1	acylphosphatase family	GSE48081
+	AT5G03380	KAN1	Heavy metal transport/detoxification superfamily protein	GSE48081
+	AT5G03390	KAN1	Protein of unknown function (DUF295)	GSE48081
+	AT5G03530	KAN1	RAB GTPase homolog C2A	GSE48081
+	AT5G03540	KAN1	exocyst subunit exo70 family protein A1	GSE48081
+	AT5G03660	KAN1	Family of unknown function (DUF662)	GSE48081
+	AT5G03668	KAN1	other RNA	GSE48081
+	AT5G03670	KAN1		GSE48081
+	AT5G03680	KAN1	Duplicated homeodomain-like superfamily protein	GSE48081
+	AT5G03880	KAN1	Thioredoxin family protein	GSE48081
+	AT5G03890	KAN1		GSE48081
+	AT5G04130	KAN1	DNA GYRASE B2	GSE48081
+	AT5G04140	KAN1	glutamate synthase 1	GSE48081
+	AT5G04190	KAN1	phytochrome kinase substrate 4	GSE48081
+	AT5G04200	KAN1	metacaspase 9	GSE48081
+	AT5G04220	KAN1	Calcium-dependent lipid-binding (CaLB domain) family protein	GSE48081
+	AT5G04230	KAN1	phenyl alanine ammonia-lyase 3	GSE48081
+	AT5G04290	KAN1	kow domain-containing transcription factor 1	GSE48081
+	AT5G04310	KAN1	Pectin lyase-like superfamily protein	GSE48081
+	AT5G04320	KAN1	Shugoshin C terminus	GSE48081
+	AT5G04340	KAN1	zinc finger of Arabidopsis thaliana 6	GSE48081
+	AT5G04347	KAN1	Plant self-incompatibility protein S1 family	GSE48081
+	AT5G04470	KAN1	cyclin-dependent protein kinase inhibitors	GSE48081
+	AT5G04480	KAN1	UDP-Glycosyltransferase superfamily protein	GSE48081
+	AT5G04530	KAN1	3-ketoacyl-CoA synthase 19	GSE48081
+	AT5G04540	KAN1	Myotubularin-like phosphatases II superfamily	GSE48081
+	AT5G04770	KAN1	cationic amino acid transporter 6	GSE48081
+	AT5G04780	KAN1	Pentatricopeptide repeat (PPR) superfamily protein	GSE48081
+	AT5G05140	KAN1	Transcription elongation factor (TFIIS) family protein	GSE48081
+	AT5G05150	KAN1	autophagy-related gene 18E	GSE48081
+	AT5G05180	KAN1		GSE48081
+	AT5G05190	KAN1	Protein of unknown function (DUF3133)	GSE48081
+	AT5G05435	KAN1	other RNA	GSE48081
+	AT5G05440	KAN1	Polyketide cyclase/dehydrase and lipid transport superfamily protein	GSE48081
+	AT5G05450	KAN1	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT5G05598	KAN1		GSE48081
+	AT5G05610	KAN1	alfin-like 1	GSE48081
+	AT5G05690	KAN1	Cytochrome P450 superfamily protein	GSE48081
+	AT5G05700	KAN1	arginine-tRNA protein transferase 1	GSE48081
+	AT5G05850	KAN1	plant intracellular ras group-related LRR 1	GSE48081
+	AT5G05860	KAN1	UDP-glucosyl transferase 76C2	GSE48081
+	AT5G06250	KAN1	AP2/B3-like transcriptional factor family protein	GSE48081
+	AT5G06260	KAN1	TLD-domain containing nucleolar protein	GSE48081
+	AT5G06300	KAN1	Putative lysine decarboxylase family protein	GSE48081
+	AT5G06310	KAN1	Nucleic acid-binding, OB-fold-like protein	GSE48081
+	AT5G06530	KAN1	ABC-2 type transporter family protein	GSE48081
+	AT5G06540	KAN1	Pentatricopeptide repeat (PPR) superfamily protein	GSE48081
+	AT5G06970	KAN1	Protein of unknown function (DUF810)	GSE48081
+	AT5G06980	KAN1		GSE48081
+	AT5G07020	KAN1	proline-rich family protein	GSE48081
+	AT5G07030	KAN1	Eukaryotic aspartyl protease family protein	GSE48081
+	AT5G07220	KAN1	BCL-2-associated athanogene 3	GSE48081
+	AT5G07225	KAN1	RING/U-box superfamily protein	GSE48081
+	AT5G07230	KAN1	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein	GSE48081
+	AT5G07240	KAN1	IQ-domain 24	GSE48081
+	AT5G07250	KAN1	RHOMBOID-like protein 3	GSE48081
+	AT5G07322	KAN1	other RNA	GSE48081
+	AT5G07330	KAN1		GSE48081
+	AT5G07572	KAN1		GSE48081
+	AT5G07580	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT5G07780	KAN1	Actin-binding FH2 (formin homology 2) family protein	GSE48081
+	AT5G07790	KAN1		GSE48081
+	AT5G07820	KAN1	Plant calmodulin-binding protein-related	GSE48081
+	AT5G07830	KAN1	glucuronidase 2	GSE48081
+	AT5G08130	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT5G08139	KAN1	RING/U-box superfamily protein	GSE48081
+	AT5G08230	KAN1	Tudor/PWWP/MBT domain-containing protein	GSE48081
+	AT5G08250	KAN1	Cytochrome P450 superfamily protein	GSE48081
+	AT5G08520	KAN1	Duplicated homeodomain-like superfamily protein	GSE48081
+	AT5G08530	KAN1	51 kDa subunit of complex I	GSE48081
+	AT5G09430	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT5G09440	KAN1	EXORDIUM like 4	GSE48081
+	AT5G09443	KAN1	other RNA	GSE48081
+	AT5G09460	KAN1	sequence-specific DNA binding transcription factors;transcription regulators	GSE48081
+	AT5G09461	KAN1	conserved peptide upstream open reading frame 43	GSE48081
+	AT5G09462	KAN1	conserved peptide upstream open reading frame 42	GSE48081
+	AT5G09463	KAN1	conserved peptide upstream open reading frame 41	GSE48081
+	AT5G09470	KAN1	dicarboxylate carrier 3	GSE48081
+	AT5G09610	KAN1	pumilio 21	GSE48081
+	AT5G09620	KAN1	Octicosapeptide/Phox/Bem1p family protein	GSE48081
+	AT5G09805	KAN1	inflorescence deficient in abscission (IDA)-like 3	GSE48081
+	AT5G09810	KAN1	actin 7	GSE48081
+	AT5G09820	KAN1	Plastid-lipid associated protein PAP / fibrillin family protein	GSE48081
+	AT5G09840	KAN1	Putative endonuclease or glycosyl hydrolase	GSE48081
+	AT5G09860	KAN1	nuclear matrix protein-related	GSE48081
+	AT5G09870	KAN1	cellulose synthase 5	GSE48081
+	AT5G10010	KAN1		GSE48081
+	AT5G10020	KAN1	Leucine-rich receptor-like protein kinase family protein	GSE48081
+	AT5G10150	KAN1	Domain of unknown function (DUF966)	GSE48081
+	AT5G10160	KAN1	Thioesterase superfamily protein	GSE48081
+	AT5G10310	KAN1		GSE48081
+	AT5G10320	KAN1		GSE48081
+	AT5G10520	KAN1	ROP binding protein kinases 1	GSE48081
+	AT5G10525	KAN1	pre-tRNA	GSE48081
+	AT5G10550	KAN1	global transcription factor group E2	GSE48081
+	AT5G10560	KAN1	Glycosyl hydrolase family protein	GSE48081
+	AT5G10770	KAN1	Eukaryotic aspartyl protease family protein	GSE48081
+	AT5G10780	KAN1		GSE48081
+	AT5G11000	KAN1	Plant protein of unknown function (DUF868)	GSE48081
+	AT5G11010	KAN1	Pre-mRNA cleavage complex II protein family	GSE48081
+	AT5G11050	KAN1	myb domain protein 64	GSE48081
+	AT5G11060	KAN1	KNOTTED1-like homeobox gene 4	GSE48081
+	AT5G11070	KAN1		GSE48081
+	AT5G11090	KAN1	serine-rich protein-related	GSE48081
+	AT5G11100	KAN1	Calcium-dependent lipid-binding (CaLB domain) family protein	GSE48081
+	AT5G11320	KAN1	Flavin-binding monooxygenase family protein	GSE48081
+	AT5G11325	KAN1	pre-tRNA	GSE48081
+	AT5G11970	KAN1	Protein of unknown function (DUF3511)	GSE48081
+	AT5G11977	KAN1	MIR156E; miRNA	GSE48081
+	AT5G12010	KAN1		GSE48081
+	AT5G12020	KAN1	17.6 kDa class II heat shock protein	GSE48081
+	AT5G12043	KAN1		GSE48081
+	AT5G12050	KAN1		GSE48081
+	AT5G12150	KAN1	Rho GTPase activation protein (RhoGAP) with PH domain	GSE48081
+	AT5G12180	KAN1	calcium-dependent protein kinase 17	GSE48081
+	AT5G13170	KAN1	senescence-associated gene 29	GSE48081
+	AT5G13180	KAN1	NAC domain containing protein 83	GSE48081
+	AT5G13181	KAN1		GSE48081
+	AT5G13190	KAN1		GSE48081
+	AT5G13240	KAN1	transcription regulators	GSE48081
+	AT5G13250	KAN1	RING finger protein	GSE48081
+	AT5G13260	KAN1		GSE48081
+	AT5G13330	KAN1	related to AP2 6l	GSE48081
+	AT5G13340	KAN1		GSE48081
+	AT5G13710	KAN1	sterol methyltransferase 1	GSE48081
+	AT5G13720	KAN1	Uncharacterised protein family (UPF0114)	GSE48081
+	AT5G13750	KAN1	zinc induced facilitator-like 1	GSE48081
+	AT5G13770	KAN1	Pentatricopeptide repeat (PPR-like) superfamily protein	GSE48081
+	AT5G13810	KAN1	Glutaredoxin family protein	GSE48081
+	AT5G13820	KAN1	telomeric DNA binding protein 1	GSE48081
+	AT5G14060	KAN1	Aspartate kinase family protein	GSE48081
+	AT5G14070	KAN1	Thioredoxin superfamily protein	GSE48081
+	AT5G14110	KAN1	Protein of unknown function (DUF 3339)	GSE48081
+	AT5G14120	KAN1	Major facilitator superfamily protein	GSE48081
+	AT5G14130	KAN1	Peroxidase superfamily protein	GSE48081
+	AT5G14370	KAN1	CCT motif family protein	GSE48081
+	AT5G14380	KAN1	arabinogalactan protein 6	GSE48081
+	AT5G14390	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT5G14400	KAN1	cytochrome P450, family 724, subfamily A, polypeptide 1	GSE48081
+	AT5G14720	KAN1	Protein kinase superfamily protein	GSE48081
+	AT5G14730	KAN1		GSE48081
+	AT5G14750	KAN1	myb domain protein 66	GSE48081
+	AT5G14760	KAN1	L-aspartate oxidase	GSE48081
+	AT5G14870	KAN1	cyclic nucleotide-gated channel 18	GSE48081
+	AT5G14880	KAN1	Potassium transporter family protein	GSE48081
+	AT5G15110	KAN1	Pectate lyase family protein	GSE48081
+	AT5G15120	KAN1	Protein of unknown function (DUF1637)	GSE48081
+	AT5G15340	KAN1	Pentatricopeptide repeat (PPR) superfamily protein	GSE48081
+	AT5G15350	KAN1	early nodulin-like protein 17	GSE48081
+	AT5G15410	KAN1	Cyclic nucleotide-regulated ion channel family protein	GSE48081
+	AT5G15430	KAN1	Plant calmodulin-binding protein-related	GSE48081
+	AT5G15820	KAN1	RING/U-box superfamily protein	GSE48081
+	AT5G15830	KAN1	basic leucine-zipper 3	GSE48081
+	AT5G15860	KAN1	prenylcysteine methylesterase	GSE48081
+	AT5G15870	KAN1	glycosyl hydrolase family 81 protein	GSE48081
+	AT5G15980	KAN1	Pentatricopeptide repeat (PPR) superfamily protein	GSE48081
+	AT5G15990	KAN1	transposable element gene	GSE48081
+	AT5G16000	KAN1	NSP-interacting kinase 1	GSE48081
+	AT5G16010	KAN1	3-oxo-5-alpha-steroid 4-dehydrogenase family protein	GSE48081
+	AT5G16110	KAN1		GSE48081
+	AT5G16120	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT5G16180	KAN1	ortholog of maize chloroplast splicing factor CRS1	GSE48081
+	AT5G16190	KAN1	cellulose synthase like A11	GSE48081
+	AT5G16200	KAN1	50S ribosomal protein-related	GSE48081
+	AT5G16210	KAN1	HEAT repeat-containing protein	GSE48081
+	AT5G16460	KAN1	Putative adipose-regulatory protein (Seipin)	GSE48081
+	AT5G16470	KAN1	zinc finger (C2H2 type) family protein	GSE48081
+	AT5G16560	KAN1	Homeodomain-like superfamily protein	GSE48081
+	AT5G16567	KAN1		GSE48081
+	AT5G16570	KAN1	glutamine synthetase 1;4	GSE48081
+	AT5G16720	KAN1	Protein of unknown function, DUF593	GSE48081
+	AT5G16730	KAN1	Plant protein of unknown function (DUF827)	GSE48081
+	AT5G16900	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT5G16910	KAN1	cellulose-synthase like D2	GSE48081
+	AT5G17300	KAN1	Homeodomain-like superfamily protein	GSE48081
+	AT5G17310	KAN1	UDP-glucose pyrophosphorylase 2	GSE48081
+	AT5G17320	KAN1	homeodomain GLABROUS 9	GSE48081
+	AT5G17330	KAN1	glutamate decarboxylase	GSE48081
+	AT5G17340	KAN1	Putative membrane lipoprotein	GSE48081
+	AT5G17360	KAN1		GSE48081
+	AT5G17760	KAN1	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT5G17770	KAN1	NADH:cytochrome B5 reductase 1	GSE48081
+	AT5G17850	KAN1	Sodium/calcium exchanger family protein	GSE48081
+	AT5G17860	KAN1	calcium exchanger 7	GSE48081
+	AT5G17870	KAN1	plastid-specific 50S ribosomal protein 6	GSE48081
+	AT5G17880	KAN1	disease resistance protein (TIR-NBS-LRR class)	GSE48081
+	AT5G17890	KAN1	DA1-related protein 4	GSE48081
+	AT5G18160	KAN1	F-box and associated interaction domains-containing protein	GSE48081
+	AT5G18170	KAN1	glutamate dehydrogenase 1	GSE48081
+	AT5G18340	KAN1	ARM repeat superfamily protein	GSE48081
+	AT5G18350	KAN1	Disease resistance protein (TIR-NBS-LRR class) family	GSE48081
+	AT5G18460	KAN1	Protein of Unknown Function (DUF239)	GSE48081
+	AT5G18470	KAN1	Curculin-like (mannose-binding) lectin family protein	GSE48081
+	AT5G18540	KAN1		GSE48081
+	AT5G18550	KAN1	Zinc finger C-x8-C-x5-C-x3-H type family protein	GSE48081
+	AT5G18640	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT5G18650	KAN1	CHY-type/CTCHY-type/RING-type Zinc finger protein	GSE48081
+	AT5G19110	KAN1	Eukaryotic aspartyl protease family protein	GSE48081
+	AT5G19120	KAN1	Eukaryotic aspartyl protease family protein	GSE48081
+	AT5G19180	KAN1	E1 C-terminal related 1	GSE48081
+	AT5G19190	KAN1		GSE48081
+	AT5G19420	KAN1	Regulator of chromosome condensation (RCC1) family with FYVE zinc finger domain	GSE48081
+	AT5G19430	KAN1	RING/U-box superfamily protein	GSE48081
+	AT5G19729	KAN1		GSE48081
+	AT5G19740	KAN1	Peptidase M28 family protein	GSE48081
+	AT5G20100	KAN1		GSE48081
+	AT5G20120	KAN1		GSE48081
+	AT5G20140	KAN1	SOUL heme-binding family protein	GSE48081
+	AT5G20150	KAN1	SPX  domain gene 1	GSE48081
+	AT5G20240	KAN1	K-box region and MADS-box transcription factor family protein	GSE48081
+	AT5G20250	KAN1	Raffinose synthase family protein	GSE48081
+	AT5G20690	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT5G20700	KAN1	Protein of unknown function (DUF581)	GSE48081
+	AT5G20710	KAN1	beta-galactosidase 7	GSE48081
+	AT5G20790	KAN1		GSE48081
+	AT5G20800	KAN1	transposable element gene	GSE48081
+	AT5G20820	KAN1	SAUR-like auxin-responsive protein family	GSE48081
+	AT5G20840	KAN1	Phosphoinositide phosphatase family protein	GSE48081
+	AT5G21080	KAN1	Uncharacterized protein	GSE48081
+	AT5G21090	KAN1	Leucine-rich repeat (LRR) family protein	GSE48081
+	AT5G21100	KAN1	Plant L-ascorbate oxidase	GSE48081
+	AT5G21110	KAN1		GSE48081
+	AT5G21140	KAN1	embryo defective 1379	GSE48081
+	AT5G21150	KAN1	Argonaute family protein	GSE48081
+	AT5G21160	KAN1	LA RNA-binding protein	GSE48081
+	AT5G21170	KAN1	5'-AMP-activated protein kinase beta-2 subunit protein	GSE48081
+	AT5G21430	KAN1	Chaperone DnaJ-domain superfamily protein	GSE48081
+	AT5G21535	KAN1	transposable element gene	GSE48081
+	AT5G21940	KAN1		GSE48081
+	AT5G21950	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT5G22080	KAN1	Chaperone DnaJ-domain superfamily protein	GSE48081
+	AT5G22100	KAN1	RNA cyclase family protein	GSE48081
+	AT5G22890	KAN1	C2H2 and C2HC zinc fingers superfamily protein	GSE48081
+	AT5G22900	KAN1	cation/H+ exchanger 3	GSE48081
+	AT5G22930	KAN1	Protein of unknown function (DUF1635)	GSE48081
+	AT5G22940	KAN1	FRA8 homolog	GSE48081
+	AT5G22950	KAN1	SNF7 family protein	GSE48081
+	AT5G23090	KAN1	nuclear factor Y, subunit B13	GSE48081
+	AT5G23100	KAN1	Protein of unknown function, DUF617	GSE48081
+	AT5G23200	KAN1		GSE48081
+	AT5G23210	KAN1	serine carboxypeptidase-like 34	GSE48081
+	AT5G23280	KAN1	TCP family transcription factor	GSE48081
+	AT5G23290	KAN1	prefoldin 5	GSE48081
+	AT5G24206	KAN1	other RNA	GSE48081
+	AT5G24210	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT5G24220	KAN1	Lipase class 3-related protein	GSE48081
+	AT5G24240	KAN1	Phosphatidylinositol 3- and 4-kinase ;Ubiquitin family protein	GSE48081
+	AT5G24370	KAN1	Plant invertase/pectin methylesterase inhibitor superfamily protein	GSE48081
+	AT5G24380	KAN1	YELLOW STRIPE like 2	GSE48081
+	AT5G24540	KAN1	beta glucosidase 31	GSE48081
+	AT5G24550	KAN1	beta glucosidase 32	GSE48081
+	AT5G24660	KAN1	response to low sulfur 2	GSE48081
+	AT5G24670	KAN1	Cytidine/deoxycytidylate deaminase family protein	GSE48081
+	AT5G24825	KAN1	MIR169B; miRNA	GSE48081
+	AT5G24830	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT5G24915	KAN1	transposable element gene	GSE48081
+	AT5G24920	KAN1	glutamine dumper 5	GSE48081
+	AT5G25130	KAN1	cytochrome P450, family 71, subfamily B, polypeptide 12	GSE48081
+	AT5G25140	KAN1	cytochrome P450, family 71, subfamily B, polypeptide 13	GSE48081
+	AT5G25190	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT5G25200	KAN1		GSE48081
+	AT5G25210	KAN1		GSE48081
+	AT5G25220	KAN1	KNOTTED1-like homeobox gene 3	GSE48081
+	AT5G25280	KAN1	serine-rich protein-related	GSE48081
+	AT5G25290	KAN1	F-box family protein with a domain of unknown function (DUF295)	GSE48081
+	AT5G25350	KAN1	EIN3-binding F box protein 2	GSE48081
+	AT5G25360	KAN1		GSE48081
+	AT5G25810	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT5G25820	KAN1	Exostosin family protein	GSE48081
+	AT5G26220	KAN1	ChaC-like family protein	GSE48081
+	AT5G26230	KAN1		GSE48081
+	AT5G26731	KAN1		GSE48081
+	AT5G26740	KAN1	Protein of unknown function (DUF300)	GSE48081
+	AT5G27030	KAN1	TOPLESS-related 3	GSE48081
+	AT5G27035	KAN1	transposable element gene	GSE48081
+	AT5G27320	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT5G27330	KAN1	Prefoldin chaperone subunit family protein	GSE48081
+	AT5G27690	KAN1	Heavy metal transport/detoxification superfamily protein	GSE48081
+	AT5G27700	KAN1	Ribosomal protein S21e	GSE48081
+	AT5G28050	KAN1	Cytidine/deoxycytidylate deaminase family protein	GSE48081
+	AT5G28052	KAN1		GSE48081
+	AT5G28300	KAN1	Duplicated homeodomain-like superfamily protein	GSE48081
+	AT5G28310	KAN1	NAD(P)-binding Rossmann-fold superfamily protein	GSE48081
+	AT5G28637	KAN1	transposable element gene	GSE48081
+	AT5G28642	KAN1		GSE48081
+	AT5G28770	KAN1	bZIP transcription factor family protein	GSE48081
+	AT5G28773	KAN1	transposable element gene	GSE48081
+	AT5G35407	KAN1	MIR396B; miRNA	GSE48081
+	AT5G35410	KAN1	Protein kinase superfamily protein	GSE48081
+	AT5G35732	KAN1		GSE48081
+	AT5G35735	KAN1	Auxin-responsive family protein	GSE48081
+	AT5G37260	KAN1	Homeodomain-like superfamily protein	GSE48081
+	AT5G37270	KAN1	RING/U-box superfamily protein	GSE48081
+	AT5G37690	KAN1	SGNH hydrolase-type esterase superfamily protein	GSE48081
+	AT5G37710	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT5G38197	KAN1	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein	GSE48081
+	AT5G38210	KAN1	Protein kinase family protein	GSE48081
+	AT5G38510	KAN1	Rhomboid-related intramembrane serine protease family protein	GSE48081
+	AT5G38520	KAN1	alpha/beta-Hydrolases superfamily protein	GSE48081
+	AT5G39040	KAN1	transporter associated with antigen processing protein 2	GSE48081
+	AT5G39050	KAN1	HXXXD-type acyl-transferase family protein	GSE48081
+	AT5G39650	KAN1	Protein of unknown function (DUF679)	GSE48081
+	AT5G39660	KAN1	cycling DOF factor 2	GSE48081
+	AT5G39760	KAN1	homeobox protein 23	GSE48081
+	AT5G39770	KAN1	Restriction endonuclease, type II-like superfamily protein	GSE48081
+	AT5G40450	KAN1		GSE48081
+	AT5G40460	KAN1		GSE48081
+	AT5G40910	KAN1	Disease resistance protein (TIR-NBS-LRR class) family	GSE48081
+	AT5G40930	KAN1	translocase of outer membrane 20-4	GSE48081
+	AT5G40960	KAN1	Protein of unknown function (DUF 3339)	GSE48081
+	AT5G40970	KAN1	Protein of unknown function (DUF 3339)	GSE48081
+	AT5G41401	KAN1		GSE48081
+	AT5G41410	KAN1	POX (plant homeobox) family protein	GSE48081
+	AT5G41580	KAN1	RING/U-box superfamily protein	GSE48081
+	AT5G41590	KAN1	Protein of unknown function (DUF567)	GSE48081
+	AT5G41600	KAN1	VIRB2-interacting protein 3	GSE48081
+	AT5G42030	KAN1	ABL interactor-like protein 4	GSE48081
+	AT5G42040	KAN1	regulatory particle non-ATPase 12B	GSE48081
+	AT5G42645	KAN1	transposable element gene	GSE48081
+	AT5G42650	KAN1	allene oxide synthase	GSE48081
+	AT5G42710	KAN1		GSE48081
+	AT5G42720	KAN1	Glycosyl hydrolase family 17 protein	GSE48081
+	AT5G42740	KAN1	Sugar isomerase (SIS) family protein	GSE48081
+	AT5G42750	KAN1	BRI1 kinase inhibitor 1	GSE48081
+	AT5G42760	KAN1	Leucine carboxyl methyltransferase	GSE48081
+	AT5G43450	KAN1	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein	GSE48081
+	AT5G43455	KAN1	pre-tRNA	GSE48081
+	AT5G43600	KAN1	ureidoglycolate amidohydrolase	GSE48081
+	AT5G43603	KAN1	MIR166/MIR166F; miRNA	GSE48081
+	AT5G43890	KAN1	Flavin-binding monooxygenase family protein	GSE48081
+	AT5G43910	KAN1	pfkB-like carbohydrate kinase family protein	GSE48081
+	AT5G43920	KAN1	transducin family protein / WD-40 repeat family protein	GSE48081
+	AT5G44120	KAN1	RmlC-like cupins superfamily protein	GSE48081
+	AT5G44130	KAN1	FASCICLIN-like arabinogalactan protein 13 precursor	GSE48081
+	AT5G44150	KAN1		GSE48081
+	AT5G44160	KAN1	C2H2-like zinc finger protein	GSE48081
+	AT5G44170	KAN1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	GSE48081
+	AT5G44180	KAN1	Homeodomain-like transcriptional regulator	GSE48081
+	AT5G44190	KAN1	GOLDEN2-like 2	GSE48081
+	AT5G44255	KAN1	transposable element gene	GSE48081
+	AT5G44260	KAN1	Zinc finger C-x8-C-x5-C-x3-H type family protein	GSE48081
+	AT5G44265	KAN1	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein	GSE48081
+	AT5G44520	KAN1	NagB/RpiA/CoA transferase-like superfamily protein	GSE48081
+	AT5G44530	KAN1	Subtilase family protein	GSE48081
+	AT5G44570	KAN1		GSE48081
+	AT5G44572	KAN1		GSE48081
+	AT5G44574	KAN1		GSE48081
+	AT5G44680	KAN1	DNA glycosylase superfamily protein	GSE48081
+	AT5G44690	KAN1		GSE48081
+	AT5G45095	KAN1		GSE48081
+	AT5G45100	KAN1	SBP (S-ribonuclease binding protein) family protein	GSE48081
+	AT5G45105	KAN1	zinc transporter 8 precursor	GSE48081
+	AT5G45113	KAN1	mitochondrial transcription termination factor-related / mTERF-related	GSE48081
+	AT5G45340	KAN1	cytochrome P450, family 707, subfamily A, polypeptide 3	GSE48081
+	AT5G45350	KAN1	proline-rich family protein	GSE48081
+	AT5G45790	KAN1	Ubiquitin carboxyl-terminal hydrolase family protein	GSE48081
+	AT5G45800	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT5G46325	KAN1	pre-tRNA	GSE48081
+	AT5G46330	KAN1	Leucine-rich receptor-like protein kinase family protein	GSE48081
+	AT5G46680	KAN1	Pentatricopeptide repeat (PPR-like) superfamily protein	GSE48081
+	AT5G46690	KAN1	beta HLH protein 71	GSE48081
+	AT5G46700	KAN1	Tetraspanin family protein	GSE48081
+	AT5G46780	KAN1	VQ motif-containing protein	GSE48081
+	AT5G46790	KAN1	PYR1-like 1	GSE48081
+	AT5G46795	KAN1	microspore-specific  promoter 2	GSE48081
+	AT5G47040	KAN1	lon protease 2	GSE48081
+	AT5G47050	KAN1	SBP (S-ribonuclease binding protein) family protein	GSE48081
+	AT5G47060	KAN1	Protein of unknown function (DUF581)	GSE48081
+	AT5G47190	KAN1	Ribosomal protein L19 family protein	GSE48081
+	AT5G47200	KAN1	RAB GTPase homolog 1A	GSE48081
+	AT5G47230	KAN1	ethylene responsive element binding factor 5	GSE48081
+	AT5G47240	KAN1	nudix hydrolase homolog 8	GSE48081
+	AT5G47370	KAN1	Homeobox-leucine zipper protein 4 (HB-4) / HD-ZIP protein	GSE48081
+	AT5G47380	KAN1	Protein of unknown function, DUF547	GSE48081
+	AT5G47550	KAN1	Cystatin/monellin superfamily protein	GSE48081
+	AT5G47560	KAN1	tonoplast dicarboxylate transporter	GSE48081
+	AT5G47570	KAN1		GSE48081
+	AT5G47815	KAN1	transposable element gene	GSE48081
+	AT5G47820	KAN1	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT5G47900	KAN1	Protein of unknown function (DUF1624)	GSE48081
+	AT5G47920	KAN1		GSE48081
+	AT5G48850	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT5G48860	KAN1		GSE48081
+	AT5G49110	KAN1		GSE48081
+	AT5G49120	KAN1	Protein of unknown function (DUF581)	GSE48081
+	AT5G49360	KAN1	beta-xylosidase 1	GSE48081
+	AT5G49370	KAN1	Pleckstrin homology (PH) domain superfamily protein	GSE48081
+	AT5G49510	KAN1	prefoldin 3	GSE48081
+	AT5G49520	KAN1	WRKY DNA-binding protein 48	GSE48081
+	AT5G49690	KAN1	UDP-Glycosyltransferase superfamily protein	GSE48081
+	AT5G49700	KAN1	Predicted AT-hook DNA-binding family protein	GSE48081
+	AT5G50450	KAN1	HCP-like superfamily protein with MYND-type zinc finger	GSE48081
+	AT5G50460	KAN1	secE/sec61-gamma protein transport protein	GSE48081
+	AT5G50900	KAN1	ARM repeat superfamily protein	GSE48081
+	AT5G50910	KAN1		GSE48081
+	AT5G51190	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT5G51195	KAN1		GSE48081
+	AT5G51550	KAN1	EXORDIUM like 3	GSE48081
+	AT5G51560	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT5G51650	KAN1		GSE48081
+	AT5G51660	KAN1	cleavage and polyadenylation specificity factor 160	GSE48081
+	AT5G51760	KAN1	Protein phosphatase 2C family protein	GSE48081
+	AT5G51770	KAN1	Protein kinase superfamily protein	GSE48081
+	AT5G51790	KAN1	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE48081
+	AT5G51795	KAN1	DNA/RNA-binding protein Kin17, conserved region	GSE48081
+	AT5G51840	KAN1		GSE48081
+	AT5G51845	KAN1	Defensin-like (DEFL) family protein	GSE48081
+	AT5G52120	KAN1	phloem protein 2-A14	GSE48081
+	AT5G52130	KAN1		GSE48081
+	AT5G52510	KAN1	SCARECROW-like 8	GSE48081
+	AT5G52520	KAN1	Class II aaRS and biotin synthetases superfamily protein	GSE48081
+	AT5G52750	KAN1	Heavy metal transport/detoxification superfamily protein	GSE48081
+	AT5G52760	KAN1	Copper transport protein family	GSE48081
+	AT5G52820	KAN1	WD-40 repeat family protein / notchless protein, putative	GSE48081
+	AT5G52830	KAN1	WRKY DNA-binding protein 27	GSE48081
+	AT5G52880	KAN1	F-box family protein	GSE48081
+	AT5G52890	KAN1	AT hook motif-containing protein	GSE48081
+	AT5G52900	KAN1		GSE48081
+	AT5G52910	KAN1	timeless family protein	GSE48081
+	AT5G53150	KAN1	DNAJ heat shock N-terminal domain-containing protein	GSE48081
+	AT5G53160	KAN1	regulatory components of ABA receptor 3	GSE48081
+	AT5G53280	KAN1	plastid division1	GSE48081
+	AT5G53290	KAN1	cytokinin response factor 3	GSE48081
+	AT5G53370	KAN1	pectin methylesterase PCR fragment F	GSE48081
+	AT5G53380	KAN1	O-acyltransferase (WSD1-like) family protein	GSE48081
+	AT5G53400	KAN1	HSP20-like chaperones superfamily protein	GSE48081
+	AT5G53410	KAN1		GSE48081
+	AT5G53451	KAN1		GSE48081
+	AT5G53460	KAN1	NADH-dependent glutamate synthase 1	GSE48081
+	AT5G53490	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT5G53500	KAN1	Transducin/WD40 repeat-like superfamily protein	GSE48081
+	AT5G53510	KAN1	oligopeptide transporter 9	GSE48081
+	AT5G53540	KAN1	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT5G53550	KAN1	YELLOW STRIPE like 3	GSE48081
+	AT5G53750	KAN1	CBS domain-containing protein	GSE48081
+	AT5G53760	KAN1	Seven transmembrane MLO family protein	GSE48081
+	AT5G53820	KAN1	Late embryogenesis abundant protein (LEA) family protein	GSE48081
+	AT5G53830	KAN1	VQ motif-containing protein	GSE48081
+	AT5G53880	KAN1		GSE48081
+	AT5G53890	KAN1	phytosylfokine-alpha receptor 2	GSE48081
+	AT5G53960	KAN1	ATP binding;DNA binding;DNA topoisomerase (ATP-hydrolyzing)s	GSE48081
+	AT5G53970	KAN1	Tyrosine transaminase family protein	GSE48081
+	AT5G54110	KAN1	membrane-associated mannitol-induced	GSE48081
+	AT5G54130	KAN1	Calcium-binding endonuclease/exonuclease/phosphatase family	GSE48081
+	AT5G54240	KAN1	Protein of unknown function (DUF1223)	GSE48081
+	AT5G54250	KAN1	cyclic nucleotide-gated cation channel 4	GSE48081
+	AT5G54260	KAN1	DNA repair and meiosis protein (Mre11)	GSE48081
+	AT5G54280	KAN1	myosin 2	GSE48081
+	AT5G54290	KAN1	cytochrome c biogenesis protein family	GSE48081
+	AT5G54380	KAN1	protein kinase family protein	GSE48081
+	AT5G54390	KAN1	HAL2-like	GSE48081
+	AT5G54580	KAN1	RNA-binding (RRM/RBD/RNP motifs) family protein	GSE48081
+	AT5G54585	KAN1		GSE48081
+	AT5G54940	KAN1	Translation initiation factor SUI1 family protein	GSE48081
+	AT5G54950	KAN1	Aconitase family protein	GSE48081
+	AT5G55090	KAN1	mitogen-activated protein kinase kinase kinase 15	GSE48081
+	AT5G55100	KAN1	SWAP (Suppressor-of-White-APricot)/surp domain-containing protein	GSE48081
+	AT5G55520	KAN1		GSE48081
+	AT5G55530	KAN1	Calcium-dependent lipid-binding (CaLB domain) family protein	GSE48081
+	AT5G55540	KAN1	tornado 1	GSE48081
+	AT5G55550	KAN1	RNA-binding (RRM/RBD/RNP motifs) family protein	GSE48081
+	AT5G55560	KAN1	Protein kinase superfamily protein	GSE48081
+	AT5G55690	KAN1	MADS-box transcription factor family protein	GSE48081
+	AT5G55700	KAN1	beta-amylase 4	GSE48081
+	AT5G55920	KAN1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	GSE48081
+	AT5G55930	KAN1	oligopeptide transporter 1	GSE48081
+	AT5G56240	KAN1		GSE48081
+	AT5G56250	KAN1	hapless 8	GSE48081
+	AT5G56260	KAN1	Ribonuclease E inhibitor RraA/Dimethylmenaquinone methyltransferase	GSE48081
+	AT5G56290	KAN1	peroxin 5	GSE48081
+	AT5G56300	KAN1	gibberellic acid methyltransferase 2	GSE48081
+	AT5G56550	KAN1	oxidative stress 3	GSE48081
+	AT5G56560	KAN1	FBD, F-box and Leucine Rich Repeat domains containing protein	GSE48081
+	AT5G56747	KAN1	transposable element gene	GSE48081
+	AT5G56760	KAN1	serine acetyltransferase 1;1	GSE48081
+	AT5G56780	KAN1	effector of transcription2	GSE48081
+	AT5G56790	KAN1	Protein kinase superfamily protein	GSE48081
+	AT5G56840	KAN1	myb-like transcription factor family protein	GSE48081
+	AT5G56850	KAN1		GSE48081
+	AT5G56865	KAN1		GSE48081
+	AT5G56870	KAN1	beta-galactosidase 4	GSE48081
+	AT5G56890	KAN1	Protein kinase superfamily protein	GSE48081
+	AT5G56900	KAN1	CwfJ-like family protein / zinc finger (CCCH-type) family protein	GSE48081
+	AT5G56960	KAN1	basic helix-loop-helix (bHLH) DNA-binding family protein	GSE48081
+	AT5G56970	KAN1	cytokinin oxidase 3	GSE48081
+	AT5G56975	KAN1	pre-tRNA	GSE48081
+	AT5G57060	KAN1		GSE48081
+	AT5G57070	KAN1	hydroxyproline-rich glycoprotein family protein	GSE48081
+	AT5G57110	KAN1	autoinhibited Ca2+ -ATPase, isoform 8	GSE48081
+	AT5G57120	KAN1		GSE48081
+	AT5G57170	KAN1	Tautomerase/MIF superfamily protein	GSE48081
+	AT5G57180	KAN1	chloroplast import apparatus 2	GSE48081
+	AT5G57210	KAN1	Ypt/Rab-GAP domain of gyp1p superfamily protein	GSE48081
+	AT5G57220	KAN1	cytochrome P450, family 81, subfamily F, polypeptide 2	GSE48081
+	AT5G57230	KAN1	Thioredoxin superfamily protein	GSE48081
+	AT5G57240	KAN1	OSBP(oxysterol binding protein)-related protein 4C	GSE48081
+	AT5G57630	KAN1	CBL-interacting protein kinase 21	GSE48081
+	AT5G57640	KAN1	GCK domain-containing protein	GSE48081
+	AT5G57650	KAN1	eukaryotic translation initiation factor-related	GSE48081
+	AT5G57655	KAN1	xylose isomerase family protein	GSE48081
+	AT5G57700	KAN1	BNR/Asp-box repeat family protein	GSE48081
+	AT5G57710	KAN1	Double Clp-N motif-containing P-loop nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT5G57790	KAN1		GSE48081
+	AT5G57800	KAN1	Fatty acid hydroxylase superfamily	GSE48081
+	AT5G58330	KAN1	lactate/malate dehydrogenase family protein	GSE48081
+	AT5G58350	KAN1	with no lysine (K) kinase 4	GSE48081
+	AT5G58890	KAN1	AGAMOUS-like 82	GSE48081
+	AT5G58900	KAN1	Homeodomain-like transcriptional regulator	GSE48081
+	AT5G58990	KAN1		GSE48081
+	AT5G59000	KAN1	RING/FYVE/PHD zinc finger superfamily protein	GSE48081
+	AT5G59040	KAN1	copper transporter 3	GSE48081
+	AT5G59050	KAN1		GSE48081
+	AT5G59080	KAN1		GSE48081
+	AT5G59090	KAN1	subtilase 4.12	GSE48081
+	AT5G59540	KAN1	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein	GSE48081
+	AT5G59550	KAN1	zinc finger (C3HC4-type RING finger) family protein	GSE48081
+	AT5G59590	KAN1	UDP-glucosyl transferase 76E2	GSE48081
+	AT5G59600	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT5G59720	KAN1	heat shock protein 18.2	GSE48081
+	AT5G59730	KAN1	exocyst subunit exo70 family protein H7	GSE48081
+	AT5G59732	KAN1	other RNA	GSE48081
+	AT5G59740	KAN1	UDP-N-acetylglucosamine (UAA) transporter family	GSE48081
+	AT5G59780	KAN1	myb domain protein 59	GSE48081
+	AT5G59790	KAN1	Domain of unknown function (DUF966)	GSE48081
+	AT5G59870	KAN1	histone H2A 6	GSE48081
+	AT5G59880	KAN1	actin depolymerizing factor 3	GSE48081
+	AT5G60190	KAN1	Cysteine proteinases superfamily protein	GSE48081
+	AT5G60200	KAN1	TARGET OF MONOPTEROS 6	GSE48081
+	AT5G60290	KAN1		GSE48081
+	AT5G60300	KAN1	Concanavalin A-like lectin protein kinase family protein	GSE48081
+	AT5G60400	KAN1		GSE48081
+	AT5G60408	KAN1	MIR391; miRNA	GSE48081
+	AT5G60450	KAN1	auxin response factor 4	GSE48081
+	AT5G60460	KAN1	Preprotein translocase Sec, Sec61-beta subunit protein	GSE48081
+	AT5G60670	KAN1	Ribosomal protein L11 family protein	GSE48081
+	AT5G60680	KAN1	Protein of unknown function, DUF584	GSE48081
+	AT5G60690	KAN1	Homeobox-leucine zipper family protein / lipid-binding START domain-containing protein	GSE48081
+	AT5G60780	KAN1	nitrate transporter 2.3	GSE48081
+	AT5G60800	KAN1	Heavy metal transport/detoxification superfamily protein	GSE48081
+	AT5G60840	KAN1		GSE48081
+	AT5G60850	KAN1	OBF binding protein 4	GSE48081
+	AT5G60910	KAN1	AGAMOUS-like 8	GSE48081
+	AT5G60920	KAN1	COBRA-like extracellular glycosyl-phosphatidyl inositol-anchored protein family	GSE48081
+	AT5G60966	KAN1	pre-tRNA	GSE48081
+	AT5G60970	KAN1	TEOSINTE BRANCHED 1, cycloidea and PCF transcription factor 5	GSE48081
+	AT5G60980	KAN1	Nuclear transport factor 2 (NTF2) family protein with RNA binding (RRM-RBD-RNP motifs) domain	GSE48081
+	AT5G61420	KAN1	myb domain protein 28	GSE48081
+	AT5G61430	KAN1	NAC domain containing protein 100	GSE48081
+	AT5G61580	KAN1	phosphofructokinase 4	GSE48081
+	AT5G61590	KAN1	Integrase-type DNA-binding superfamily protein	GSE48081
+	AT5G61600	KAN1	ethylene response factor 104	GSE48081
+	AT5G61605	KAN1		GSE48081
+	AT5G61950	KAN1	Ubiquitin carboxyl-terminal hydrolase-related protein	GSE48081
+	AT5G61970	KAN1	signal recognition particle-related / SRP-related	GSE48081
+	AT5G61990	KAN1	Pentatricopeptide repeat (PPR) superfamily protein	GSE48081
+	AT5G61997	KAN1		GSE48081
+	AT5G62000	KAN1	auxin response factor 2	GSE48081
+	AT5G62020	KAN1	heat shock transcription factor  B2A	GSE48081
+	AT5G62030	KAN1	diphthamide synthesis DPH2 family protein	GSE48081
+	AT5G62065	KAN1	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein	GSE48081
+	AT5G62080	KAN1	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein	GSE48081
+	AT5G62170	KAN1		GSE48081
+	AT5G62180	KAN1	carboxyesterase 20	GSE48081
+	AT5G62680	KAN1	Major facilitator superfamily protein	GSE48081
+	AT5G62690	KAN1	tubulin beta chain 2	GSE48081
+	AT5G62760	KAN1	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE48081
+	AT5G62770	KAN1	Protein of unknown function (DUF1645)	GSE48081
+	AT5G62940	KAN1	Dof-type zinc finger DNA-binding family protein	GSE48081
+	AT5G62950	KAN1	RNA polymerase II, Rpb4, core protein	GSE48081
+	AT5G63130	KAN1	Octicosapeptide/Phox/Bem1p family protein	GSE48081
+	AT5G63135	KAN1		GSE48081
+	AT5G63150	KAN1		GSE48081
+	AT5G63160	KAN1	BTB and TAZ domain protein 1	GSE48081
+	AT5G63168	KAN1		GSE48081
+	AT5G63180	KAN1	Pectin lyase-like superfamily protein	GSE48081
+	AT5G63190	KAN1	MA3 domain-containing protein	GSE48081
+	AT5G63410	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT5G63420	KAN1	RNA-metabolising metallo-beta-lactamase family protein	GSE48081
+	AT5G63520	KAN1		GSE48081
+	AT5G63530	KAN1	farnesylated protein 3	GSE48081
+	AT5G63540	KAN1	Domain of unknown function (DUF1767)	GSE48081
+	AT5G63930	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT5G63940	KAN1	Protein kinase protein with adenine nucleotide alpha hydrolases-like domain	GSE48081
+	AT5G64250	KAN1	Aldolase-type TIM barrel family protein	GSE48081
+	AT5G64260	KAN1	EXORDIUM like 2	GSE48081
+	AT5G64550	KAN1	loricrin-related	GSE48081
+	AT5G64552	KAN1	conserved peptide upstream open reading frame 22	GSE48081
+	AT5G64560	KAN1	magnesium transporter 9	GSE48081
+	AT5G64570	KAN1	beta-D-xylosidase 4	GSE48081
+	AT5G64572	KAN1	other RNA	GSE48081
+	AT5G64580	KAN1	AAA-type ATPase family protein	GSE48081
+	AT5G64700	KAN1	nodulin MtN21 /EamA-like transporter family protein	GSE48081
+	AT5G64710	KAN1	Putative endonuclease or glycosyl hydrolase	GSE48081
+	AT5G64860	KAN1	disproportionating enzyme	GSE48081
+	AT5G64870	KAN1	SPFH/Band 7/PHB domain-containing membrane-associated protein family	GSE48081
+	AT5G64900	KAN1	precursor of peptide 1	GSE48081
+	AT5G64905	KAN1	elicitor peptide 3 precursor	GSE48081
+	AT5G65040	KAN1	Protein of unknown function (DUF581)	GSE48081
+	AT5G65050	KAN1	AGAMOUS-like 31	GSE48081
+	AT5G65207	KAN1		GSE48081
+	AT5G65210	KAN1	bZIP transcription factor family protein	GSE48081
+	AT5G65274	KAN1	ARP2/3 complex 16 kDa subunit (p16-Arc)	GSE48081
+	AT5G65290	KAN1	LMBR1-like membrane protein	GSE48081
+	AT5G65370	KAN1	ENTH/ANTH/VHS superfamily protein	GSE48081
+	AT5G65390	KAN1	arabinogalactan protein 7	GSE48081
+	AT5G65460	KAN1	kinesin like protein for actin based chloroplast movement 2	GSE48081
+	AT5G65470	KAN1	O-fucosyltransferase family protein	GSE48081
+	AT5G65500	KAN1	U-box domain-containing protein kinase family protein	GSE48081
+	AT5G65520	KAN1	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE48081
+	AT5G65630	KAN1	global transcription factor group E7	GSE48081
+	AT5G65640	KAN1	beta HLH protein 93	GSE48081
+	AT5G65650	KAN1	Protein of unknown function (DUF1195)	GSE48081
+	AT5G65660	KAN1	hydroxyproline-rich glycoprotein family protein	GSE48081
+	AT5G65670	KAN1	indole-3-acetic acid inducible 9	GSE48081
+	AT5G65676	KAN1	transposable element gene	GSE48081
+	AT5G65683	KAN1	Zinc finger (C3HC4-type RING finger) family protein	GSE48081
+	AT5G65690	KAN1	phosphoenolpyruvate carboxykinase 2	GSE48081
+	AT5G65790	KAN1	myb domain protein 68	GSE48081
+	AT5G65800	KAN1	ACC synthase 5	GSE48081
+	AT5G66310	KAN1	ATP binding microtubule motor family protein	GSE48081
+	AT5G66320	KAN1	GATA transcription factor 5	GSE48081
+	AT5G66350	KAN1	Lateral root primordium (LRP) protein-related	GSE48081
+	AT5G66360	KAN1	Ribosomal RNA adenine dimethylase family protein	GSE48081
+	AT5G66440	KAN1		GSE48081
+	AT5G66450	KAN1	Phosphatidic acid phosphatase (PAP2) family protein	GSE48081
+	AT5G66530	KAN1	Galactose mutarotase-like superfamily protein	GSE48081
+	AT5G66535	KAN1	pre-tRNA	GSE48081
+	AT5G66580	KAN1		GSE48081
+	AT5G66590	KAN1	CAP (Cysteine-rich secretory proteins, Antigen 5, and Pathogenesis-related 1 protein) superfamily protein	GSE48081
+	AT5G66690	KAN1	UDP-Glycosyltransferase superfamily protein	GSE48081
+	AT5G66700	KAN1	homeobox 53	GSE48081
+	AT5G66720	KAN1	Protein phosphatase 2C family protein	GSE48081
+	AT5G66730	KAN1	C2H2-like zinc finger protein	GSE48081
+	AT5G66740	KAN1	Protein of unknown function (DUF620)	GSE48081
+	AT5G66910	KAN1	Disease resistance protein (CC-NBS-LRR class) family	GSE48081
+	AT5G66930	KAN1		GSE48081
+	AT5G67070	KAN1	ralf-like 34	GSE48081
+	AT5G67080	KAN1	mitogen-activated protein kinase kinase kinase 19	GSE48081
+	AT5G67160	KAN1	HXXXD-type acyl-transferase family protein	GSE48081
+	AT5G67170	KAN1	SEC-C motif-containing protein / OTU-like cysteine protease family protein	GSE48081
+	AT5G67180	KAN1	target of early activation tagged (EAT) 3	GSE48081
+	AT5G67190	KAN1	DREB and EAR motif protein 2	GSE48081
+	AT5G67200	KAN1	Leucine-rich repeat protein kinase family protein	GSE48081
+	AT5G67250	KAN1	SKP1/ASK1-interacting protein 2	GSE48081
+	AT5G67260	KAN1	CYCLIN D3;2	GSE48081
+	AT5G67280	KAN1	receptor-like kinase	GSE48081
+	AT5G67290	KAN1	FAD-dependent oxidoreductase family protein	GSE48081
+	AT5G67300	KAN1	myb domain protein r1	GSE48081
+	AT5G67340	KAN1	ARM repeat superfamily protein	GSE48081
+	AT5G67350	KAN1		GSE48081
+	AT5G67380	KAN1	casein kinase alpha 1	GSE48081
+	AT5G67385	KAN1	Phototropic-responsive NPH3 family protein	GSE48081
+	AT5G67411	KAN1	GRAS family transcription factor	GSE48081
+	AT5G67420	KAN1	LOB domain-containing protein 37	GSE48081
+	AT5G67430	KAN1	Acyl-CoA N-acyltransferases (NAT) superfamily protein	GSE48081
+	AT5G67440	KAN1	Phototropic-responsive NPH3 family protein	GSE48081
+	AT5G67450	KAN1	zinc-finger protein 1	GSE48081
+	AT5G67460	KAN1	O-Glycosyl hydrolases family 17 protein	GSE48081
+	AT5G67470	KAN1	formin homolog 6	GSE48081
+	AT5G67480	KAN1	BTB and TAZ domain protein 4	GSE48081
+	AT5G67488	KAN1	other RNA	GSE48081

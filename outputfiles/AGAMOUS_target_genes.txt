@@ -1,0 +1,317 @@
+Target Gene ID	TF Name	Description	GEO ID
+AT1G02065	AGAMOUS	squamosa promoter binding protein-like 8	GSE4593
+AT1G02610	AGAMOUS	RING/FYVE/PHD zinc finger superfamily protein	GSE4593
+AT1G03870	AGAMOUS	FASCICLIN-like arabinoogalactan 9	GSE4593
+AT1G05100	AGAMOUS	mitogen-activated protein kinase kinase kinase 18	GSE4593
+AT1G05370	AGAMOUS	Sec14p-like phosphatidylinositol transfer family protein	GSE4593
+AT1G07650	AGAMOUS	Leucine-rich repeat transmembrane protein kinase	GSE4593
+AT1G09480	AGAMOUS	NAD(P)-binding Rossmann-fold superfamily protein	GSE4593
+AT1G10220	AGAMOUS		GSE4593
+AT1G10230	AGAMOUS	SKP1-like 18	GSE4593
+AT1G10745	AGAMOUS	Maternally expressed gene (MEG) family protein	GSE4593
+AT1G12423	AGAMOUS		GSE4593
+AT1G14720	AGAMOUS	xyloglucan endotransglucosylase/hydrolase 28	GSE4593
+AT1G14770	AGAMOUS	RING/FYVE/PHD zinc finger superfamily protein	GSE4593
+AT1G15110	AGAMOUS	phosphatidyl serine synthase family protein	GSE4593
+AT1G15120	AGAMOUS	Ubiquinol-cytochrome C reductase hinge protein	GSE4593
+AT1G16070	AGAMOUS	tubby like protein 8	GSE4593
+AT1G16080	AGAMOUS		GSE4593
+AT1G18075	AGAMOUS	MIR159/MIR159B; miRNA	GSE4593
+AT1G19330	AGAMOUS		GSE4593
+AT1G19920	AGAMOUS	Pseudouridine synthase/archaeosine transglycosylase-like family protein	GSE4593
+AT1G19930	AGAMOUS	Galactose oxidase/kelch repeat superfamily protein	GSE4593
+AT1G21738	AGAMOUS		GSE4593
+AT1G22460	AGAMOUS	O-fucosyltransferase family protein	GSE4593
+AT1G24260	AGAMOUS	K-box region and MADS-box transcription factor family protein	GSE4593
+AT1G24625	AGAMOUS	zinc finger protein 7	GSE4593
+AT1G26590	AGAMOUS	C2H2-like zinc finger protein	GSE4593
+AT1G26600	AGAMOUS	CLAVATA3/ESR-RELATED 9	GSE4593
+AT1G26773	AGAMOUS		GSE4593
+AT1G26780	AGAMOUS	myb domain protein 117	GSE4593
+AT1G27565	AGAMOUS		GSE4593
+AT1G27580	AGAMOUS	Protein of unknown function (DUF295)	GSE4593
+AT1G28050	AGAMOUS	B-box type zinc finger protein with CCT domain	GSE4593
+AT1G28440	AGAMOUS	HAESA-like 1	GSE4593
+AT1G29630	AGAMOUS	5'-3' exonuclease family protein	GSE4593
+AT1G31760	AGAMOUS	SWIB/MDM2 domain superfamily protein	GSE4593
+AT1G33240	AGAMOUS	GT-2-like 1	GSE4593
+AT1G47740	AGAMOUS	PPPDE putative thiol peptidase family protein	GSE4593
+AT1G55690	AGAMOUS	Sec14p-like phosphatidylinositol transfer family protein	GSE4593
+AT1G56555	AGAMOUS		GSE4593
+AT1G56560	AGAMOUS	Plant neutral invertase family protein	GSE4593
+AT1G67720	AGAMOUS	Leucine-rich repeat protein kinase family protein	GSE4593
+AT1G67730	AGAMOUS	beta-ketoacyl reductase 1	GSE4593
+AT1G69130	AGAMOUS	pre-tRNA	GSE4593
+AT1G70895	AGAMOUS	CLAVATA3/ESR-RELATED 17	GSE4593
+AT1G72175	AGAMOUS	RING/U-box protein with domain of unknown function (DUF 1232)	GSE4593
+AT1G72500	AGAMOUS		GSE4593
+AT1G73066	AGAMOUS	Leucine-rich repeat family protein	GSE4593
+AT1G74330	AGAMOUS	Protein kinase superfamily protein	GSE4593
+AT1G74430	AGAMOUS	myb domain protein 95	GSE4593
+AT1G74510	AGAMOUS	Galactose oxidase/kelch repeat superfamily protein	GSE4593
+AT1G75820	AGAMOUS	Leucine-rich receptor-like protein kinase family protein	GSE4593
+AT1G79690	AGAMOUS	nudix hydrolase homolog 3	GSE4593
+AT2G02080	AGAMOUS	indeterminate(ID)-domain 4	GSE4593
+AT2G03040	AGAMOUS	emp24/gp25L/p24 family/GOLD family protein	GSE4593
+AT2G03290	AGAMOUS	emp24/gp25L/p24 family/GOLD family protein	GSE4593
+AT2G07981	AGAMOUS		GSE4593
+AT2G18510	AGAMOUS	RNA-binding (RRM/RBD/RNP motifs) family protein	GSE4593
+AT2G19450	AGAMOUS	membrane bound O-acyl transferase (MBOAT) family protein	GSE4593
+AT2G19460	AGAMOUS	Protein of unknown function (DUF3511)	GSE4593
+AT2G20130	AGAMOUS	like COV 1	GSE4593
+AT2G20140	AGAMOUS	AAA-type ATPase family protein	GSE4593
+AT2G23170	AGAMOUS	Auxin-responsive GH3 family protein	GSE4593
+AT2G23171	AGAMOUS		GSE4593
+AT2G26280	AGAMOUS	CTC-interacting domain 7	GSE4593
+AT2G26520	AGAMOUS		GSE4593
+AT2G30370	AGAMOUS	allergen-related	GSE4593
+AT2G31150	AGAMOUS	ATP binding;ATPases, coupled to transmembrane movement of ions, phosphorylative mechanism	GSE4593
+AT2G36090	AGAMOUS	F-box family protein	GSE4593
+AT2G38060	AGAMOUS	phosphate transporter 4;2	GSE4593
+AT2G38120	AGAMOUS	Transmembrane amino acid transporter family protein	GSE4593
+AT2G39175	AGAMOUS	MIR160/MIR160A; miRNA	GSE4593
+AT2G40810	AGAMOUS	homolog of yeast autophagy 18C	GSE4593
+AT2G41370	AGAMOUS	Ankyrin repeat family protein / BTB/POZ domain-containing protein	GSE4593
+AT2G42730	AGAMOUS	F-box family protein	GSE4593
+AT2G42740	AGAMOUS	ribosomal protein large subunit 16A	GSE4593
+AT2G43120	AGAMOUS	RmlC-like cupins superfamily protein	GSE4593
+AT2G44610	AGAMOUS	Ras-related small GTP-binding family protein	GSE4593
+AT2G44620	AGAMOUS	mitochondrial acyl carrier protein 1	GSE4593
+AT2G44798	AGAMOUS	other RNA	GSE4593
+AT2G45660	AGAMOUS	AGAMOUS-like 20	GSE4593
+AT2G45680	AGAMOUS	TCP family transcription factor	GSE4593
+AT2G45685	AGAMOUS	other RNA	GSE4593
+AT2G45960	AGAMOUS	plasma membrane intrinsic protein 1B	GSE4593
+AT2G46370	AGAMOUS	Auxin-responsive GH3 family protein	GSE4593
+AT2G46455	AGAMOUS	OxaA/YidC-like membrane insertion protein	GSE4593
+AT2G46460	AGAMOUS	Polynucleotidyl transferase, ribonuclease H-like superfamily protein	GSE4593
+AT2G47810	AGAMOUS	nuclear factor Y, subunit B5	GSE4593
+AT3G02310	AGAMOUS	K-box region and MADS-box transcription factor family protein	GSE4593
+AT3G02315	AGAMOUS	pre-tRNA	GSE4593
+AT3G02810	AGAMOUS	Protein kinase superfamily protein	GSE4593
+AT3G02820	AGAMOUS	zinc knuckle (CCHC-type) family protein	GSE4593
+AT3G05690	AGAMOUS	nuclear factor Y, subunit A2	GSE4593
+AT3G10040	AGAMOUS	sequence-specific DNA binding transcription factors	GSE4593
+AT3G11850	AGAMOUS	Protein of unknown function, DUF593	GSE4593
+AT3G13000	AGAMOUS	Protein of unknown function, DUF547	GSE4593
+AT3G13898	AGAMOUS		GSE4593
+AT3G13960	AGAMOUS	growth-regulating factor 5	GSE4593
+AT3G14220	AGAMOUS	GDSL-like Lipase/Acylhydrolase superfamily protein	GSE4593
+AT3G15518	AGAMOUS		GSE4593
+AT3G17330	AGAMOUS	evolutionarily conserved C-terminal region 6	GSE4593
+AT3G17390	AGAMOUS	S-adenosylmethionine synthetase family protein	GSE4593
+AT3G17400	AGAMOUS	F-box family protein	GSE4593
+AT3G18220	AGAMOUS	Phosphatidic acid phosphatase (PAP2) family protein	GSE4593
+AT3G19150	AGAMOUS	KIP-related protein 6	GSE4593
+AT3G20260	AGAMOUS	Protein of unknown function (DUF1666)	GSE4593
+AT3G21330	AGAMOUS	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE4593
+AT3G23130	AGAMOUS	C2H2 and C2HC zinc fingers superfamily protein	GSE4593
+AT3G23290	AGAMOUS	Protein of unknown function (DUF640)	GSE4593
+AT3G26700	AGAMOUS	Protein kinase superfamily protein	GSE4593
+AT3G26710	AGAMOUS	cofactor assembly of complex C	GSE4593
+AT3G29020	AGAMOUS	myb domain protein 110	GSE4593
+AT3G47610	AGAMOUS	transcription regulators;zinc ion binding	GSE4593
+AT3G48237	AGAMOUS		GSE4593
+AT3G48240	AGAMOUS	Octicosapeptide/Phox/Bem1p family protein	GSE4593
+AT3G48690	AGAMOUS	alpha/beta-Hydrolases superfamily protein	GSE4593
+AT3G48700	AGAMOUS	carboxyesterase 13	GSE4593
+AT3G49550	AGAMOUS		GSE4593
+AT3G49551	AGAMOUS		GSE4593
+AT3G50410	AGAMOUS	OBF binding protein 1	GSE4593
+AT3G52880	AGAMOUS	monodehydroascorbate reductase 1	GSE4593
+AT3G53610	AGAMOUS	RAB GTPase homolog 8	GSE4593
+AT3G53611	AGAMOUS		GSE4593
+AT3G54340	AGAMOUS	K-box region and MADS-box transcription factor family protein	GSE4593
+AT3G54470	AGAMOUS	uridine 5'-monophosphate synthase / UMP synthase (PYRE-F) (UMPS)	GSE4593
+AT3G54480	AGAMOUS	SKP1/ASK-interacting protein 5	GSE4593
+AT3G55512	AGAMOUS	MIR172D; miRNA	GSE4593
+AT3G56370	AGAMOUS	Leucine-rich repeat protein kinase family protein	GSE4593
+AT3G57390	AGAMOUS	AGAMOUS-like 18	GSE4593
+AT3G58040	AGAMOUS	seven in absentia of Arabidopsis 2	GSE4593
+AT3G60670	AGAMOUS	PLATZ transcription factor family protein	GSE4593
+AT3G61947	AGAMOUS		GSE4593
+AT3G61950	AGAMOUS	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE4593
+AT3G62610	AGAMOUS	myb domain protein 11	GSE4593
+AT4G01450	AGAMOUS	nodulin MtN21 /EamA-like transporter family protein	GSE4593
+AT4G03400	AGAMOUS	Auxin-responsive GH3 family protein	GSE4593
+AT4G03405	AGAMOUS	pre-tRNA	GSE4593
+AT4G08980	AGAMOUS	F-BOX WITH WD-40 2	GSE4593
+AT4G09160	AGAMOUS	SEC14 cytosolic factor family protein / phosphoglyceride transfer family protein	GSE4593
+AT4G09180	AGAMOUS	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE4593
+AT4G10080	AGAMOUS		GSE4593
+AT4G12420	AGAMOUS	Cupredoxin superfamily protein	GSE4593
+AT4G13530	AGAMOUS		GSE4593
+AT4G13540	AGAMOUS		GSE4593
+AT4G14770	AGAMOUS	TESMIN/TSO1-like CXC 2	GSE4593
+AT4G14900	AGAMOUS	FRIGIDA-like protein	GSE4593
+AT4G15755	AGAMOUS	Calcium-dependent lipid-binding (CaLB domain) family protein	GSE4593
+AT4G15760	AGAMOUS	monooxygenase 1	GSE4593
+AT4G17930	AGAMOUS		GSE4593
+AT4G22850	AGAMOUS	SNARE associated Golgi protein family	GSE4593
+AT4G23050	AGAMOUS	PAS domain-containing protein tyrosine kinase family protein	GSE4593
+AT4G24970	AGAMOUS	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase family protein	GSE4593
+AT4G25470	AGAMOUS	C-repeat/DRE binding factor 2	GSE4593
+AT4G25720	AGAMOUS	glutaminyl cyclase	GSE4593
+AT4G27800	AGAMOUS	thylakoid-associated phosphatase 38	GSE4593
+AT4G27810	AGAMOUS		GSE4593
+AT4G28330	AGAMOUS		GSE4593
+AT4G29080	AGAMOUS	phytochrome-associated protein 2	GSE4593
+AT4G30250	AGAMOUS	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE4593
+AT4G30490	AGAMOUS	AFG1-like ATPase family protein	GSE4593
+AT4G30500	AGAMOUS	Protein of unknown function (DUF788)	GSE4593
+AT4G31380	AGAMOUS	FPF1-like protein 1	GSE4593
+AT4G31550	AGAMOUS	WRKY DNA-binding protein 11	GSE4593
+AT4G31960	AGAMOUS		GSE4593
+AT4G32290	AGAMOUS	Core-2/I-branching beta-1,6-N-acetylglucosaminyltransferase family protein	GSE4593
+AT4G32295	AGAMOUS		GSE4593
+AT4G32390	AGAMOUS	Nucleotide-sugar transporter family protein	GSE4593
+AT4G32400	AGAMOUS	Mitochondrial substrate carrier family protein	GSE4593
+AT4G32980	AGAMOUS	homeobox gene 1	GSE4593
+AT4G33945	AGAMOUS	ARM repeat superfamily protein	GSE4593
+AT4G34250	AGAMOUS	3-ketoacyl-CoA synthase 16	GSE4593
+AT4G34790	AGAMOUS	SAUR-like auxin-responsive protein family	GSE4593
+AT4G37810	AGAMOUS		GSE4593
+AT4G37890	AGAMOUS	Zinc finger (C3HC4-type RING finger) family protein	GSE4593
+AT4G37895	AGAMOUS	other RNA	GSE4593
+AT4G38400	AGAMOUS	expansin-like A2	GSE4593
+AT4G38401	AGAMOUS		GSE4593
+AT4G38405	AGAMOUS		GSE4593
+AT4G38410	AGAMOUS	Dehydrin family protein	GSE4593
+AT4G38640	AGAMOUS	Plasma-membrane choline transporter family protein	GSE4593
+AT4G38650	AGAMOUS	Glycosyl hydrolase family 10 protein	GSE4593
+AT4G38680	AGAMOUS	glycine rich protein 2	GSE4593
+AT4G39390	AGAMOUS	nucleotide sugar transporter-KT 1	GSE4593
+AT4G39950	AGAMOUS	cytochrome P450, family 79, subfamily B, polypeptide 2	GSE4593
+AT4G40060	AGAMOUS	homeobox protein 16	GSE4593
+AT5G01510	AGAMOUS	Protein of unknown function, DUF647	GSE4593
+AT5G01520	AGAMOUS	RING/U-box superfamily protein	GSE4593
+AT5G01810	AGAMOUS	CBL-interacting protein kinase 15	GSE4593
+AT5G01820	AGAMOUS	serine/threonine protein kinase 1	GSE4593
+AT5G02530	AGAMOUS	RNA-binding (RRM/RBD/RNP motifs) family protein	GSE4593
+AT5G03280	AGAMOUS	NRAMP metal ion transporter family protein	GSE4593
+AT5G03285	AGAMOUS	other RNA	GSE4593
+AT5G03530	AGAMOUS	RAB GTPase homolog C2A	GSE4593
+AT5G03610	AGAMOUS	GDSL-like Lipase/Acylhydrolase superfamily protein	GSE4593
+AT5G03700	AGAMOUS	D-mannose binding lectin protein with Apple-like carbohydrate-binding domain	GSE4593
+AT5G03760	AGAMOUS	Nucleotide-diphospho-sugar transferases superfamily protein	GSE4593
+AT5G04490	AGAMOUS	vitamin E pathway gene 5	GSE4593
+AT5G05980	AGAMOUS	DHFS-FPGS homolog B	GSE4593
+AT5G05985	AGAMOUS	pre-tRNA	GSE4593
+AT5G05987	AGAMOUS	prenylated RAB acceptor 1.A2	GSE4593
+AT5G06130	AGAMOUS	chaperone protein dnaJ-related	GSE4593
+AT5G06250	AGAMOUS	AP2/B3-like transcriptional factor family protein	GSE4593
+AT5G06839	AGAMOUS	bZIP transcription factor family protein	GSE4593
+AT5G06860	AGAMOUS	polygalacturonase inhibiting protein 1	GSE4593
+AT5G06865	AGAMOUS	other RNA	GSE4593
+AT5G06870	AGAMOUS	polygalacturonase inhibiting protein 2	GSE4593
+AT5G06890	AGAMOUS	Ubiquitin-like superfamily protein	GSE4593
+AT5G07270	AGAMOUS	XB3 ortholog 3 in Arabidopsis thaliana	GSE4593
+AT5G07620	AGAMOUS	Protein kinase superfamily protein	GSE4593
+AT5G07625	AGAMOUS	pre-tRNA	GSE4593
+AT5G07990	AGAMOUS	Cytochrome P450 superfamily protein	GSE4593
+AT5G08075	AGAMOUS	pre-tRNA	GSE4593
+AT5G08520	AGAMOUS	Duplicated homeodomain-like superfamily protein	GSE4593
+AT5G08717	AGAMOUS	MIR166/MIR166D; miRNA	GSE4593
+AT5G08770	AGAMOUS		GSE4593
+AT5G08780	AGAMOUS	winged-helix DNA-binding transcription factor family protein	GSE4593
+AT5G09300	AGAMOUS	Thiamin diphosphate-binding fold (THDP-binding) superfamily protein	GSE4593
+AT5G09310	AGAMOUS		GSE4593
+AT5G09440	AGAMOUS	EXORDIUM like 4	GSE4593
+AT5G09443	AGAMOUS	other RNA	GSE4593
+AT5G09445	AGAMOUS		GSE4593
+AT5G10150	AGAMOUS	Domain of unknown function (DUF966)	GSE4593
+AT5G10290	AGAMOUS	leucine-rich repeat transmembrane protein kinase family protein	GSE4593
+AT5G10300	AGAMOUS	methyl esterase 5	GSE4593
+AT5G10510	AGAMOUS	AINTEGUMENTA-like 6	GSE4593
+AT5G10946	AGAMOUS		GSE4593
+AT5G10990	AGAMOUS	SAUR-like auxin-responsive protein family	GSE4593
+AT5G11000	AGAMOUS	Plant protein of unknown function (DUF868)	GSE4593
+AT5G11130	AGAMOUS	Exostosin family protein	GSE4593
+AT5G11140	AGAMOUS	Arabidopsis phospholipase-like protein (PEARLI 4) family	GSE4593
+AT5G11160	AGAMOUS	adenine phosphoribosyltransferase 5	GSE4593
+AT5G11320	AGAMOUS	Flavin-binding monooxygenase family protein	GSE4593
+AT5G11700	AGAMOUS		GSE4593
+AT5G11890	AGAMOUS		GSE4593
+AT5G11900	AGAMOUS	Translation initiation factor SUI1 family protein	GSE4593
+AT5G11950	AGAMOUS	Putative lysine decarboxylase family protein	GSE4593
+AT5G11977	AGAMOUS	MIR156E; miRNA	GSE4593
+AT5G12080	AGAMOUS	mechanosensitive channel of small conductance-like 10	GSE4593
+AT5G13100	AGAMOUS		GSE4593
+AT5G13220	AGAMOUS	jasmonate-zim-domain protein 10	GSE4593
+AT5G13225	AGAMOUS	snoRNA	GSE4593
+AT5G13790	AGAMOUS	AGAMOUS-like 15	GSE4593
+AT5G14230	AGAMOUS		GSE4593
+AT5G14480	AGAMOUS	beta-1,4-N-acetylglucosaminyltransferase family protein	GSE4593
+AT5G14495	AGAMOUS	pre-tRNA	GSE4593
+AT5G14640	AGAMOUS	shaggy-like kinase 13	GSE4593
+AT5G14710	AGAMOUS		GSE4593
+AT5G15120	AGAMOUS	Protein of unknown function (DUF1637)	GSE4593
+AT5G15340	AGAMOUS	Pentatricopeptide repeat (PPR) superfamily protein	GSE4593
+AT5G15350	AGAMOUS	early nodulin-like protein 17	GSE4593
+AT5G16000	AGAMOUS	NSP-interacting kinase 1	GSE4593
+AT5G16010	AGAMOUS	3-oxo-5-alpha-steroid 4-dehydrogenase family protein	GSE4593
+AT5G18000	AGAMOUS	VERDANDI	GSE4593
+AT5G18005	AGAMOUS	pre-tRNA	GSE4593
+AT5G18010	AGAMOUS	SAUR-like auxin-responsive protein family	GSE4593
+AT5G19050	AGAMOUS	alpha/beta-Hydrolases superfamily protein	GSE4593
+AT5G19060	AGAMOUS		GSE4593
+AT5G19100	AGAMOUS	Eukaryotic aspartyl protease family protein	GSE4593
+AT5G19510	AGAMOUS	Translation elongation  factor EF1B/ribosomal protein S6 family protein	GSE4593
+AT5G20180	AGAMOUS	Ribosomal protein L36	GSE4593
+AT5G20181	AGAMOUS		GSE4593
+AT5G20240	AGAMOUS	K-box region and MADS-box transcription factor family protein	GSE4593
+AT5G22420	AGAMOUS	fatty acid reductase 7	GSE4593
+AT5G22430	AGAMOUS	Pollen Ole e 1 allergen and extensin family protein	GSE4593
+AT5G23020	AGAMOUS	2-isopropylmalate synthase 2	GSE4593
+AT5G24000	AGAMOUS	Protein of unknown function (DUF819)	GSE4593
+AT5G25460	AGAMOUS	Protein of unknown function, DUF642	GSE4593
+AT5G25570	AGAMOUS		GSE4593
+AT5G26731	AGAMOUS		GSE4593
+AT5G26740	AGAMOUS	Protein of unknown function (DUF300)	GSE4593
+AT5G27680	AGAMOUS	RECQ helicase SIM	GSE4593
+AT5G27930	AGAMOUS	Protein phosphatase 2C family protein	GSE4593
+AT5G28490	AGAMOUS	Protein of unknown function (DUF640)	GSE4593
+AT5G28491	AGAMOUS		GSE4593
+AT5G35770	AGAMOUS	Transducin/WD40 repeat-like superfamily protein	GSE4593
+AT5G39635	AGAMOUS	MIR169C; miRNA	GSE4593
+AT5G41380	AGAMOUS	CCT motif family protein	GSE4593
+AT5G43270	AGAMOUS	squamosa promoter binding protein-like 2	GSE4593
+AT5G43700	AGAMOUS	AUX/IAA transcriptional regulator family protein	GSE4593
+AT5G45307	AGAMOUS	MIR168/MIR168B; miRNA	GSE4593
+AT5G45310	AGAMOUS		GSE4593
+AT5G46690	AGAMOUS	beta HLH protein 71	GSE4593
+AT5G52060	AGAMOUS	BCL-2-associated athanogene 1	GSE4593
+AT5G53900	AGAMOUS	Serine/threonine-protein kinase WNK (With No Lysine)-related	GSE4593
+AT5G54450	AGAMOUS	Protein of unknown function (DUF295)	GSE4593
+AT5G54460	AGAMOUS	wound-responsive protein-related	GSE4593
+AT5G55180	AGAMOUS	O-Glycosyl hydrolases family 17 protein	GSE4593
+AT5G57720	AGAMOUS	AP2/B3-like transcriptional factor family protein	GSE4593
+AT5G57735	AGAMOUS	tasiR-ARF; other RNA	GSE4593
+AT5G58412	AGAMOUS	Putative membrane lipoprotein	GSE4593
+AT5G58420	AGAMOUS	Ribosomal protein S4 (RPS4A) family protein	GSE4593
+AT5G58530	AGAMOUS	Glutaredoxin family protein	GSE4593
+AT5G58640	AGAMOUS	Selenoprotein, Rdx type	GSE4593
+AT5G58650	AGAMOUS	plant peptide containing sulfated tyrosine 1	GSE4593
+AT5G58840	AGAMOUS	Subtilase family protein	GSE4593
+AT5G58850	AGAMOUS	myb domain protein 119	GSE4593
+AT5G58900	AGAMOUS	Homeodomain-like transcriptional regulator	GSE4593
+AT5G60400	AGAMOUS		GSE4593
+AT5G60408	AGAMOUS	MIR391; miRNA	GSE4593
+AT5G60530	AGAMOUS	late embryogenesis abundant protein-related / LEA protein-related	GSE4593
+AT5G60540	AGAMOUS	pyridoxine biosynthesis 2	GSE4593
+AT5G60710	AGAMOUS	Zinc finger (C3HC4-type RING finger) family protein	GSE4593
+AT5G60850	AGAMOUS	OBF binding protein 4	GSE4593
+AT5G60910	AGAMOUS	AGAMOUS-like 8	GSE4593
+AT5G61100	AGAMOUS		GSE4593
+AT5G62350	AGAMOUS	Plant invertase/pectin methylesterase inhibitor superfamily protein	GSE4593
+AT5G62560	AGAMOUS	RING/U-box superfamily protein with ARM repeat domain	GSE4593
+AT5G63710	AGAMOUS	Leucine-rich repeat protein kinase family protein	GSE4593
+AT5G63715	AGAMOUS	MIR166/MIR166G; miRNA	GSE4593
+AT5G65110	AGAMOUS	acyl-CoA oxidase 2	GSE4593
+AT5G65120	AGAMOUS		GSE4593
+AT5G66730	AGAMOUS	C2H2-like zinc finger protein	GSE4593
+AT5G66920	AGAMOUS	SKU5  similar 17	GSE4593
+AT5G67060	AGAMOUS	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE4593
+AT5G67411	AGAMOUS	GRAS family transcription factor	GSE4593
+AT5G67470	AGAMOUS	formin homolog 6	GSE4593
+AT5G67480	AGAMOUS	BTB and TAZ domain protein 4	GSE4593

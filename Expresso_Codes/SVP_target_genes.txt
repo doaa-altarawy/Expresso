@@ -1,0 +1,707 @@
+	AT1G01040	SVP	dicer-like 1	GSE33120
+	AT1G01320	SVP	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE33120
+	AT1G01510	SVP	NAD(P)-binding Rossmann-fold superfamily protein	GSE33120
+	AT1G01900	SVP	subtilase family protein	GSE33120
+	AT1G01980	SVP	FAD-binding Berberine family protein	GSE33120
+	AT1G02080	SVP	transcription regulators	GSE33120
+	AT1G02220	SVP	NAC domain containing protein 3	GSE33120
+	AT1G02530	SVP	P-glycoprotein 12	GSE33120
+	AT1G03990	SVP	Long-chain fatty alcohol dehydrogenase family protein	GSE33120
+	AT1G04160	SVP	myosin XI B	GSE33120
+	AT1G04600	SVP	myosin XI A	GSE33120
+	AT1G04945	SVP	HIT-type Zinc finger family protein	GSE33120
+	AT1G05380	SVP	Acyl-CoA N-acyltransferase with RING/FYVE/PHD-type zinc finger protein	GSE33120
+	AT1G05570	SVP	callose synthase 1	GSE33120
+	AT1G05590	SVP	beta-hexosaminidase 2	GSE33120
+	AT1G05630	SVP	Endonuclease/exonuclease/phosphatase family protein	GSE33120
+	AT1G05820	SVP	SIGNAL PEPTIDE PEPTIDASE-LIKE 5	GSE33120
+	AT1G05960	SVP	ARM repeat superfamily protein	GSE33120
+	AT1G06430	SVP	FTSH protease 8	GSE33120
+	AT1G06720	SVP	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE33120
+	AT1G06800	SVP	alpha/beta-Hydrolases superfamily protein	GSE33120
+	AT1G07200	SVP	Double Clp-N motif-containing P-loop nucleoside triphosphate hydrolases superfamily protein	GSE33120
+	AT1G07970	SVP		GSE33120
+	AT1G08060	SVP	ATP-dependent helicase family protein	GSE33120
+	AT1G08130	SVP	DNA ligase 1	GSE33120
+	AT1G09720	SVP	Kinase interacting (KIP1-like) family protein	GSE33120
+	AT1G09810	SVP	evolutionarily conserved C-terminal region 11	GSE33120
+	AT1G10240	SVP	FAR1-related sequence 11	GSE33120
+	AT1G10680	SVP	P-glycoprotein 10	GSE33120
+	AT1G10760	SVP	Pyruvate phosphate dikinase, PEP/pyruvate binding domain	GSE33120
+	AT1G10920	SVP	NB-ARC domain-containing disease resistance protein	GSE33120
+	AT1G11060	SVP	WAPL (Wings apart-like protein regulation of heterochromatin) protein	GSE33120
+	AT1G12240	SVP	Glycosyl hydrolases family 32 protein	GSE33120
+	AT1G12460	SVP	Leucine-rich repeat protein kinase family protein	GSE33120
+	AT1G12470	SVP	zinc ion binding	GSE33120
+	AT1G12680	SVP	phosphoenolpyruvate carboxylase-related kinase 2	GSE33120
+	AT1G13790	SVP	XH/XS domain-containing protein	GSE33120
+	AT1G14380	SVP	IQ-domain 28	GSE33120
+	AT1G14480	SVP	Ankyrin repeat family protein	GSE33120
+	AT1G14560	SVP	Mitochondrial substrate carrier family protein	GSE33120
+	AT1G14610	SVP	valyl-tRNA synthetase / valine--tRNA ligase (VALRS)	GSE33120
+	AT1G14670	SVP	Endomembrane protein 70 protein family	GSE33120
+	AT1G14850	SVP	nucleoporin 155	GSE33120
+	AT1G15290	SVP	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE33120
+	AT1G15320	SVP		GSE33120
+	AT1G15330	SVP	Cystathionine beta-synthase (CBS) protein	GSE33120
+	AT1G15510	SVP	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE33120
+	AT1G15780	SVP		GSE33120
+	AT1G15820	SVP	light harvesting complex photosystem II subunit 6	GSE33120
+	AT1G16110	SVP	wall associated kinase-like 6	GSE33120
+	AT1G16140	SVP		GSE33120
+	AT1G16690	SVP	Enhancer of polycomb-like transcription factor protein	GSE33120
+	AT1G16700	SVP	Alpha-helical ferredoxin	GSE33120
+	AT1G16750	SVP	Protein of unknown function, DUF547	GSE33120
+	AT1G16858	SVP	conserved peptide upstream open reading frame 55	GSE33120
+	AT1G16860	SVP	Ubiquitin-specific protease family C19-related protein	GSE33120
+	AT1G17250	SVP	receptor like protein 3	GSE33120
+	AT1G17255	SVP	other RNA	GSE33120
+	AT1G17500	SVP	ATPase E1-E2 type family protein / haloacid dehalogenase-like hydrolase family protein	GSE33120
+	AT1G17745	SVP	D-3-phosphoglycerate dehydrogenase	GSE33120
+	AT1G17810	SVP	beta-tonoplast intrinsic protein	GSE33120
+	AT1G18270	SVP	ketose-bisphosphate aldolase class-II family protein	GSE33120
+	AT1G19220	SVP	auxin response factor 19	GSE33120
+	AT1G19250	SVP	flavin-dependent monooxygenase 1	GSE33120
+	AT1G19700	SVP	BEL1-like homeodomain 10	GSE33120
+	AT1G19810	SVP		GSE33120
+	AT1G21170	SVP	Exocyst complex component SEC5	GSE33120
+	AT1G22080	SVP	Cysteine proteinases superfamily protein	GSE33120
+	AT1G22600	SVP	Late embryogenesis abundant protein (LEA) family protein	GSE33120
+	AT1G22770	SVP	gigantea protein (GI)	GSE33120
+	AT1G22930	SVP	T-complex protein 11	GSE33120
+	AT1G23190	SVP	Phosphoglucomutase/phosphomannomutase family protein	GSE33120
+	AT1G23230	SVP		GSE33120
+	AT1G24706	SVP	THO2	GSE33120
+	AT1G24764	SVP	microtubule-associated proteins 70-2	GSE33120
+	AT1G26150	SVP	proline-rich extensin-like receptor kinase 10	GSE33120
+	AT1G26330	SVP	DNA binding	GSE33120
+	AT1G26760	SVP	SET domain protein 35	GSE33120
+	AT1G27470	SVP	transducin family protein / WD-40 repeat family protein	GSE33120
+	AT1G27850	SVP		GSE33120
+	AT1G27900	SVP	RNA helicase family protein	GSE33120
+	AT1G27910	SVP	plant U-box 45	GSE33120
+	AT1G28060	SVP	Pre-mRNA-splicing factor 3	GSE33120
+	AT1G29720	SVP	Leucine-rich repeat transmembrane protein kinase	GSE33120
+	AT1G29900	SVP	carbamoyl phosphate synthetase B	GSE33120
+	AT1G30010	SVP	Intron maturase, type II family protein	GSE33120
+	AT1G30400	SVP	multidrug resistance-associated protein 1	GSE33120
+	AT1G30420	SVP	multidrug resistance-associated protein 12	GSE33120
+	AT1G30600	SVP	Subtilase family protein	GSE33120
+	AT1G30755	SVP	Protein of unknown function (DUF668)	GSE33120
+	AT1G31230	SVP	aspartate kinase-homoserine dehydrogenase i	GSE33120
+	AT1G32120	SVP		GSE33120
+	AT1G32415	SVP	pentatricopeptide (PPR) repeat-containing protein	GSE33120
+	AT1G32660	SVP	F-box and associated interaction domains-containing protein	GSE33120
+	AT1G33350	SVP	Pentatricopeptide repeat (PPR) superfamily protein	GSE33120
+	AT1G33360	SVP	ATP-dependent Clp protease	GSE33120
+	AT1G33390	SVP	RNA helicase family protein	GSE33120
+	AT1G33415	SVP	other RNA	GSE33120
+	AT1G33790	SVP	jacalin lectin family protein	GSE33120
+	AT1G36070	SVP	Transducin/WD40 repeat-like superfamily protein	GSE33120
+	AT1G36160	SVP	acetyl-CoA carboxylase 1	GSE33120
+	AT1G42470	SVP	Patched family protein	GSE33120
+	AT1G43502	SVP	transposable element gene	GSE33120
+	AT1G43760	SVP	DNAse I-like superfamily protein	GSE33120
+	AT1G44120	SVP	Armadillo/beta-catenin-like repeat ; C2 calcium/lipid-binding domain (CaLB) protein	GSE33120
+	AT1G45150	SVP		GSE33120
+	AT1G45160	SVP	Protein kinase superfamily protein	GSE33120
+	AT1G47420	SVP	succinate dehydrogenase 5	GSE33120
+	AT1G47670	SVP	Transmembrane amino acid transporter family protein	GSE33120
+	AT1G47900	SVP	Plant protein of unknown function (DUF869)	GSE33120
+	AT1G48090	SVP	calcium-dependent lipid-binding family protein	GSE33120
+	AT1G48120	SVP	hydrolases;protein serine/threonine phosphatases	GSE33120
+	AT1G48360	SVP	zinc ion binding;nucleic acid binding;hydrolases, acting on acid anhydrides, in phosphorus-containing anhydrides	GSE33120
+	AT1G48490	SVP	Protein kinase superfamily protein	GSE33120
+	AT1G48760	SVP	delta-adaptin	GSE33120
+	AT1G49740	SVP	PLC-like phosphodiesterases superfamily protein	GSE33120
+	AT1G49920	SVP	MuDR family transposase	GSE33120
+	AT1G49930	SVP		GSE33120
+	AT1G49960	SVP	Xanthine/uracil permease family protein	GSE33120
+	AT1G50030	SVP	target of rapamycin	GSE33120
+	AT1G50200	SVP	Alanyl-tRNA synthetase	GSE33120
+	AT1G50560	SVP	cytochrome P450, family 705, subfamily A, polypeptide 25	GSE33120
+	AT1G50750	SVP	Plant mobile domain protein family	GSE33120
+	AT1G51480	SVP	Disease resistance protein (CC-NBS-LRR class) family	GSE33120
+	AT1G51580	SVP	RNA-binding KH domain-containing protein	GSE33120
+	AT1G53020	SVP	UBC26 (UBIQUITIN-CONJUGATING ENZYME 26); ubiquitin-protein ligase	GSE33120
+	AT1G53430	SVP	Leucine-rich repeat transmembrane protein kinase	GSE33120
+	AT1G54490	SVP	exoribonuclease 4	GSE33120
+	AT1G55545	SVP		GSE33120
+	AT1G55700	SVP	Cysteine/Histidine-rich C1 domain family protein	GSE33120
+	AT1G55970	SVP	histone acetyltransferase of the CBP family 4	GSE33120
+	AT1G56140	SVP	Leucine-rich repeat transmembrane protein kinase	GSE33120
+	AT1G56510	SVP	Disease resistance protein (TIR-NBS-LRR class)	GSE33120
+	AT1G58060	SVP	RNA helicase family protein	GSE33120
+	AT1G58250	SVP	Golgi-body localisation protein domain ;RNA pol II promoter Fmp27 protein domain	GSE33120
+	AT1G58260	SVP	cytochrome p450 79c2	GSE33120
+	AT1G60630	SVP	Leucine-rich repeat protein kinase family protein	GSE33120
+	AT1G61210	SVP	Transducin/WD40 repeat-like superfamily protein	GSE33120
+	AT1G61490	SVP	S-locus lectin protein kinase family protein	GSE33120
+	AT1G61850	SVP	phospholipases;galactolipases	GSE33120
+	AT1G62330	SVP	O-fucosyltransferase family protein	GSE33120
+	AT1G63440	SVP	heavy metal atpase 5	GSE33120
+	AT1G63700	SVP	Protein kinase superfamily protein	GSE33120
+	AT1G64170	SVP	cation/H+ exchanger 16	GSE33120
+	AT1G64600	SVP	methyltransferases;copper ion binding	GSE33120
+	AT1G64610	SVP	Transducin/WD40 repeat-like superfamily protein	GSE33120
+	AT1G64790	SVP	ILITYHIA	GSE33120
+	AT1G65010	SVP	Plant protein of unknown function (DUF827)	GSE33120
+	AT1G65030	SVP	Transducin/WD40 repeat-like superfamily protein	GSE33120
+	AT1G65380	SVP	Leucine-rich repeat (LRR) family protein	GSE33120
+	AT1G65580	SVP	Endonuclease/exonuclease/phosphatase family protein	GSE33120
+	AT1G66150	SVP	transmembrane kinase 1	GSE33120
+	AT1G67120	SVP	ATPases;nucleotide binding;ATP binding;nucleoside-triphosphatases;transcription factor binding	GSE33120
+	AT1G69110	SVP		GSE33120
+	AT1G69120	SVP	K-box region and MADS-box transcription factor family protein	GSE33120
+	AT1G69480	SVP	EXS (ERD1/XPR1/SYG1) family protein	GSE33120
+	AT1G70340	SVP	Plant protein of unknown function (DUF936)	GSE33120
+	AT1G70460	SVP	root hair specific 10	GSE33120
+	AT1G70610	SVP	transporter associated with antigen processing protein 1	GSE33120
+	AT1G70980	SVP	Class II aminoacyl-tRNA and biotin synthetases superfamily protein	GSE33120
+	AT1G71160	SVP	3-ketoacyl-CoA synthase 7	GSE33120
+	AT1G71220	SVP	UDP-glucose:glycoprotein glucosyltransferases;transferases, transferring hexosyl groups;transferases, transferring glycosyl groups	GSE33120
+	AT1G72125	SVP	Major facilitator superfamily protein	GSE33120
+	AT1G72840	SVP	Disease resistance protein (TIR-NBS-LRR class)	GSE33120
+	AT1G73170	SVP	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE33120
+	AT1G73990	SVP	signal peptide peptidase	GSE33120
+	AT1G74160	SVP		GSE33120
+	AT1G74240	SVP	Mitochondrial substrate carrier family protein	GSE33120
+	AT1G74910	SVP	ADP-glucose pyrophosphorylase family protein	GSE33120
+	AT1G75820	SVP	Leucine-rich receptor-like protein kinase family protein	GSE33120
+	AT1G77500	SVP	Protein of unknown function (DUF630 and DUF632)	GSE33120
+	AT1G77620	SVP	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE33120
+	AT1G78880	SVP	Ubiquitin-specific protease family C19-related protein	GSE33120
+	AT1G78882	SVP	conserved peptide upstream open reading frame 56	GSE33120
+	AT1G78920	SVP	vacuolar H+-pyrophosphatase 2	GSE33120
+	AT1G78990	SVP	HXXXD-type acyl-transferase family protein	GSE33120
+	AT1G79350	SVP	RING/FYVE/PHD zinc finger superfamily protein	GSE33120
+	AT1G79440	SVP	aldehyde dehydrogenase 5F1	GSE33120
+	AT1G79490	SVP	Pentatricopeptide repeat (PPR) superfamily protein	GSE33120
+	AT1G79530	SVP	glyceraldehyde-3-phosphate dehydrogenase of plastid 1	GSE33120
+	AT1G79620	SVP	Leucine-rich repeat protein kinase family protein	GSE33120
+	AT1G79790	SVP	Haloacid dehalogenase-like hydrolase (HAD) superfamily protein	GSE33120
+	AT1G79800	SVP	early nodulin-like protein 7	GSE33120
+	AT1G79820	SVP	Major facilitator superfamily protein	GSE33120
+	AT1G79990	SVP	structural molecules	GSE33120
+	AT1G80070	SVP	Pre-mRNA-processing-splicing factor	GSE33120
+	AT1G80300	SVP	nucleotide transporter 1	GSE33120
+	AT1G80410	SVP	tetratricopeptide repeat (TPR)-containing protein	GSE33120
+	AT1G80530	SVP	Major facilitator superfamily protein	GSE33120
+	AT1G80810	SVP	Tudor/PWWP/MBT superfamily protein	GSE33120
+	AT2G01130	SVP	DEA(D/H)-box RNA helicase family protein	GSE33120
+	AT2G01140	SVP	Aldolase superfamily protein	GSE33120
+	AT2G01280	SVP	Cyclin/Brf1-like TBP-binding protein	GSE33120
+	AT2G01440	SVP	DEAD/DEAH box RNA helicase family protein	GSE33120
+	AT2G02150	SVP	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE33120
+	AT2G02480	SVP	AAA-type ATPase family protein	GSE33120
+	AT2G02560	SVP	cullin-associated and neddylation dissociated	GSE33120
+	AT2G03140	SVP	alpha/beta-Hydrolases superfamily protein	GSE33120
+	AT2G03150	SVP	ATP/GTP-binding protein family	GSE33120
+	AT2G03390	SVP	uvrB/uvrC motif-containing protein	GSE33120
+	AT2G04235	SVP		GSE33120
+	AT2G04270	SVP	RNAse E/G-like	GSE33120
+	AT2G04940	SVP	scramblase-related	GSE33120
+	AT2G07360	SVP	SH3 domain-containing protein	GSE33120
+	AT2G07690	SVP	Minichromosome maintenance (MCM2/3/5) family protein	GSE33120
+	AT2G07709	SVP		GSE33120
+	AT2G07725	SVP	Ribosomal L5P family protein	GSE33120
+	AT2G07728	SVP		GSE33120
+	AT2G11240	SVP	transposable element gene	GSE33120
+	AT2G16250	SVP	Leucine-rich repeat protein kinase family protein	GSE33120
+	AT2G16640	SVP	multimeric translocon complex in the outer envelope membrane 132	GSE33120
+	AT2G17110	SVP	Protein of unknown function (DUF630 and DUF632)	GSE33120
+	AT2G17270	SVP	phosphate transporter 3;3	GSE33120
+	AT2G17820	SVP	histidine kinase 1	GSE33120
+	AT2G17930	SVP	Phosphatidylinositol 3- and 4-kinase family protein with FAT domain	GSE33120
+	AT2G18960	SVP	H(+)-ATPase 1	GSE33120
+	AT2G19390	SVP		GSE33120
+	AT2G20780	SVP	Major facilitator superfamily protein	GSE33120
+	AT2G20890	SVP	photosystem II reaction center PSB29 protein	GSE33120
+	AT2G21380	SVP	Kinesin motor family protein	GSE33120
+	AT2G21390	SVP	Coatomer, alpha subunit	GSE33120
+	AT2G21440	SVP	RNA-binding (RRM/RBD/RNP motifs) family protein	GSE33120
+	AT2G22540	SVP	K-box region and MADS-box transcription factor family protein	GSE33120
+	AT2G24120	SVP	DNA/RNA polymerases superfamily protein	GSE33120
+	AT2G24150	SVP	heptahelical protein 3	GSE33120
+	AT2G24160	SVP		GSE33120
+	AT2G24490	SVP	replicon protein A2	GSE33120
+	AT2G24680	SVP	transcriptional factor B3 family protein	GSE33120
+	AT2G25050	SVP	Actin-binding FH2 (Formin Homology) protein	GSE33120
+	AT2G25850	SVP	poly(A) polymerase 2	GSE33120
+	AT2G26650	SVP	K+ transporter 1	GSE33120
+	AT2G26780	SVP	ARM repeat superfamily protein	GSE33120
+	AT2G26890	SVP	DNAJ heat shock N-terminal domain-containing protein	GSE33120
+	AT2G27040	SVP	Argonaute family protein	GSE33120
+	AT2G27120	SVP	DNA polymerase epsilon catalytic subunit	GSE33120
+	AT2G27950	SVP	Ring/U-Box superfamily protein	GSE33120
+	AT2G28290	SVP	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE33120
+	AT2G28760	SVP	UDP-XYL synthase 6	GSE33120
+	AT2G29040	SVP	Exostosin family protein	GSE33120
+	AT2G29940	SVP	pleiotropic drug resistance 3	GSE33120
+	AT2G31770	SVP	RING/U-box superfamily protein	GSE33120
+	AT2G31890	SVP	RAP	GSE33120
+	AT2G31970	SVP	DNA repair-recombination protein (RAD50)	GSE33120
+	AT2G32400	SVP	glutamate receptor 5	GSE33120
+	AT2G32780	SVP	ubiquitin-specific protease 1	GSE33120
+	AT2G32850	SVP	Protein kinase superfamily protein	GSE33120
+	AT2G32950	SVP	Transducin/WD40 repeat-like superfamily protein	GSE33120
+	AT2G33060	SVP	receptor like protein 27	GSE33120
+	AT2G33100	SVP	cellulose synthase-like D1	GSE33120
+	AT2G33170	SVP	Leucine-rich repeat receptor-like protein kinase family protein	GSE33120
+	AT2G33210	SVP	heat shock protein 60-2	GSE33120
+	AT2G33980	SVP	nudix hydrolase homolog 22	GSE33120
+	AT2G34260	SVP	transducin family protein / WD-40 repeat family protein	GSE33120
+	AT2G34357	SVP	ARM repeat superfamily protein	GSE33120
+	AT2G34660	SVP	multidrug resistance-associated protein 2	GSE33120
+	AT2G34680	SVP	Outer arm dynein light chain 1 protein	GSE33120
+	AT2G34710	SVP	Homeobox-leucine zipper family protein / lipid-binding START domain-containing protein	GSE33120
+	AT2G35340	SVP	helicase domain-containing protein	GSE33120
+	AT2G35630	SVP	ARM repeat superfamily protein	GSE33120
+	AT2G35690	SVP	acyl-CoA oxidase 5	GSE33120
+	AT2G36850	SVP	glucan synthase-like 8	GSE33120
+	AT2G37370	SVP		GSE33120
+	AT2G39030	SVP	Acyl-CoA N-acyltransferases (NAT) superfamily protein	GSE33120
+	AT2G39280	SVP	Ypt/Rab-GAP domain of gyp1p superfamily protein	GSE33120
+	AT2G39580	SVP		GSE33120
+	AT2G41220	SVP	glutamate synthase 2	GSE33120
+	AT2G41500	SVP	WD-40 repeat family protein / small nuclear ribonucleoprotein Prp4p-related	GSE33120
+	AT2G41700	SVP	ATP-binding cassette A1	GSE33120
+	AT2G41830	SVP	Uncharacterized protein	GSE33120
+	AT2G41900	SVP	CCCH-type zinc finger protein with ARM repeat domain	GSE33120
+	AT2G41970	SVP	Protein kinase superfamily protein	GSE33120
+	AT2G42010	SVP	phospholipase D beta 1	GSE33120
+	AT2G42730	SVP	F-box family protein	GSE33120
+	AT2G43070	SVP	SIGNAL PEPTIDE PEPTIDASE-LIKE 3	GSE33120
+	AT2G43200	SVP	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	GSE33120
+	AT2G43230	SVP	Protein kinase superfamily protein	GSE33120
+	AT2G43560	SVP	FKBP-like peptidyl-prolyl cis-trans isomerase family protein	GSE33120
+	AT2G44180	SVP	methionine aminopeptidase 2A	GSE33120
+	AT2G44590	SVP	DYNAMIN-like 1D	GSE33120
+	AT2G44980	SVP	SNF2 domain-containing protein / helicase domain-containing protein	GSE33120
+	AT2G45430	SVP	AT-hook motif nuclear-localized protein 22	GSE33120
+	AT2G46190	SVP	Mitochondrial glycoprotein family protein	GSE33120
+	AT2G46192	SVP	other RNA	GSE33120
+	AT2G46340	SVP	SPA (suppressor of phyA-105) protein family	GSE33120
+	AT2G46560	SVP	transducin family protein / WD-40 repeat family protein	GSE33120
+	AT2G47115	SVP		GSE33120
+	AT2G47410	SVP	WD40/YVTN repeat-like-containing domain;Bromodomain	GSE33120
+	AT2G47680	SVP	zinc finger (CCCH type) helicase family protein	GSE33120
+	AT2G47830	SVP	Cation efflux family protein	GSE33120
+	AT2G48100	SVP	Exonuclease family protein	GSE33120
+	AT2G48110	SVP	reduced epidermal fluorescence 4	GSE33120
+	AT3G01060	SVP		GSE33120
+	AT3G01320	SVP	SIN3-like 1	GSE33120
+	AT3G01370	SVP	CRM family member 2	GSE33120
+	AT3G01460	SVP	methyl-CPG-binding domain 9	GSE33120
+	AT3G01610	SVP	cell division cycle 48C	GSE33120
+	AT3G01680	SVP		GSE33120
+	AT3G02060	SVP	DEAD/DEAH box helicase, putative	GSE33120
+	AT3G02090	SVP	Insulinase (Peptidase family M16) protein	GSE33120
+	AT3G02130	SVP	receptor-like protein kinase 2	GSE33120
+	AT3G02260	SVP	auxin transport protein (BIG)	GSE33120
+	AT3G02330	SVP	Pentatricopeptide repeat (PPR) superfamily protein	GSE33120
+	AT3G02490	SVP	Pentatricopeptide repeat (PPR) superfamily protein	GSE33120
+	AT3G04130	SVP	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE33120
+	AT3G04610	SVP	RNA-binding KH domain-containing protein	GSE33120
+	AT3G04680	SVP	CLP-similar protein 3	GSE33120
+	AT3G04740	SVP	RNA polymerase II transcription mediators	GSE33120
+	AT3G05090	SVP	Transducin/WD40 repeat-like superfamily protein	GSE33120
+	AT3G05680	SVP	embryo defective 2016	GSE33120
+	AT3G05850	SVP	transposable element gene	GSE33120
+	AT3G06620	SVP	PAS domain-containing protein tyrosine kinase family protein	GSE33120
+	AT3G06630	SVP	protein kinase family protein	GSE33120
+	AT3G06640	SVP	PAS domain-containing protein tyrosine kinase family protein	GSE33120
+	AT3G06810	SVP	acyl-CoA dehydrogenase-related	GSE33120
+	AT3G07820	SVP	Pectin lyase-like superfamily protein	GSE33120
+	AT3G08560	SVP	vacuolar H+-ATPase subunit E isoform 2	GSE33120
+	AT3G09040	SVP	Pentatricopeptide repeat (PPR) superfamily protein	GSE33120
+	AT3G09660	SVP	minichromosome maintenance 8	GSE33120
+	AT3G09690	SVP	alpha/beta-Hydrolases superfamily protein	GSE33120
+	AT3G09840	SVP	cell division cycle 48	GSE33120
+	AT3G10380	SVP	subunit of exocyst complex 8	GSE33120
+	AT3G10390	SVP	Flavin containing amine oxidoreductase family protein	GSE33120
+	AT3G11350	SVP	Pentatricopeptide repeat (PPR) superfamily protein	GSE33120
+	AT3G11400	SVP	eukaryotic translation initiation factor 3G1	GSE33120
+	AT3G11960	SVP	Cleavage and polyadenylation specificity factor (CPSF) A subunit protein	GSE33120
+	AT3G11964	SVP	RNA binding;RNA binding	GSE33120
+	AT3G12280	SVP	retinoblastoma-related 1	GSE33120
+	AT3G12580	SVP	heat shock protein 70	GSE33120
+	AT3G12770	SVP	mitochondrial editing factor  22	GSE33120
+	AT3G13100	SVP	multidrug resistance-associated protein 7	GSE33120
+	AT3G13200	SVP	Cwf15 / Cwc15 cell cycle control family protein	GSE33120
+	AT3G13210	SVP	crooked neck protein, putative / cell cycle protein, putative	GSE33120
+	AT3G13330	SVP	proteasome activating protein 200	GSE33120
+	AT3G13340	SVP	Transducin/WD40 repeat-like superfamily protein	GSE33120
+	AT3G13990	SVP	Kinase-related protein of unknown function (DUF1296)	GSE33120
+	AT3G14270	SVP	phosphatidylinositol-4-phosphate 5-kinase family protein	GSE33120
+	AT3G14300	SVP	pectinesterase family protein	GSE33120
+	AT3G14470	SVP	NB-ARC domain-containing disease resistance protein	GSE33120
+	AT3G14570	SVP	glucan synthase-like 4	GSE33120
+	AT3G14690	SVP	cytochrome P450, family 72, subfamily A, polypeptide 15	GSE33120
+	AT3G15020	SVP	Lactate/malate dehydrogenase family protein	GSE33120
+	AT3G15180	SVP	ARM repeat superfamily protein	GSE33120
+	AT3G16320	SVP	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE33120
+	AT3G16480	SVP	mitochondrial processing peptidase alpha subunit	GSE33120
+	AT3G16580	SVP	F-box and associated interaction domains-containing protein	GSE33120
+	AT3G16650	SVP	Transducin/WD40 repeat-like superfamily protein	GSE33120
+	AT3G17205	SVP	ubiquitin protein ligase 6	GSE33120
+	AT3G17450	SVP	hAT dimerisation domain-containing protein	GSE33120
+	AT3G17850	SVP	Protein kinase superfamily protein	GSE33120
+	AT3G17920	SVP	Outer arm dynein light chain 1 protein	GSE33120
+	AT3G18540	SVP		GSE33120
+	AT3G18660	SVP	plant glycogenin-like starch initiation protein 1	GSE33120
+	AT3G18730	SVP	tetratricopeptide repeat (TPR)-containing protein	GSE33120
+	AT3G18890	SVP	NAD(P)-binding Rossmann-fold superfamily protein	GSE33120
+	AT3G19080	SVP	SWIB complex BAF60b domain-containing protein	GSE33120
+	AT3G19420	SVP	PTEN 2	GSE33120
+	AT3G19490	SVP	sodium:hydrogen antiporter 1	GSE33120
+	AT3G19570	SVP	Family of unknown function (DUF566)	GSE33120
+	AT3G19960	SVP	myosin 1	GSE33120
+	AT3G20080	SVP	cytochrome P450, family 705, subfamily A, polypeptide 15	GSE33120
+	AT3G20440	SVP	Alpha amylase family protein	GSE33120
+	AT3G20475	SVP	MUTS-homologue 5	GSE33120
+	AT3G21430	SVP	DNA binding	GSE33120
+	AT3G21720	SVP	isocitrate lyase	GSE33120
+	AT3G22640	SVP	cupin family protein	GSE33120
+	AT3G24010	SVP	RING/FYVE/PHD zinc finger superfamily protein	GSE33120
+	AT3G26570	SVP	phosphate transporter 2;1	GSE33120
+	AT3G26850	SVP	histone-lysine N-methyltransferases	GSE33120
+	AT3G26950	SVP		GSE33120
+	AT3G27020	SVP	YELLOW STRIPE like 6	GSE33120
+	AT3G27670	SVP	ARM repeat superfamily protein	GSE33120
+	AT3G27960	SVP	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE33120
+	AT3G28730	SVP	high mobility group	GSE33120
+	AT3G29160	SVP	SNF1 kinase homolog 11	GSE33120
+	AT3G30838	SVP	transposable element gene	GSE33120
+	AT3G33076	SVP	transposable element gene	GSE33120
+	AT3G36659	SVP	Plant invertase/pectin methylesterase inhibitor superfamily protein	GSE33120
+	AT3G42783	SVP	transposable element gene	GSE33120
+	AT3G43150	SVP		GSE33120
+	AT3G43300	SVP	HOPM interactor 7	GSE33120
+	AT3G44600	SVP	cyclophilin71	GSE33120
+	AT3G44880	SVP	Pheophorbide a oxygenase family protein with Rieske [2Fe-2S] domain	GSE33120
+	AT3G45630	SVP	RNA binding (RRM/RBD/RNP motifs) family protein	GSE33120
+	AT3G46280	SVP	protein kinase-related	GSE33120
+	AT3G46920	SVP	Protein kinase superfamily protein with octicosapeptide/Phox/Bem1p domain	GSE33120
+	AT3G46960	SVP	RNA helicase, ATP-dependent, SK12/DOB1 protein	GSE33120
+	AT3G47660	SVP	Regulator of chromosome condensation (RCC1) family protein	GSE33120
+	AT3G47750	SVP	ATP binding cassette subfamily A4	GSE33120
+	AT3G48110	SVP	glycine-tRNA ligases	GSE33120
+	AT3G48190	SVP	ataxia-telangiectasia mutated	GSE33120
+	AT3G48770	SVP	DNA binding;ATP binding	GSE33120
+	AT3G48870	SVP	Clp ATPase	GSE33120
+	AT3G49240	SVP	Pentatricopeptide repeat (PPR) superfamily protein	GSE33120
+	AT3G49730	SVP	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE33120
+	AT3G50010	SVP	Cysteine/Histidine-rich C1 domain family protein	GSE33120
+	AT3G50380	SVP	Protein of unknown function (DUF1162)	GSE33120
+	AT3G51070	SVP	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein	GSE33120
+	AT3G51075	SVP	other RNA	GSE33120
+	AT3G51120	SVP	DNA binding;zinc ion binding;nucleic acid binding;nucleic acid binding	GSE33120
+	AT3G51150	SVP	ATP binding microtubule motor family protein	GSE33120
+	AT3G51238	SVP	other RNA	GSE33120
+	AT3G51240	SVP	flavanone 3-hydroxylase	GSE33120
+	AT3G51620	SVP	PAP/OAS1 substrate-binding domain superfamily	GSE33120
+	AT3G51680	SVP	NAD(P)-binding Rossmann-fold superfamily protein	GSE33120
+	AT3G51930	SVP	Transducin/WD40 repeat-like superfamily protein	GSE33120
+	AT3G52140	SVP	tetratricopeptide repeat (TPR)-containing protein	GSE33120
+	AT3G52160	SVP	3-ketoacyl-CoA synthase 15	GSE33120
+	AT3G53130	SVP	Cytochrome P450 superfamily protein	GSE33120
+	AT3G53140	SVP	O-methyltransferase family protein	GSE33120
+	AT3G53930	SVP	Protein kinase superfamily protein	GSE33120
+	AT3G54460	SVP	SNF2 domain-containing protein / helicase domain-containing protein / F-box family protein	GSE33120
+	AT3G54750	SVP		GSE33120
+	AT3G54800	SVP	Pleckstrin homology (PH) and lipid-binding START domains-containing protein	GSE33120
+	AT3G55370	SVP	OBF-binding protein 3	GSE33120
+	AT3G56920	SVP	DHHC-type zinc finger family protein	GSE33120
+	AT3G57200	SVP		GSE33120
+	AT3G57940	SVP	Domain of unknown function (DUF1726) ;Putative ATPase (DUF699)	GSE33120
+	AT3G58510	SVP	DEA(D/H)-box RNA helicase family protein	GSE33120
+	AT3G58530	SVP	RNI-like superfamily protein	GSE33120
+	AT3G59410	SVP	protein kinase family protein	GSE33120
+	AT3G59550	SVP	Rad21/Rec8-like family protein	GSE33120
+	AT3G59770	SVP	sacI homology domain-containing protein / WW domain-containing protein	GSE33120
+	AT3G60040	SVP	F-box family protein	GSE33120
+	AT3G60160	SVP	multidrug resistance-associated protein 9	GSE33120
+	AT3G61150	SVP	homeodomain GLABROUS 1	GSE33120
+	AT3G61300	SVP	C2 calcium/lipid-binding plant phosphoribosyltransferase family protein	GSE33120
+	AT3G62010	SVP		GSE33120
+	AT3G62770	SVP	Transducin/WD40 repeat-like superfamily protein	GSE33120
+	AT3G63110	SVP	isopentenyltransferase 3	GSE33120
+	AT3G63330	SVP		GSE33120
+	AT3G63340	SVP	Protein phosphatase 2C family protein	GSE33120
+	AT3G63430	SVP		GSE33120
+	AT3G63460	SVP	transducin family protein / WD-40 repeat family protein	GSE33120
+	AT4G00090	SVP	Transducin/WD40 repeat-like superfamily protein	GSE33120
+	AT4G00450	SVP	RNA polymerase II transcription mediators	GSE33120
+	AT4G00700	SVP	C2 calcium/lipid-binding plant phosphoribosyltransferase family protein	GSE33120
+	AT4G00770	SVP		GSE33120
+	AT4G01020	SVP	helicase domain-containing protein / IBR domain-containing protein / zinc finger protein-related	GSE33120
+	AT4G01570	SVP	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE33120
+	AT4G01660	SVP	ABC transporter 1	GSE33120
+	AT4G01690	SVP	Flavin containing amine oxidoreductase family	GSE33120
+	AT4G01860	SVP	Transducin family protein / WD-40 repeat family protein	GSE33120
+	AT4G02030	SVP	Vps51/Vps67 family (components of vesicular transport) protein	GSE33120
+	AT4G02420	SVP	Concanavalin A-like lectin protein kinase family protein	GSE33120
+	AT4G02480	SVP	AAA-type ATPase family protein	GSE33120
+	AT4G02510	SVP	translocon at the outer envelope membrane of chloroplasts 159	GSE33120
+	AT4G03190	SVP	GRR1-like protein 1	GSE33120
+	AT4G03550	SVP	glucan synthase-like 5	GSE33120
+	AT4G04180	SVP	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE33120
+	AT4G04920	SVP	sensitive to freezing 6	GSE33120
+	AT4G04940	SVP	transducin family protein / WD-40 repeat family protein	GSE33120
+	AT4G04970	SVP	glucan synthase-like 1	GSE33120
+	AT4G05470	SVP	RNI-like superfamily protein	GSE33120
+	AT4G06491	SVP	transposable element gene	GSE33120
+	AT4G09584	SVP		GSE33120
+	AT4G09750	SVP	NAD(P)-binding Rossmann-fold superfamily protein	GSE33120
+	AT4G10120	SVP	Sucrose-phosphate synthase family protein	GSE33120
+	AT4G10540	SVP	Subtilase family protein	GSE33120
+	AT4G10550	SVP	Subtilase family protein	GSE33120
+	AT4G10710	SVP	global transcription factor C	GSE33120
+	AT4G11720	SVP	hapless 2	GSE33120
+	AT4G11850	SVP	phospholipase D gamma 1	GSE33120
+	AT4G13260	SVP	Flavin-binding monooxygenase family protein	GSE33120
+	AT4G13280	SVP	terpenoid synthase 12	GSE33120
+	AT4G13610	SVP	DNA (cytosine-5-)-methyltransferase family protein	GSE33120
+	AT4G13750	SVP	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase family protein	GSE33120
+	AT4G14070	SVP	acyl-activating enzyme 15	GSE33120
+	AT4G14150	SVP	phragmoplast-associated kinesin-related protein 1	GSE33120
+	AT4G14760	SVP	kinase interacting (KIP1-like) family protein	GSE33120
+	AT4G14810	SVP		GSE33120
+	AT4G14811	SVP	MIR780a; miRNA	GSE33120
+	AT4G14815	SVP	Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin superfamily protein	GSE33120
+	AT4G14850	SVP	Pentatricopeptide repeat (PPR) superfamily protein	GSE33120
+	AT4G14900	SVP	FRIGIDA-like protein	GSE33120
+	AT4G14970	SVP		GSE33120
+	AT4G15215	SVP	pleiotropic drug resistance 13	GSE33120
+	AT4G15415	SVP	Protein phosphatase 2A regulatory B subunit family protein	GSE33120
+	AT4G15530	SVP	pyruvate orthophosphate dikinase	GSE33120
+	AT4G15570	SVP	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE33120
+	AT4G15730	SVP	CW-type Zinc Finger	GSE33120
+	AT4G17140	SVP	pleckstrin homology (PH) domain-containing protein	GSE33120
+	AT4G17950	SVP	AT hook motif DNA-binding family protein	GSE33120
+	AT4G18050	SVP	P-glycoprotein  9	GSE33120
+	AT4G18750	SVP	Pentatricopeptide repeat (PPR) superfamily protein	GSE33120
+	AT4G20140	SVP	Leucine-rich repeat transmembrane protein kinase	GSE33120
+	AT4G21100	SVP	damaged DNA binding protein 1B	GSE33120
+	AT4G21110	SVP	G10 family protein	GSE33120
+	AT4G21520	SVP	Transducin/WD40 repeat-like superfamily protein	GSE33120
+	AT4G21640	SVP	Subtilase family protein	GSE33120
+	AT4G21770	SVP	Pseudouridine synthase family protein	GSE33120
+	AT4G21820	SVP	binding;calmodulin binding	GSE33120
+	AT4G22240	SVP	Plastid-lipid associated protein PAP / fibrillin family protein	GSE33120
+	AT4G22970	SVP	homolog of separase	GSE33120
+	AT4G23990	SVP	cellulose synthase like G3	GSE33120
+	AT4G24200	SVP	Transcription elongation factor (TFIIS) family protein	GSE33120
+	AT4G24330	SVP	Protein of unknown function (DUF1682)	GSE33120
+	AT4G24520	SVP	P450 reductase 1	GSE33120
+	AT4G24680	SVP	modifier of snc1	GSE33120
+	AT4G25270	SVP	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE33120
+	AT4G25880	SVP	pumilio 6	GSE33120
+	AT4G25960	SVP	P-glycoprotein 2	GSE33120
+	AT4G26170	SVP		GSE33120
+	AT4G26510	SVP	uridine kinase-like 4	GSE33120
+	AT4G26580	SVP	RING/U-box superfamily protein	GSE33120
+	AT4G26590	SVP	oligopeptide transporter 5	GSE33120
+	AT4G27910	SVP	SET domain protein 16	GSE33120
+	AT4G28490	SVP	Leucine-rich receptor-like protein kinase family protein	GSE33120
+	AT4G28520	SVP	cruciferin 3	GSE33120
+	AT4G28811	SVP	basic helix-loop-helix (bHLH) DNA-binding superfamily protein	GSE33120
+	AT4G28860	SVP	casein kinase I-like 4	GSE33120
+	AT4G29000	SVP	Tesmin/TSO1-like CXC domain-containing protein	GSE33120
+	AT4G29730	SVP	nucleosome/chromatin assembly factor group C5	GSE33120
+	AT4G29920	SVP	Double Clp-N motif-containing P-loop nucleoside triphosphate hydrolases superfamily protein	GSE33120
+	AT4G30190	SVP	H(+)-ATPase 2	GSE33120
+	AT4G30790	SVP		GSE33120
+	AT4G30920	SVP	Cytosol aminopeptidase family protein	GSE33120
+	AT4G31160	SVP	DDB1-CUL4 associated factor 1	GSE33120
+	AT4G31340	SVP	myosin heavy chain-related	GSE33120
+	AT4G31480	SVP	Coatomer, beta subunit	GSE33120
+	AT4G31570	SVP		GSE33120
+	AT4G31615	SVP	Transcriptional factor B3 family protein	GSE33120
+	AT4G31900	SVP	chromatin remodeling factor, putative	GSE33120
+	AT4G32010	SVP	HSI2-like 1	GSE33120
+	AT4G32360	SVP	Pyridine nucleotide-disulphide oxidoreductase family protein	GSE33120
+	AT4G32500	SVP	K+ transporter 5	GSE33120
+	AT4G33210	SVP	F-box family protein	GSE33120
+	AT4G33270	SVP	Transducin family protein / WD-40 repeat family protein	GSE33120
+	AT4G33520	SVP	P-type ATP-ase 1	GSE33120
+	AT4G33860	SVP	Glycosyl hydrolase family 10 protein	GSE33120
+	AT4G34890	SVP	xanthine dehydrogenase 1	GSE33120
+	AT4G35010	SVP	beta-galactosidase 11	GSE33120
+	AT4G35800	SVP	RNA polymerase II large subunit	GSE33120
+	AT4G35830	SVP	aconitase 1	GSE33120
+	AT4G36080	SVP	phosphotransferases, alcohol group as acceptor;binding;inositol or phosphatidylinositol kinases	GSE33120
+	AT4G36140	SVP	disease resistance protein (TIR-NBS-LRR class), putative	GSE33120
+	AT4G36210	SVP	Protein of unknown function (DUF726)	GSE33120
+	AT4G38350	SVP	Patched family protein	GSE33120
+	AT4G38600	SVP	HEAT repeat ;HECT-domain (ubiquitin-transferase)	GSE33120
+	AT4G38890	SVP	FMN-linked oxidoreductases superfamily protein	GSE33120
+	AT4G38950	SVP	ATP binding microtubule motor family protein	GSE33120
+	AT4G39050	SVP	Kinesin motor family protein	GSE33120
+	AT4G39400	SVP	Leucine-rich receptor-like protein kinase family protein	GSE33120
+	AT4G39690	SVP		GSE33120
+	AT5G01970	SVP		GSE33120
+	AT5G01980	SVP	RING/U-box superfamily protein	GSE33120
+	AT5G02370	SVP	ATP binding microtubule motor family protein	GSE33120
+	AT5G02430	SVP	Transducin/WD40 repeat-like superfamily protein	GSE33120
+	AT5G02500	SVP	heat shock cognate protein 70-1	GSE33120
+	AT5G02830	SVP	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE33120
+	AT5G03010	SVP	Galactose oxidase/kelch repeat superfamily protein	GSE33120
+	AT5G03360	SVP	DC1 domain-containing protein	GSE33120
+	AT5G03435	SVP	Ca2+dependent plant phosphoribosyltransferase family protein	GSE33120
+	AT5G04480	SVP	UDP-Glycosyltransferase superfamily protein	GSE33120
+	AT5G04560	SVP	HhH-GPD base excision DNA repair family protein	GSE33120
+	AT5G04620	SVP	biotin F	GSE33120
+	AT5G04720	SVP	ADR1-like 2	GSE33120
+	AT5G05480	SVP	Peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase A protein	GSE33120
+	AT5G05490	SVP	Rad21/Rec8-like family protein	GSE33120
+	AT5G05560	SVP	E3 ubiquitin ligase, putative	GSE33120
+	AT5G06120	SVP	ARM repeat superfamily protein	GSE33120
+	AT5G06810	SVP	Mitochondrial transcription termination factor family protein	GSE33120
+	AT5G07660	SVP	structural maintenance of chromosomes 6A	GSE33120
+	AT5G07770	SVP	Actin-binding FH2 protein	GSE33120
+	AT5G07810	SVP	SNF2 domain-containing protein / helicase domain-containing protein / HNH endonuclease domain-containing protein	GSE33120
+	AT5G07970	SVP	dentin sialophosphoprotein-related	GSE33120
+	AT5G08020	SVP	RPA70-kDa subunit B	GSE33120
+	AT5G08160	SVP	serine/threonine protein kinase 3	GSE33120
+	AT5G08230	SVP	Tudor/PWWP/MBT domain-containing protein	GSE33120
+	AT5G08450	SVP		GSE33120
+	AT5G08480	SVP	VQ motif-containing protein	GSE33120
+	AT5G08490	SVP	Tetratricopeptide repeat (TPR)-like superfamily protein	GSE33120
+	AT5G08580	SVP	Calcium-binding EF hand family protein	GSE33120
+	AT5G09400	SVP	K+ uptake permease 7	GSE33120
+	AT5G10380	SVP	RING/U-box superfamily protein	GSE33120
+	AT5G10490	SVP	MSCS-like 2	GSE33120
+	AT5G10540	SVP	Zincin-like metalloproteases family protein	GSE33120
+	AT5G10720	SVP	histidine kinase 5	GSE33120
+	AT5G10730	SVP	NAD(P)-binding Rossmann-fold superfamily protein	GSE33120
+	AT5G11430	SVP	SPOC domain / Transcription elongation factor S-II protein	GSE33120
+	AT5G11530	SVP	embryonic flower 1 (EMF1)	GSE33120
+	AT5G11560	SVP	catalytics	GSE33120
+	AT5G13010	SVP	RNA helicase family protein	GSE33120
+	AT5G13480	SVP	Transducin/WD40 repeat-like superfamily protein	GSE33120
+	AT5G13520	SVP	peptidase M1 family protein	GSE33120
+	AT5G13530	SVP	protein kinases;ubiquitin-protein ligases	GSE33120
+	AT5G13630	SVP	magnesium-chelatase subunit chlH, chloroplast, putative / Mg-protoporphyrin IX chelatase, putative (CHLH)	GSE33120
+	AT5G13640	SVP	phospholipid:diacylglycerol acyltransferase	GSE33120
+	AT5G13650	SVP	elongation factor family protein	GSE33120
+	AT5G13680	SVP	IKI3 family protein	GSE33120
+	AT5G14680	SVP	Adenine nucleotide alpha hydrolases-like superfamily protein	GSE33120
+	AT5G15410	SVP	Cyclic nucleotide-regulated ion channel family protein	GSE33120
+	AT5G15540	SVP	PHD finger family protein	GSE33120
+	AT5G15580	SVP	longifolia1	GSE33120
+	AT5G15680	SVP	ARM repeat superfamily protein	GSE33120
+	AT5G15700	SVP	DNA/RNA polymerases superfamily protein	GSE33120
+	AT5G15920	SVP	structural maintenance of chromosomes 5	GSE33120
+	AT5G16780	SVP	SART-1 family	GSE33120
+	AT5G17750	SVP	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE33120
+	AT5G17890	SVP	DA1-related protein 4	GSE33120
+	AT5G18980	SVP	ARM repeat superfamily protein	GSE33120
+	AT5G19420	SVP	Regulator of chromosome condensation (RCC1) family with FYVE zinc finger domain	GSE33120
+	AT5G20040	SVP	isopentenyltransferase 9	GSE33120
+	AT5G20070	SVP	nudix hydrolase homolog 19	GSE33120
+	AT5G20200	SVP	nucleoporin-related	GSE33120
+	AT5G20220	SVP	zinc knuckle (CCHC-type) family protein	GSE33120
+	AT5G20280	SVP	sucrose phosphate synthase 1F	GSE33120
+	AT5G20410	SVP	monogalactosyldiacylglycerol synthase 2	GSE33120
+	AT5G20610	SVP		GSE33120
+	AT5G20870	SVP	O-Glycosyl hydrolases family 17 protein	GSE33120
+	AT5G21040	SVP	F-box protein 2	GSE33120
+	AT5G23150	SVP	Tudor/PWWP/MBT domain-containing protein	GSE33120
+	AT5G24240	SVP	Phosphatidylinositol 3- and 4-kinase ;Ubiquitin family protein	GSE33120
+	AT5G24350	SVP		GSE33120
+	AT5G24740	SVP	Protein of unknown function (DUF1162)	GSE33120
+	AT5G25930	SVP	Protein kinase family protein with leucine-rich repeat domain	GSE33120
+	AT5G26870	SVP		GSE33120
+	AT5G27030	SVP	TOPLESS-related 3	GSE33120
+	AT5G27220	SVP	Frigida-like protein	GSE33120
+	AT5G27230	SVP	Frigida-like protein	GSE33120
+	AT5G27410	SVP	D-aminoacid aminotransferase-like PLP-dependent enzymes superfamily protein	GSE33120
+	AT5G27890	SVP		GSE33120
+	AT5G27895	SVP	transposable element gene	GSE33120
+	AT5G27970	SVP	ARM repeat superfamily protein	GSE33120
+	AT5G30420	SVP		GSE33120
+	AT5G35076	SVP	transposable element gene	GSE33120
+	AT5G35180	SVP	Protein of unknown function (DUF1336)	GSE33120
+	AT5G36220	SVP	cytochrome p450 81d1	GSE33120
+	AT5G37060	SVP	cation/H+ exchanger 24	GSE33120
+	AT5G37340	SVP	ZPR1 zinc-finger domain protein	GSE33120
+	AT5G38280	SVP	PR5-like receptor kinase	GSE33120
+	AT5G38393	SVP		GSE33120
+	AT5G38820	SVP	Transmembrane amino acid transporter family protein	GSE33120
+	AT5G38880	SVP		GSE33120
+	AT5G39500	SVP	GNOM-like 1	GSE33120
+	AT5G40480	SVP	embryo defective 3012	GSE33120
+	AT5G42140	SVP	Regulator of chromosome condensation (RCC1) family with FYVE zinc finger domain	GSE33120
+	AT5G42620	SVP	metalloendopeptidases;zinc ion binding	GSE33120
+	AT5G42940	SVP	RING/U-box superfamily protein	GSE33120
+	AT5G43120	SVP	ARM-repeat/Tetratricopeptide repeat (TPR)-like protein	GSE33120
+	AT5G43400	SVP	Uncharacterised conserved protein UCP015417,  vWA	GSE33120
+	AT5G43810	SVP	Stabilizer of iron transporter SufD / Polynucleotidyl transferase	GSE33120
+	AT5G44180	SVP	Homeodomain-like transcriptional regulator	GSE33120
+	AT5G44440	SVP	FAD-binding Berberine family protein	GSE33120
+	AT5G44750	SVP	DNA-directed DNA polymerases	GSE33120
+	AT5G44800	SVP	chromatin remodeling 4	GSE33120
+	AT5G45040	SVP	Cytochrome c	GSE33120
+	AT5G45060	SVP	Disease resistance protein (TIR-NBS-LRR class) family	GSE33120
+	AT5G45200	SVP	Disease resistance protein (TIR-NBS-LRR class) family	GSE33120
+	AT5G45250	SVP	Disease resistance protein (TIR-NBS-LRR class) family	GSE33120
+	AT5G45260	SVP	Disease resistance protein (TIR-NBS-LRR class)	GSE33120
+	AT5G46280	SVP	Minichromosome maintenance (MCM2/3/5) family protein	GSE33120
+	AT5G47010	SVP	RNA helicase, putative	GSE33120
+	AT5G47590	SVP	Heat shock protein HSP20/alpha crystallin family	GSE33120
+	AT5G47690	SVP	binding	GSE33120
+	AT5G47720	SVP	Thiolase family protein	GSE33120
+	AT5G48060	SVP	C2 calcium/lipid-binding plant phosphoribosyltransferase family protein	GSE33120
+	AT5G48360	SVP	Actin-binding FH2 (formin homology 2) family protein	GSE33120
+	AT5G48440	SVP	FAD-dependent oxidoreductase family protein	GSE33120
+	AT5G48965	SVP	transposable element gene	GSE33120
+	AT5G48970	SVP	Mitochondrial substrate carrier family protein	GSE33120
+	AT5G49430	SVP	WD40/YVTN repeat-like-containing domain;Bromodomain	GSE33120
+	AT5G49650	SVP	xylulose kinase-2	GSE33120
+	AT5G49770	SVP	Leucine-rich repeat protein kinase family protein	GSE33120
+	AT5G51200	SVP	Protein of unknown function (DUF3414)	GSE33120
+	AT5G51690	SVP	1-amino-cyclopropane-1-carboxylate synthase 12	GSE33120
+	AT5G51970	SVP	GroES-like zinc-binding alcohol dehydrogenase family protein	GSE33120
+	AT5G52180	SVP		GSE33120
+	AT5G52250	SVP	Transducin/WD40 repeat-like superfamily protein	GSE33120
+	AT5G52530	SVP	dentin sialophosphoprotein-related	GSE33120
+	AT5G52820	SVP	WD-40 repeat family protein / notchless protein, putative	GSE33120
+	AT5G54090	SVP	DNA mismatch repair protein MutS, type 2	GSE33120
+	AT5G54450	SVP	Protein of unknown function (DUF295)	GSE33120
+	AT5G54670	SVP	kinesin 3	GSE33120
+	AT5G54820	SVP	F-box/RNI-like superfamily protein	GSE33120
+	AT5G55600	SVP	agenet domain-containing protein / bromo-adjacent homology (BAH) domain-containing protein	GSE33120
+	AT5G57160	SVP	DNA ligase IV	GSE33120
+	AT5G57250	SVP	Pentatricopeptide repeat (PPR) superfamily protein	GSE33120
+	AT5G57320	SVP	villin, putative	GSE33120
+	AT5G57360	SVP	Galactose oxidase/kelch repeat superfamily protein	GSE33120
+	AT5G58030	SVP	Transport protein particle (TRAPP) component	GSE33120
+	AT5G58100	SVP		GSE33120
+	AT5G58140	SVP	phototropin 2	GSE33120
+	AT5G58160	SVP	actin binding	GSE33120
+	AT5G58480	SVP	O-Glycosyl hydrolases family 17 protein	GSE33120
+	AT5G58510	SVP		GSE33120
+	AT5G58540	SVP	Protein kinase superfamily protein	GSE33120
+	AT5G59380	SVP	methyl-CPG-binding domain 6	GSE33120
+	AT5G60070	SVP	ankyrin repeat family protein	GSE33120
+	AT5G60250	SVP	zinc finger (C3HC4-type RING finger) family protein	GSE33120
+	AT5G60410	SVP	DNA-binding protein with MIZ/SP-RING zinc finger, PHD-finger and SAP domain	GSE33120
+	AT5G60870	SVP	Regulator of chromosome condensation (RCC1) family protein	GSE33120
+	AT5G60930	SVP	P-loop containing nucleoside triphosphate hydrolases superfamily protein	GSE33120
+	AT5G60940	SVP	Transducin/WD40 repeat-like superfamily protein	GSE33120
+	AT5G61060	SVP	histone deacetylase 5	GSE33120
+	AT5G61140	SVP	U5 small nuclear ribonucleoprotein helicase	GSE33120
+	AT5G61500	SVP	autophagy 3 (APG3)	GSE33120
+	AT5G61700	SVP	ABC2 homolog 16	GSE33120
+	AT5G62090	SVP	SEUSS-like 2	GSE33120
+	AT5G62310	SVP	AGC (cAMP-dependent, cGMP-dependent and protein kinase C) kinase family protein	GSE33120
+	AT5G62410	SVP	structural maintenance of chromosomes 2	GSE33120
+	AT5G63840	SVP	Glycosyl hydrolases family 31  protein	GSE33120
+	AT5G64270	SVP	splicing factor, putative	GSE33120
+	AT5G64390	SVP	RNA-binding KH domain-containing protein	GSE33120
+	AT5G64930	SVP	CPR5 protein, putative	GSE33120
+	AT5G65750	SVP	2-oxoglutarate dehydrogenase, E1 component	GSE33120
+	AT5G66010	SVP	RNA-binding (RRM/RBD/RNP motifs) family protein	GSE33120
+	AT5G66850	SVP	mitogen-activated protein kinase kinase kinase 5	GSE33120
